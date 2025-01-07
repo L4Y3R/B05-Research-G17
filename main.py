@@ -1,10 +1,44 @@
-import TemperatureStudy
+import asyncio
+from pathlib import Path
+from QuestionGenerator import create_sample_questions
+from TemperatureStudyTest import TemperatureStudy
+
+async def test_connection():
+    """Test the Fireworks API connection with a simple query"""
+    try:
+        study = TemperatureStudy()
+        result = await study.run_temperature_test("Say hello", 0.0)
+        print("API Connection Test Successful!")
+        print("Response:", result["response"])
+        return True
+    except Exception as e:
+        print("API Connection Test Failed!")
+        print("Error:", str(e))
+        return False
 
 async def main():
+
+    # First test the connection
+    if not await test_connection():
+        print("Exiting due to connection test failure")
+        return
+        
+    # Create sample questions if they don't exist
+    if not Path("questions").exists():
+        create_sample_questions()
+        
+    # Create sample questions
+    create_sample_questions()
+    
+    # Run the study
     study = TemperatureStudy()
     results = await study.run_study()
-    analysis = study.analyze_results(results)
+    analysis, consistency = study.analyze_results(results)
+    
+    print("\nAnalysis Results:")
     print(analysis)
+    print("\nResponse Consistency (number of unique responses):")
+    print(consistency)
 
 if __name__ == "__main__":
     asyncio.run(main())

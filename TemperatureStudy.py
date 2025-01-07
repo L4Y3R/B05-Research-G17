@@ -126,6 +126,4 @@ class TemperatureStudy:
         }).round(3)
         
         # Calculate response consistency
-        # You might want to implement custom metrics here based on your needs
-        
         return analysis
