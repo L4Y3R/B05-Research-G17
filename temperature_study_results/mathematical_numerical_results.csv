@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,100,0.867,What is 25 * 4?,100,mathematical_numerical
+0.1,100,2.602,What is 25 * 4?,100,mathematical_numerical
+0.2,100,0.686,What is 25 * 4?,100,mathematical_numerical
+0.3,100,1.355,What is 25 * 4?,100,mathematical_numerical
+0.4,100,0.807,What is 25 * 4?,100,mathematical_numerical
+0.5,100.0,0.652,What is 25 * 4?,100,mathematical_numerical
+0.6,100,0.833,What is 25 * 4?,100,mathematical_numerical
+0.7,100,1.555,What is 25 * 4?,100,mathematical_numerical
+0.8,0,1.44,What is 25 * 4?,100,mathematical_numerical
+0.9,25,2.108,What is 25 * 4?,100,mathematical_numerical
+1.0,100,0.697,What is 25 * 4?,100,mathematical_numerical

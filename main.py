@@ -4,12 +4,11 @@ from QuestionGenerator import create_sample_questions
 from TemperatureStudyTest import TemperatureStudy
 
 async def test_connection():
-    """Test the Fireworks API connection with a simple query"""
+    """Test the API connection with a simple query"""
     try:
         study = TemperatureStudy()
         result = await study.run_temperature_test("Say hello", 0.0)
         print("API Connection Test Successful!")
-        print("Response:", result["response"])
         return True
     except Exception as e:
         print("API Connection Test Failed!")
@@ -26,9 +25,6 @@ async def main():
     # Create sample questions if they don't exist
     if not Path("questions").exists():
         create_sample_questions()
-        
-    # Create sample questions
-    create_sample_questions()
     
     # Run the study
     study = TemperatureStudy()

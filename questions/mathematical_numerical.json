@@ -2,9 +2,5 @@
   {
     "question": "What is 25 * 4?",
     "correct_answer": "100"
-  },
-  {
-    "question": "What is the square root of 144?",
-    "correct_answer": "12"
   }
 ]

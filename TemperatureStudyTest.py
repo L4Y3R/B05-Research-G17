@@ -35,6 +35,17 @@ class TemperatureStudy:
         question_file = Path(f"questions/{category}.json")
         with open(question_file, 'r') as f:
             return json.load(f)
+    
+    def clean_response(self, text: str) -> str:
+        """Clean the model response to extract just the numerical value."""
+        text = text.replace('"""', '').replace('```', '').strip()
+        
+        # Try to extract just the number if there's other text
+        import re
+        if match := re.search(r'-?\d*\.?\d+', text):
+            return match.group()
+        
+        return text
 
     async def run_temperature_test(self, question: str, temperature: float) -> Dict:
         """
@@ -43,25 +54,43 @@ class TemperatureStudy:
         llm = Fireworks(
             model=self.model_name,
             fireworks_api_key=os.getenv("FIREWORKS_API_KEY"),
-            temperature=temperature,
-            max_tokens=128
+            temperature=temperature
         )
         
         prompt = PromptTemplate(
-            template="<|system|>You are a helpful AI assistant. Provide direct answers without explanation.</s><|user|>{question}</s><|assistant|>",
+            template="""Calculate this mathematical expression: {question}
+
+                Rules:
+                - Provide ONLY the numerical result
+                - No words or explanations
+                - Include decimal points if applicable
+                - Use negative signs where needed
+                - Express very large/small numbers in standard notation
+
+                Your response:""",
             input_variables=["question"]
         )
         
         start_time = time.time()
         try:
             response = await llm.agenerate([prompt.format(question=question)])
-            response_text = response.generations[0][0].text.strip()
+            response_text = self.clean_response(response.generations[0][0].text)
             
-            return {
+            result = {
                 "temperature": temperature,
                 "response": response_text,
-                "response_time": time.time() - start_time
+                "response_time": round(time.time() - start_time, 3)
             }
+            
+            # Print real-time results in a clear format
+            print(f"\nTest Results for Temperature {temperature}:")
+            print(f"Question: {question}")
+            print(f"Response: {response_text}")
+            print(f"Response Time: {result['response_time']} seconds")
+            print("-" * 50)
+            
+            return result
+        
         except Exception as e:
             print(f"Error: {str(e)}")
             return {
@@ -104,11 +133,7 @@ class TemperatureStudy:
         Run the complete study across all categories.
         """
         categories = [
-            "mathematical_numerical",
-            "mathematical_text",
-            "logical_thinking",
-            "true_false",
-            "general_knowledge"
+            "mathematical_numerical"
         ]
         
         all_results = []
