@@ -7,7 +7,20 @@ def create_sample_questions():
     categories = {
         "mathematical_numerical": [
             {"question": "What is 25 * 4?", "correct_answer": "100"}
+        ],
+        "mathematical_text": [
+            {"question": "What is twenty five multiplied by four?", "correct_answer": "Hundred"}
+        ],
+        "true_false": [
+            {"question": "Is sun rotating around the earth", "correct_answer": "False"}
+        ],
+        "logical": [
+            {"question": "Is joe mama fat", "correct_answer": "False"}
+        ],
+        "general_knowledge": [
+            {"question": "Is Dubai a country", "correct_answer": "Dubai is a city"}
         ]
+
     }
 
     # Create questions directory

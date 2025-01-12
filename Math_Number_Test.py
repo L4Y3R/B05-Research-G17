@@ -143,7 +143,6 @@ class TemperatureStudy:
             all_results.append(results)
             
         final_df = pd.concat(all_results)
-        final_df.to_csv(self.results_dir / "complete_results.csv", index=False)
         return final_df
     
     def analyze_results(self, results_df: pd.DataFrame):
