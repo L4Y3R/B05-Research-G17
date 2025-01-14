@@ -1,6 +1,86 @@
 [
-  {
+   {
     "question": "Is sun rotating around the earth",
     "correct_answer": "False"
+  }
+  {
+    "question": "The capital of Sri Lanka is Colombo.",
+    "correct_answer": "False"
+  },
+  {
+    "question": "2 multiplied by 4 is equal to 2 cubed.",
+    "correct_answer": "True"
+  },
+  {
+    "question": "Water boils at 100°C at standard atmospheric pressure.",
+    "correct_answer": "True"
+  },
+  {
+    "question": "The Sun revolves around the Earth.",
+    "correct_answer": "False"
+  },
+  {
+    "question": "Nimal's father's mother is Nimal's grandmother.",
+    "correct_answer": "True"
+  },
+  {
+    "question": "Mount Everest is the tallest mountain on Earth.",
+    "correct_answer": "True"
+  },
+  {
+    "question": "The world's first female Prime Minister was born in India.",
+    "correct_answer": "False"
+  },
+  {
+    "question": "The speed of light is faster than the speed of sound.",
+    "correct_answer": "True"
+  },
+  {
+    "question": "The Moon is a planet.",
+    "correct_answer": "False"
+  },
+  {
+    "question": "Facebook was founded by Mark Zuckerberg.",
+    "correct_answer": "True"
+  },
+  {
+    "question": "A year on Jupiter is longer than a year on Earth.",
+    "correct_answer": "True"
+  },
+  {
+    "question": "Every month has 30 days.",
+    "correct_answer": "False"
+  },
+  {
+    "question": "January is the last month in every country.",
+    "correct_answer": "False"
+  },
+  {
+    "question": "The Great Wall of China is visible from space.",
+    "correct_answer": "False"
+  },
+  {
+    "question": "The first citizen of Sri Lanka is considered to be the President.",
+    "correct_answer": "True"
+  },
+  {
+    "question": "The Moon has its own light source.",
+    "correct_answer": "False"
+  },
+  {
+    "question": "The chemical symbol for gold is Ag.",
+    "correct_answer": "False"
+  },
+  {
+    "question": "Sharks are not mammals.",
+    "correct_answer": "True"
+  },
+  {
+    "question": "The Eiffel Tower was originally intended to be a temporary structure.",
+    "correct_answer": "True"
+  },
+  {
+    "question": "My father's son's son is a grandson to my mother.",
+    "correct_answer": "True"
   }
 ]
