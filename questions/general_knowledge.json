@@ -1,6 +1,86 @@
 [
-  {
+    {
     "question": "Is Dubai a country",
     "correct_answer": "Dubai is a city"
+  },
+  {
+    "question": "In which country is the city of Venice located?",
+    "correct_answer": "Italy"
+  },
+  {
+    "question": "How many muscles control the movement of the human eye?",
+    "correct_answer": "6"
+  },
+  {
+    "question": "In which country was the Titanic built?",
+    "correct_answer": "United Kingdom"
+  },
+  {
+    "question": "What is the capital of Nigeria?",
+    "correct_answer": "Abuja"
+  },
+  {
+    "question": "What is the 29th state of India?",
+    "correct_answer": "Telangana"
+  },
+  {
+    "question": "Which country is the largest producer of coffee?",
+    "correct_answer": "Brazil"
+  },
+  {
+    "question": "How many keys are in a piano?",
+    "correct_answer": "88"
+  },
+  {
+    "question": "Which continent has the most countries?",
+    "correct_answer": "Africa"
+  },
+  {
+    "question": "What city is known as the eternal city?",
+    "correct_answer": "Rome"
+  },
+  {
+    "question": "Which country has the most islands?",
+    "correct_answer": "Sweden"
+  },
+  {
+    "question": "What is the human body part that has fully grown since birth?",
+    "correct_answer": "Eyes"
+  },
+  {
+    "question": "What is the most widely spoken language in the world by the number of native speakers?",
+    "correct_answer": "Mandarin Chinese"
+  },
+  {
+    "question": "What is the world's fastest bird?",
+    "correct_answer": "Peregrine falcon"
+  },
+  {
+    "question": "Which is the only mammal that lays eggs?",
+    "correct_answer": "Platypus"
+  },
+  {
+    "question": "What is always associated with a dolmen?",
+    "correct_answer": "Stone"
+  },
+  {
+    "question": "What is the name given to a group of horses?",
+    "correct_answer": "Harras"
+  },
+  {
+    "question": "What is the smallest bone in the human body?",
+    "correct_answer": "Stapes"
+  },
+  {
+    "question": "The element with the atomic number 79 is _________, which is often used in _________.",
+    "correct_answer": "Gold, jewelry"
+  },
+  {
+    "question": "The capital of _________ is the oldest continuously inhabited city in the world.",
+    "correct_answer": "Damascus"
+  },
+  {
+    "question": "The process by which plants convert _________ and _________ into chemical energy is called _________.",
+    "correct_answer": "Sunlight, carbon dioxide, photosynthesis"
   }
 ]
