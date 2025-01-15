@@ -1,7 +1,10 @@
 import asyncio
 from pathlib import Path
+
+import pandas as pd
 from QuestionGenerator import create_sample_questions
 from Math_Number_Test import TemperatureStudy
+from QualitativeAnalysis import QualitativeAnalysis
 
 async def test_connection():
     """Test the API connection with a simple query"""
@@ -35,6 +38,13 @@ async def main():
     print(analysis)
     print("\nResponse Consistency (number of unique responses):")
     print(consistency)
+
+    # Create the DataFrame for analysis
+    results_df = pd.DataFrame(results)
+
+    # Run the qualitative analysis
+    analysis = QualitativeAnalysis()
+    qualitative_report = analysis.generate_qualitative_report(results_df)
 
 if __name__ == "__main__":
     asyncio.run(main())

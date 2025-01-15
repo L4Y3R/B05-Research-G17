@@ -1,5 +1,5 @@
 [
-   {
+  {
     "question": "Is sun rotating around the earth",
     "correct_answer": "False"
   },
@@ -12,7 +12,7 @@
     "correct_answer": "True"
   },
   {
-    "question": "Water boils at 100°C at standard atmospheric pressure.",
+    "question": "Water boils at 100\u00b0C at standard atmospheric pressure.",
     "correct_answer": "True"
   },
   {
