@@ -6,7 +6,6 @@ def create_sample_questions():
     """Create sample questions for testing"""
     categories = {
         "mathematical_numerical": [
-            {"question": "What is 25 * 4?", "correct_answer": "100"},
             {"question": "What is the next number of the sequence 11, 14, 19, 26, ____?", "correct_answer": "35"},
             {"question": "Which number logically follows the series 2, 4, 7, 4, 12, 4, ___?", "correct_answer": "17"},
             {"question": "What is the missing number in the sequence 20, 17, 22, ____, 24?", "correct_answer": "19"},
@@ -29,7 +28,6 @@ def create_sample_questions():
             {"question": "Which of the following fractions is equal to 7/10: 7/12, 21/30, 56/13, 21/60?", "correct_answer": "21/30"},
         ],
         "mathematical_text": [
-            {"question": "What is twenty five multiplied by four?", "correct_answer": "Hundred"},
             {"question": "A train traveling at 150 km/h takes 25 seconds to pass a pole. What is the length of the train in meters?", "correct_answer": "1042 m"},
             {"question": "Two workers can complete a job in 8 hours when working together. Worker A alone would take 12 hours to complete the job. How long would Worker B alone take to complete it?", "correct_answer": "24 h"},
             {"question": "A projectile is launched with an initial velocity of 120 m/s at an angle of 30° to the horizontal. What is the maximum height it reaches?", "correct_answer": "183.67 m"},
@@ -52,7 +50,6 @@ def create_sample_questions():
             
         ],
         "true_false": [
-            {"question": "Is sun rotating around the earth","correct_answer": "False"},
             {"question": "The capital of Sri Lanka is Colombo.","correct_answer": "False"},
             {"question": "2 multiplied by 4 is equal to 2 cubed.","correct_answer": "True"},
             {"question": "Water boils at 100°C at standard atmospheric pressure.","correct_answer": "True"},
@@ -75,7 +72,6 @@ def create_sample_questions():
             {"question": "My father's son's son is a grandson to my mother.","correct_answer": "True"}
         ],
         "logical": [
-            {"question": "Is joe mama fat","correct_answer": "False"},
             {"question": "My father only has one child. So who is my father's son's older brother?","correct_answer": "No one, you are your father's only child."},
             {"question": "All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees. True or False?","correct_answer": "True"},
             {"question": "If a train leaves City A at 3 PM traveling at 60 km/h, and another train leaves City B at the same time traveling at 80 km/h towards City A, which train will reach the meeting point first?","correct_answer": "Cannot give a correct answer because distance is not given."},
@@ -98,7 +94,6 @@ def create_sample_questions():
             {"question": "What comes next in the sequence: 4, 4, 2, 2, 1, 1, 14, 4, 4, 2?","correct_answer": "2"}
         ],
         "general_knowledge": [
-            {"question": "Is Dubai a country","correct_answer": "Dubai is a city"},
             {"question": "In which country is the city of Venice located?","correct_answer": "Italy"},
             {"question": "How many muscles control the movement of the human eye?","correct_answer": "6"},
             {"question": "In which country was the Titanic built?","correct_answer": "United Kingdom"},

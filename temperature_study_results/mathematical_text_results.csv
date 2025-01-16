@@ -1,0 +1,232 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,100,0.47,What is twenty five multiplied by four?,Hundred,mathematical_text
+0.1,100,0.453,What is twenty five multiplied by four?,Hundred,mathematical_text
+0.2,100,0.489,What is twenty five multiplied by four?,Hundred,mathematical_text
+0.3,100,0.492,What is twenty five multiplied by four?,Hundred,mathematical_text
+0.4,"100                ""                ""                ""                ""                ""                ""                """,0.44,What is twenty five multiplied by four?,Hundred,mathematical_text
+0.5,,0.476,What is twenty five multiplied by four?,Hundred,mathematical_text
+0.6,100,0.824,What is twenty five multiplied by four?,Hundred,mathematical_text
+0.7,100,0.459,What is twenty five multiplied by four?,Hundred,mathematical_text
+0.8,100,0.455,What is twenty five multiplied by four?,Hundred,mathematical_text
+0.9,One hundred */,0.604,What is twenty five multiplied by four?,Hundred,mathematical_text
+1.0,100,0.465,What is twenty five multiplied by four?,Hundred,mathematical_text
+0.0,75,0.493,A train traveling at 150 km/h takes 25 seconds to pass a pole. What is the length of the train in meters?,1042 m,mathematical_text
+0.1,15000,0.464,A train traveling at 150 km/h takes 25 seconds to pass a pole. What is the length of the train in meters?,1042 m,mathematical_text
+0.2,75,0.507,A train traveling at 150 km/h takes 25 seconds to pass a pole. What is the length of the train in meters?,1042 m,mathematical_text
+0.3,150,0.521,A train traveling at 150 km/h takes 25 seconds to pass a pole. What is the length of the train in meters?,1042 m,mathematical_text
+0.4,,0.492,A train traveling at 150 km/h takes 25 seconds to pass a pole. What is the length of the train in meters?,1042 m,mathematical_text
+0.5,75,0.582,A train traveling at 150 km/h takes 25 seconds to pass a pole. What is the length of the train in meters?,1042 m,mathematical_text
+0.6,15000,0.623,A train traveling at 150 km/h takes 25 seconds to pass a pole. What is the length of the train in meters?,1042 m,mathematical_text
+0.7,150,0.515,A train traveling at 150 km/h takes 25 seconds to pass a pole. What is the length of the train in meters?,1042 m,mathematical_text
+0.8,120,0.502,A train traveling at 150 km/h takes 25 seconds to pass a pole. What is the length of the train in meters?,1042 m,mathematical_text
+0.9,15000,1.04,A train traveling at 150 km/h takes 25 seconds to pass a pole. What is the length of the train in meters?,1042 m,mathematical_text
+1.0,**,1.719,A train traveling at 150 km/h takes 25 seconds to pass a pole. What is the length of the train in meters?,1042 m,mathematical_text
+0.0,4,0.621,Two workers can complete a job in 8 hours when working together. Worker A alone would take 12 hours to complete the job. How long would Worker B alone take to complete it?,24 h,mathematical_text
+0.1,4,0.494,Two workers can complete a job in 8 hours when working together. Worker A alone would take 12 hours to complete the job. How long would Worker B alone take to complete it?,24 h,mathematical_text
+0.2,4,0.608,Two workers can complete a job in 8 hours when working together. Worker A alone would take 12 hours to complete the job. How long would Worker B alone take to complete it?,24 h,mathematical_text
+0.3,24 hours,0.522,Two workers can complete a job in 8 hours when working together. Worker A alone would take 12 hours to complete the job. How long would Worker B alone take to complete it?,24 h,mathematical_text
+0.4,6,0.504,Two workers can complete a job in 8 hours when working together. Worker A alone would take 12 hours to complete the job. How long would Worker B alone take to complete it?,24 h,mathematical_text
+0.5,4 hours,0.5,Two workers can complete a job in 8 hours when working together. Worker A alone would take 12 hours to complete the job. How long would Worker B alone take to complete it?,24 h,mathematical_text
+0.6,4,0.436,Two workers can complete a job in 8 hours when working together. Worker A alone would take 12 hours to complete the job. How long would Worker B alone take to complete it?,24 h,mathematical_text
+0.7,18 hours,0.473,Two workers can complete a job in 8 hours when working together. Worker A alone would take 12 hours to complete the job. How long would Worker B alone take to complete it?,24 h,mathematical_text
+0.8,6 hours,0.478,Two workers can complete a job in 8 hours when working together. Worker A alone would take 12 hours to complete the job. How long would Worker B alone take to complete it?,24 h,mathematical_text
+0.9,9,0.4,Two workers can complete a job in 8 hours when working together. Worker A alone would take 12 hours to complete the job. How long would Worker B alone take to complete it?,24 h,mathematical_text
+1.0,6'''''''''''''''''''''''''''''''''''''''''''''''''''',0.492,Two workers can complete a job in 8 hours when working together. Worker A alone would take 12 hours to complete the job. How long would Worker B alone take to complete it?,24 h,mathematical_text
+0.0,60,0.527,A projectile is launched with an initial velocity of 120 m/s at an angle of 30° to the horizontal. What is the maximum height it reaches?,183.67 m,mathematical_text
+0.1,60,0.423,A projectile is launched with an initial velocity of 120 m/s at an angle of 30° to the horizontal. What is the maximum height it reaches?,183.67 m,mathematical_text
+0.2,60,0.452,A projectile is launched with an initial velocity of 120 m/s at an angle of 30° to the horizontal. What is the maximum height it reaches?,183.67 m,mathematical_text
+0.3,60,0.539,A projectile is launched with an initial velocity of 120 m/s at an angle of 30° to the horizontal. What is the maximum height it reaches?,183.67 m,mathematical_text
+0.4,60,0.883,A projectile is launched with an initial velocity of 120 m/s at an angle of 30° to the horizontal. What is the maximum height it reaches?,183.67 m,mathematical_text
+0.5,91.6,0.497,A projectile is launched with an initial velocity of 120 m/s at an angle of 30° to the horizontal. What is the maximum height it reaches?,183.67 m,mathematical_text
+0.6,60,0.495,A projectile is launched with an initial velocity of 120 m/s at an angle of 30° to the horizontal. What is the maximum height it reaches?,183.67 m,mathematical_text
+0.7,104.72,0.561,A projectile is launched with an initial velocity of 120 m/s at an angle of 30° to the horizontal. What is the maximum height it reaches?,183.67 m,mathematical_text
+0.8,98.1,0.479,A projectile is launched with an initial velocity of 120 m/s at an angle of 30° to the horizontal. What is the maximum height it reaches?,183.67 m,mathematical_text
+0.9,91.8,0.443,A projectile is launched with an initial velocity of 120 m/s at an angle of 30° to the horizontal. What is the maximum height it reaches?,183.67 m,mathematical_text
+1.0,60 m,0.518,A projectile is launched with an initial velocity of 120 m/s at an angle of 30° to the horizontal. What is the maximum height it reaches?,183.67 m,mathematical_text
+0.0,200 minutes,0.509,"A cylindrical tank with a diameter of 15 meters and a height of 30 meters is filled with water. If water flows out at a rate of 9 cubic meters per minute, how long will it take to empty the tank?",590 minutes,mathematical_text
+0.1,200 minutes,0.493,"A cylindrical tank with a diameter of 15 meters and a height of 30 meters is filled with water. If water flows out at a rate of 9 cubic meters per minute, how long will it take to empty the tank?",590 minutes,mathematical_text
+0.2,200 minutes,0.509,"A cylindrical tank with a diameter of 15 meters and a height of 30 meters is filled with water. If water flows out at a rate of 9 cubic meters per minute, how long will it take to empty the tank?",590 minutes,mathematical_text
+0.3,200 minutes,0.487,"A cylindrical tank with a diameter of 15 meters and a height of 30 meters is filled with water. If water flows out at a rate of 9 cubic meters per minute, how long will it take to empty the tank?",590 minutes,mathematical_text
+0.4,200 minutes,0.508,"A cylindrical tank with a diameter of 15 meters and a height of 30 meters is filled with water. If water flows out at a rate of 9 cubic meters per minute, how long will it take to empty the tank?",590 minutes,mathematical_text
+0.5,200 minutes,0.474,"A cylindrical tank with a diameter of 15 meters and a height of 30 meters is filled with water. If water flows out at a rate of 9 cubic meters per minute, how long will it take to empty the tank?",590 minutes,mathematical_text
+0.6,200 minutes,0.462,"A cylindrical tank with a diameter of 15 meters and a height of 30 meters is filled with water. If water flows out at a rate of 9 cubic meters per minute, how long will it take to empty the tank?",590 minutes,mathematical_text
+0.7,200 minutes,0.457,"A cylindrical tank with a diameter of 15 meters and a height of 30 meters is filled with water. If water flows out at a rate of 9 cubic meters per minute, how long will it take to empty the tank?",590 minutes,mathematical_text
+0.8,20 minutes,0.531,"A cylindrical tank with a diameter of 15 meters and a height of 30 meters is filled with water. If water flows out at a rate of 9 cubic meters per minute, how long will it take to empty the tank?",590 minutes,mathematical_text
+0.9,,0.501,"A cylindrical tank with a diameter of 15 meters and a height of 30 meters is filled with water. If water flows out at a rate of 9 cubic meters per minute, how long will it take to empty the tank?",590 minutes,mathematical_text
+1.0,*/usr/bin/python,0.519,"A cylindrical tank with a diameter of 15 meters and a height of 30 meters is filled with water. If water flows out at a rate of 9 cubic meters per minute, how long will it take to empty the tank?",590 minutes,mathematical_text
+0.0,990,0.498,"A tank with a leak can be filled in 11 hours. When the tank is being filled, the leak reduces the fill rate by 15 liters per hour. If the tank is filled in 10 hours with the leak, what is its capacity?",165 liters,mathematical_text
+0.1,990,0.521,"A tank with a leak can be filled in 11 hours. When the tank is being filled, the leak reduces the fill rate by 15 liters per hour. If the tank is filled in 10 hours with the leak, what is its capacity?",165 liters,mathematical_text
+0.2,1100,0.481,"A tank with a leak can be filled in 11 hours. When the tank is being filled, the leak reduces the fill rate by 15 liters per hour. If the tank is filled in 10 hours with the leak, what is its capacity?",165 liters,mathematical_text
+0.3,990,0.745,"A tank with a leak can be filled in 11 hours. When the tank is being filled, the leak reduces the fill rate by 15 liters per hour. If the tank is filled in 10 hours with the leak, what is its capacity?",165 liters,mathematical_text
+0.4,1100,0.551,"A tank with a leak can be filled in 11 hours. When the tank is being filled, the leak reduces the fill rate by 15 liters per hour. If the tank is filled in 10 hours with the leak, what is its capacity?",165 liters,mathematical_text
+0.5,1650,0.478,"A tank with a leak can be filled in 11 hours. When the tank is being filled, the leak reduces the fill rate by 15 liters per hour. If the tank is filled in 10 hours with the leak, what is its capacity?",165 liters,mathematical_text
+0.6,1050,0.506,"A tank with a leak can be filled in 11 hours. When the tank is being filled, the leak reduces the fill rate by 15 liters per hour. If the tank is filled in 10 hours with the leak, what is its capacity?",165 liters,mathematical_text
+0.7,1650,0.512,"A tank with a leak can be filled in 11 hours. When the tank is being filled, the leak reduces the fill rate by 15 liters per hour. If the tank is filled in 10 hours with the leak, what is its capacity?",165 liters,mathematical_text
+0.8,,0.471,"A tank with a leak can be filled in 11 hours. When the tank is being filled, the leak reduces the fill rate by 15 liters per hour. If the tank is filled in 10 hours with the leak, what is its capacity?",165 liters,mathematical_text
+0.9,,0.859,"A tank with a leak can be filled in 11 hours. When the tank is being filled, the leak reduces the fill rate by 15 liters per hour. If the tank is filled in 10 hours with the leak, what is its capacity?",165 liters,mathematical_text
+1.0,1650,0.434,"A tank with a leak can be filled in 11 hours. When the tank is being filled, the leak reduces the fill rate by 15 liters per hour. If the tank is filled in 10 hours with the leak, what is its capacity?",165 liters,mathematical_text
+0.0,6000,1.053,"A company sells 120 units of a product at Rs.6000 each. For every Rs.100 increase in price, they sell 6 fewer units. At what price will the company maximize revenue?",Rs.6200,mathematical_text
+0.1,6000,0.511,"A company sells 120 units of a product at Rs.6000 each. For every Rs.100 increase in price, they sell 6 fewer units. At what price will the company maximize revenue?",Rs.6200,mathematical_text
+0.2,6000,0.555,"A company sells 120 units of a product at Rs.6000 each. For every Rs.100 increase in price, they sell 6 fewer units. At what price will the company maximize revenue?",Rs.6200,mathematical_text
+0.3,6500,0.557,"A company sells 120 units of a product at Rs.6000 each. For every Rs.100 increase in price, they sell 6 fewer units. At what price will the company maximize revenue?",Rs.6200,mathematical_text
+0.4,6000,0.484,"A company sells 120 units of a product at Rs.6000 each. For every Rs.100 increase in price, they sell 6 fewer units. At what price will the company maximize revenue?",Rs.6200,mathematical_text
+0.5,6500,0.53,"A company sells 120 units of a product at Rs.6000 each. For every Rs.100 increase in price, they sell 6 fewer units. At what price will the company maximize revenue?",Rs.6200,mathematical_text
+0.6,4000,0.47,"A company sells 120 units of a product at Rs.6000 each. For every Rs.100 increase in price, they sell 6 fewer units. At what price will the company maximize revenue?",Rs.6200,mathematical_text
+0.7,4500,0.482,"A company sells 120 units of a product at Rs.6000 each. For every Rs.100 increase in price, they sell 6 fewer units. At what price will the company maximize revenue?",Rs.6200,mathematical_text
+0.8,6300,0.413,"A company sells 120 units of a product at Rs.6000 each. For every Rs.100 increase in price, they sell 6 fewer units. At what price will the company maximize revenue?",Rs.6200,mathematical_text
+0.9,6900                -167.5                    0.5                    The,0.459,"A company sells 120 units of a product at Rs.6000 each. For every Rs.100 increase in price, they sell 6 fewer units. At what price will the company maximize revenue?",Rs.6200,mathematical_text
+1.0,4200,0.508,"A company sells 120 units of a product at Rs.6000 each. For every Rs.100 increase in price, they sell 6 fewer units. At what price will the company maximize revenue?",Rs.6200,mathematical_text
+0.0,8,0.585,A rectangle has a diagonal of 15 cm and one side of 7 cm. What is the length of the other side?,13.27 cm,mathematical_text
+0.1,8,0.482,A rectangle has a diagonal of 15 cm and one side of 7 cm. What is the length of the other side?,13.27 cm,mathematical_text
+0.2,8.7,0.439,A rectangle has a diagonal of 15 cm and one side of 7 cm. What is the length of the other side?,13.27 cm,mathematical_text
+0.3,8.66,0.473,A rectangle has a diagonal of 15 cm and one side of 7 cm. What is the length of the other side?,13.27 cm,mathematical_text
+0.4,8,0.509,A rectangle has a diagonal of 15 cm and one side of 7 cm. What is the length of the other side?,13.27 cm,mathematical_text
+0.5,8 cm,0.443,A rectangle has a diagonal of 15 cm and one side of 7 cm. What is the length of the other side?,13.27 cm,mathematical_text
+0.6,12,0.458,A rectangle has a diagonal of 15 cm and one side of 7 cm. What is the length of the other side?,13.27 cm,mathematical_text
+0.7,8,0.453,A rectangle has a diagonal of 15 cm and one side of 7 cm. What is the length of the other side?,13.27 cm,mathematical_text
+0.8,15.97,0.621,A rectangle has a diagonal of 15 cm and one side of 7 cm. What is the length of the other side?,13.27 cm,mathematical_text
+0.9,,0.793,A rectangle has a diagonal of 15 cm and one side of 7 cm. What is the length of the other side?,13.27 cm,mathematical_text
+1.0,5 cm  X -,0.51,A rectangle has a diagonal of 15 cm and one side of 7 cm. What is the length of the other side?,13.27 cm,mathematical_text
+0.0,9 10 12,0.516,The sum of the squares of three consecutive integers is 365. What are the integers?,"10, 11, 12",mathematical_text
+0.1,9 10 12,0.479,The sum of the squares of three consecutive integers is 365. What are the integers?,"10, 11, 12",mathematical_text
+0.2,9,0.46,The sum of the squares of three consecutive integers is 365. What are the integers?,"10, 11, 12",mathematical_text
+0.3,11,0.526,The sum of the squares of three consecutive integers is 365. What are the integers?,"10, 11, 12",mathematical_text
+0.4,10 11 12,0.452,The sum of the squares of three consecutive integers is 365. What are the integers?,"10, 11, 12",mathematical_text
+0.5,9 10 12,0.459,The sum of the squares of three consecutive integers is 365. What are the integers?,"10, 11, 12",mathematical_text
+0.6,10,0.456,The sum of the squares of three consecutive integers is 365. What are the integers?,"10, 11, 12",mathematical_text
+0.7,"The integers 9, 10, and 11.",0.449,The sum of the squares of three consecutive integers is 365. What are the integers?,"10, 11, 12",mathematical_text
+0.8,-2,0.441,The sum of the squares of three consecutive integers is 365. What are the integers?,"10, 11, 12",mathematical_text
+0.9,10,0.455,The sum of the squares of three consecutive integers is 365. What are the integers?,"10, 11, 12",mathematical_text
+1.0,"The consecutive integers are $17,18,19$.",0.503,The sum of the squares of three consecutive integers is 365. What are the integers?,"10, 11, 12",mathematical_text
+0.0,48.75,0.476,A car travels 50 km at 80 km/h and then another 30 km at 40 km/h. What is the car's average speed for the entire journey?,58.18 km/h,mathematical_text
+0.1,47.5,0.476,A car travels 50 km at 80 km/h and then another 30 km at 40 km/h. What is the car's average speed for the entire journey?,58.18 km/h,mathematical_text
+0.2,47.5,0.488,A car travels 50 km at 80 km/h and then another 30 km at 40 km/h. What is the car's average speed for the entire journey?,58.18 km/h,mathematical_text
+0.3,48.75,0.458,A car travels 50 km at 80 km/h and then another 30 km at 40 km/h. What is the car's average speed for the entire journey?,58.18 km/h,mathematical_text
+0.4,48.6,0.536,A car travels 50 km at 80 km/h and then another 30 km at 40 km/h. What is the car's average speed for the entire journey?,58.18 km/h,mathematical_text
+0.5,46.67,0.454,A car travels 50 km at 80 km/h and then another 30 km at 40 km/h. What is the car's average speed for the entire journey?,58.18 km/h,mathematical_text
+0.6,48.75,0.48,A car travels 50 km at 80 km/h and then another 30 km at 40 km/h. What is the car's average speed for the entire journey?,58.18 km/h,mathematical_text
+0.7,,0.448,A car travels 50 km at 80 km/h and then another 30 km at 40 km/h. What is the car's average speed for the entire journey?,58.18 km/h,mathematical_text
+0.8,,0.458,A car travels 50 km at 80 km/h and then another 30 km at 40 km/h. What is the car's average speed for the entire journey?,58.18 km/h,mathematical_text
+0.9,46,0.488,A car travels 50 km at 80 km/h and then another 30 km at 40 km/h. What is the car's average speed for the entire journey?,58.18 km/h,mathematical_text
+1.0,,0.444,A car travels 50 km at 80 km/h and then another 30 km at 40 km/h. What is the car's average speed for the entire journey?,58.18 km/h,mathematical_text
+0.0,40,0.495,"Two people are standing 200 meters apart. They start walking towards each other, one at 5 m/s and the other at 3 m/s. How long will it take for them to meet?",25 seconds,mathematical_text
+0.1,40,0.502,"Two people are standing 200 meters apart. They start walking towards each other, one at 5 m/s and the other at 3 m/s. How long will it take for them to meet?",25 seconds,mathematical_text
+0.2,40,0.418,"Two people are standing 200 meters apart. They start walking towards each other, one at 5 m/s and the other at 3 m/s. How long will it take for them to meet?",25 seconds,mathematical_text
+0.3,40,0.453,"Two people are standing 200 meters apart. They start walking towards each other, one at 5 m/s and the other at 3 m/s. How long will it take for them to meet?",25 seconds,mathematical_text
+0.4,40 seconds,0.609,"Two people are standing 200 meters apart. They start walking towards each other, one at 5 m/s and the other at 3 m/s. How long will it take for them to meet?",25 seconds,mathematical_text
+0.5,40.0,0.483,"Two people are standing 200 meters apart. They start walking towards each other, one at 5 m/s and the other at 3 m/s. How long will it take for them to meet?",25 seconds,mathematical_text
+0.6,20 seconds,0.558,"Two people are standing 200 meters apart. They start walking towards each other, one at 5 m/s and the other at 3 m/s. How long will it take for them to meet?",25 seconds,mathematical_text
+0.7,40,0.51,"Two people are standing 200 meters apart. They start walking towards each other, one at 5 m/s and the other at 3 m/s. How long will it take for them to meet?",25 seconds,mathematical_text
+0.8,40,0.445,"Two people are standing 200 meters apart. They start walking towards each other, one at 5 m/s and the other at 3 m/s. How long will it take for them to meet?",25 seconds,mathematical_text
+0.9,40,0.456,"Two people are standing 200 meters apart. They start walking towards each other, one at 5 m/s and the other at 3 m/s. How long will it take for them to meet?",25 seconds,mathematical_text
+1.0,20 seconds,0.437,"Two people are standing 200 meters apart. They start walking towards each other, one at 5 m/s and the other at 3 m/s. How long will it take for them to meet?",25 seconds,mathematical_text
+0.0,96,0.481,"A factory produces 400 items per hour. If 3% of the items are defective, how many defective items are produced in 8 hours?",96 items,mathematical_text
+0.1,96,0.424,"A factory produces 400 items per hour. If 3% of the items are defective, how many defective items are produced in 8 hours?",96 items,mathematical_text
+0.2,96,0.443,"A factory produces 400 items per hour. If 3% of the items are defective, how many defective items are produced in 8 hours?",96 items,mathematical_text
+0.3,96,0.447,"A factory produces 400 items per hour. If 3% of the items are defective, how many defective items are produced in 8 hours?",96 items,mathematical_text
+0.4,96,0.454,"A factory produces 400 items per hour. If 3% of the items are defective, how many defective items are produced in 8 hours?",96 items,mathematical_text
+0.5,96,1.049,"A factory produces 400 items per hour. If 3% of the items are defective, how many defective items are produced in 8 hours?",96 items,mathematical_text
+0.6,96,1.032,"A factory produces 400 items per hour. If 3% of the items are defective, how many defective items are produced in 8 hours?",96 items,mathematical_text
+0.7,1600,0.542,"A factory produces 400 items per hour. If 3% of the items are defective, how many defective items are produced in 8 hours?",96 items,mathematical_text
+0.8,,0.538,"A factory produces 400 items per hour. If 3% of the items are defective, how many defective items are produced in 8 hours?",96 items,mathematical_text
+0.9,,0.648,"A factory produces 400 items per hour. If 3% of the items are defective, how many defective items are produced in 8 hours?",96 items,mathematical_text
+1.0,,0.589,"A factory produces 400 items per hour. If 3% of the items are defective, how many defective items are produced in 8 hours?",96 items,mathematical_text
+0.0,,0.483,"A farmer wants to fence a rectangular field with a perimeter of 130 meters. If the length is twice the width, what are the dimensions of the field?","43.33 m (length), 21.67 m (width)",mathematical_text
+0.1,,0.779,"A farmer wants to fence a rectangular field with a perimeter of 130 meters. If the length is twice the width, what are the dimensions of the field?","43.33 m (length), 21.67 m (width)",mathematical_text
+0.2,,0.533,"A farmer wants to fence a rectangular field with a perimeter of 130 meters. If the length is twice the width, what are the dimensions of the field?","43.33 m (length), 21.67 m (width)",mathematical_text
+0.3,,0.476,"A farmer wants to fence a rectangular field with a perimeter of 130 meters. If the length is twice the width, what are the dimensions of the field?","43.33 m (length), 21.67 m (width)",mathematical_text
+0.4,,0.432,"A farmer wants to fence a rectangular field with a perimeter of 130 meters. If the length is twice the width, what are the dimensions of the field?","43.33 m (length), 21.67 m (width)",mathematical_text
+0.5,,0.503,"A farmer wants to fence a rectangular field with a perimeter of 130 meters. If the length is twice the width, what are the dimensions of the field?","43.33 m (length), 21.67 m (width)",mathematical_text
+0.6,,0.458,"A farmer wants to fence a rectangular field with a perimeter of 130 meters. If the length is twice the width, what are the dimensions of the field?","43.33 m (length), 21.67 m (width)",mathematical_text
+0.7,,0.437,"A farmer wants to fence a rectangular field with a perimeter of 130 meters. If the length is twice the width, what are the dimensions of the field?","43.33 m (length), 21.67 m (width)",mathematical_text
+0.8,,0.492,"A farmer wants to fence a rectangular field with a perimeter of 130 meters. If the length is twice the width, what are the dimensions of the field?","43.33 m (length), 21.67 m (width)",mathematical_text
+0.9,let length = 2x and width = x. then perimeter = 2,0.469,"A farmer wants to fence a rectangular field with a perimeter of 130 meters. If the length is twice the width, what are the dimensions of the field?","43.33 m (length), 21.67 m (width)",mathematical_text
+1.0,length 24 width 13,0.53,"A farmer wants to fence a rectangular field with a perimeter of 130 meters. If the length is twice the width, what are the dimensions of the field?","43.33 m (length), 21.67 m (width)",mathematical_text
+0.0,14,0.467,A sum of money doubles itself in 7 years under compound interest. How many years will it take to quadruple?,14 years,mathematical_text
+0.1,14,0.461,A sum of money doubles itself in 7 years under compound interest. How many years will it take to quadruple?,14 years,mathematical_text
+0.2,14 years,0.504,A sum of money doubles itself in 7 years under compound interest. How many years will it take to quadruple?,14 years,mathematical_text
+0.3,14,0.497,A sum of money doubles itself in 7 years under compound interest. How many years will it take to quadruple?,14 years,mathematical_text
+0.4,14,0.564,A sum of money doubles itself in 7 years under compound interest. How many years will it take to quadruple?,14 years,mathematical_text
+0.5,14 years,0.502,A sum of money doubles itself in 7 years under compound interest. How many years will it take to quadruple?,14 years,mathematical_text
+0.6,14,1.071,A sum of money doubles itself in 7 years under compound interest. How many years will it take to quadruple?,14 years,mathematical_text
+0.7,14,0.525,A sum of money doubles itself in 7 years under compound interest. How many years will it take to quadruple?,14 years,mathematical_text
+0.8,14 years,0.484,A sum of money doubles itself in 7 years under compound interest. How many years will it take to quadruple?,14 years,mathematical_text
+0.9,14 years,0.458,A sum of money doubles itself in 7 years under compound interest. How many years will it take to quadruple?,14 years,mathematical_text
+1.0,14,0.491,A sum of money doubles itself in 7 years under compound interest. How many years will it take to quadruple?,14 years,mathematical_text
+0.0,11.6,0.614,"A ladder leans against a wall, reaching a height of 10 meters. The base of the ladder is 7 meters away from the wall. What is the length of the ladder?",12.21 m,mathematical_text
+0.1,11.6,0.546,"A ladder leans against a wall, reaching a height of 10 meters. The base of the ladder is 7 meters away from the wall. What is the length of the ladder?",12.21 m,mathematical_text
+0.2,11.6,0.574,"A ladder leans against a wall, reaching a height of 10 meters. The base of the ladder is 7 meters away from the wall. What is the length of the ladder?",12.21 m,mathematical_text
+0.3,11.5,0.516,"A ladder leans against a wall, reaching a height of 10 meters. The base of the ladder is 7 meters away from the wall. What is the length of the ladder?",12.21 m,mathematical_text
+0.4,11.6,0.789,"A ladder leans against a wall, reaching a height of 10 meters. The base of the ladder is 7 meters away from the wall. What is the length of the ladder?",12.21 m,mathematical_text
+0.5,11.6,0.456,"A ladder leans against a wall, reaching a height of 10 meters. The base of the ladder is 7 meters away from the wall. What is the length of the ladder?",12.21 m,mathematical_text
+0.6,13,0.47,"A ladder leans against a wall, reaching a height of 10 meters. The base of the ladder is 7 meters away from the wall. What is the length of the ladder?",12.21 m,mathematical_text
+0.7,,0.983,"A ladder leans against a wall, reaching a height of 10 meters. The base of the ladder is 7 meters away from the wall. What is the length of the ladder?",12.21 m,mathematical_text
+0.8,"11.4  (Correct answer, rounded to one decimal place.)",0.486,"A ladder leans against a wall, reaching a height of 10 meters. The base of the ladder is 7 meters away from the wall. What is the length of the ladder?",12.21 m,mathematical_text
+0.9,11,0.459,"A ladder leans against a wall, reaching a height of 10 meters. The base of the ladder is 7 meters away from the wall. What is the length of the ladder?",12.21 m,mathematical_text
+1.0,11.42,0.561,"A ladder leans against a wall, reaching a height of 10 meters. The base of the ladder is 7 meters away from the wall. What is the length of the ladder?",12.21 m,mathematical_text
+0.0,571,1.419,A tank is 70% full and contains 400 liters of water. How many liters can the tank hold when full?,571.43 L,mathematical_text
+0.1,571,0.69,A tank is 70% full and contains 400 liters of water. How many liters can the tank hold when full?,571.43 L,mathematical_text
+0.2,571,0.495,A tank is 70% full and contains 400 liters of water. How many liters can the tank hold when full?,571.43 L,mathematical_text
+0.3,571,0.508,A tank is 70% full and contains 400 liters of water. How many liters can the tank hold when full?,571.43 L,mathematical_text
+0.4,571,0.462,A tank is 70% full and contains 400 liters of water. How many liters can the tank hold when full?,571.43 L,mathematical_text
+0.5,571,0.525,A tank is 70% full and contains 400 liters of water. How many liters can the tank hold when full?,571.43 L,mathematical_text
+0.6,571,0.457,A tank is 70% full and contains 400 liters of water. How many liters can the tank hold when full?,571.43 L,mathematical_text
+0.7,571,0.47,A tank is 70% full and contains 400 liters of water. How many liters can the tank hold when full?,571.43 L,mathematical_text
+0.8,571,0.417,A tank is 70% full and contains 400 liters of water. How many liters can the tank hold when full?,571.43 L,mathematical_text
+0.9,571  $oxed{571}$,0.399,A tank is 70% full and contains 400 liters of water. How many liters can the tank hold when full?,571.43 L,mathematical_text
+1.0,570,0.47,A tank is 70% full and contains 400 liters of water. How many liters can the tank hold when full?,571.43 L,mathematical_text
+0.0,3.5 hours,0.545,"A pool can be filled in 7 hours using Pipe A and in 10 hours using Pipe B. If both pipes are used together, how long will it take to fill the pool?",4.12 h,mathematical_text
+0.1,3.5,0.437,"A pool can be filled in 7 hours using Pipe A and in 10 hours using Pipe B. If both pipes are used together, how long will it take to fill the pool?",4.12 h,mathematical_text
+0.2,3.5,0.438,"A pool can be filled in 7 hours using Pipe A and in 10 hours using Pipe B. If both pipes are used together, how long will it take to fill the pool?",4.12 h,mathematical_text
+0.3,3.5 hours,0.471,"A pool can be filled in 7 hours using Pipe A and in 10 hours using Pipe B. If both pipes are used together, how long will it take to fill the pool?",4.12 h,mathematical_text
+0.4,3.5 hours,0.627,"A pool can be filled in 7 hours using Pipe A and in 10 hours using Pipe B. If both pipes are used together, how long will it take to fill the pool?",4.12 h,mathematical_text
+0.5,,0.452,"A pool can be filled in 7 hours using Pipe A and in 10 hours using Pipe B. If both pipes are used together, how long will it take to fill the pool?",4.12 h,mathematical_text
+0.6,3.5,0.449,"A pool can be filled in 7 hours using Pipe A and in 10 hours using Pipe B. If both pipes are used together, how long will it take to fill the pool?",4.12 h,mathematical_text
+0.7,,0.52,"A pool can be filled in 7 hours using Pipe A and in 10 hours using Pipe B. If both pipes are used together, how long will it take to fill the pool?",4.12 h,mathematical_text
+0.8,3.5,0.658,"A pool can be filled in 7 hours using Pipe A and in 10 hours using Pipe B. If both pipes are used together, how long will it take to fill the pool?",4.12 h,mathematical_text
+0.9,5 hours,1.022,"A pool can be filled in 7 hours using Pipe A and in 10 hours using Pipe B. If both pipes are used together, how long will it take to fill the pool?",4.12 h,mathematical_text
+1.0,4.333 | },0.443,"A pool can be filled in 7 hours using Pipe A and in 10 hours using Pipe B. If both pipes are used together, how long will it take to fill the pool?",4.12 h,mathematical_text
+0.0,0.8 cm,0.459,"A metal rod expands by 0.02 cm for every 15°C rise in temperature. If the rod is 2 meters long, how much will it expand when the temperature rises from 15°C to 85°C?",0.93 cm,mathematical_text
+0.1,0.8 cm,0.509,"A metal rod expands by 0.02 cm for every 15°C rise in temperature. If the rod is 2 meters long, how much will it expand when the temperature rises from 15°C to 85°C?",0.93 cm,mathematical_text
+0.2,0.2 cm,0.476,"A metal rod expands by 0.02 cm for every 15°C rise in temperature. If the rod is 2 meters long, how much will it expand when the temperature rises from 15°C to 85°C?",0.93 cm,mathematical_text
+0.3,0.8 cm,0.458,"A metal rod expands by 0.02 cm for every 15°C rise in temperature. If the rod is 2 meters long, how much will it expand when the temperature rises from 15°C to 85°C?",0.93 cm,mathematical_text
+0.4,0.44 cm                - ## Step 1: Calculate the total temperature,0.467,"A metal rod expands by 0.02 cm for every 15°C rise in temperature. If the rod is 2 meters long, how much will it expand when the temperature rises from 15°C to 85°C?",0.93 cm,mathematical_text
+0.5,4.0 cm,1.023,"A metal rod expands by 0.02 cm for every 15°C rise in temperature. If the rod is 2 meters long, how much will it expand when the temperature rises from 15°C to 85°C?",0.93 cm,mathematical_text
+0.6,4.23 cm,0.485,"A metal rod expands by 0.02 cm for every 15°C rise in temperature. If the rod is 2 meters long, how much will it expand when the temperature rises from 15°C to 85°C?",0.93 cm,mathematical_text
+0.7,0.2 cm,0.491,"A metal rod expands by 0.02 cm for every 15°C rise in temperature. If the rod is 2 meters long, how much will it expand when the temperature rises from 15°C to 85°C?",0.93 cm,mathematical_text
+0.8,14.7 cm,0.517,"A metal rod expands by 0.02 cm for every 15°C rise in temperature. If the rod is 2 meters long, how much will it expand when the temperature rises from 15°C to 85°C?",0.93 cm,mathematical_text
+0.9,0.53 cm,0.57,"A metal rod expands by 0.02 cm for every 15°C rise in temperature. If the rod is 2 meters long, how much will it expand when the temperature rises from 15°C to 85°C?",0.93 cm,mathematical_text
+1.0,,0.517,"A metal rod expands by 0.02 cm for every 15°C rise in temperature. If the rod is 2 meters long, how much will it expand when the temperature rises from 15°C to 85°C?",0.93 cm,mathematical_text
+0.0,10,0.525,A boat travels 30 km downstream in 3 hours and takes 5 hours to travel the same distance upstream. What is the speed of the boat in still water?,24 km/h,mathematical_text
+0.1,10,0.503,A boat travels 30 km downstream in 3 hours and takes 5 hours to travel the same distance upstream. What is the speed of the boat in still water?,24 km/h,mathematical_text
+0.2,10,0.6,A boat travels 30 km downstream in 3 hours and takes 5 hours to travel the same distance upstream. What is the speed of the boat in still water?,24 km/h,mathematical_text
+0.3,,0.538,A boat travels 30 km downstream in 3 hours and takes 5 hours to travel the same distance upstream. What is the speed of the boat in still water?,24 km/h,mathematical_text
+0.4,15,0.994,A boat travels 30 km downstream in 3 hours and takes 5 hours to travel the same distance upstream. What is the speed of the boat in still water?,24 km/h,mathematical_text
+0.5,12.5,0.492,A boat travels 30 km downstream in 3 hours and takes 5 hours to travel the same distance upstream. What is the speed of the boat in still water?,24 km/h,mathematical_text
+0.6,20,0.467,A boat travels 30 km downstream in 3 hours and takes 5 hours to travel the same distance upstream. What is the speed of the boat in still water?,24 km/h,mathematical_text
+0.7,,0.557,A boat travels 30 km downstream in 3 hours and takes 5 hours to travel the same distance upstream. What is the speed of the boat in still water?,24 km/h,mathematical_text
+0.8,15,0.594,A boat travels 30 km downstream in 3 hours and takes 5 hours to travel the same distance upstream. What is the speed of the boat in still water?,24 km/h,mathematical_text
+0.9,,0.499,A boat travels 30 km downstream in 3 hours and takes 5 hours to travel the same distance upstream. What is the speed of the boat in still water?,24 km/h,mathematical_text
+1.0,11,0.515,A boat travels 30 km downstream in 3 hours and takes 5 hours to travel the same distance upstream. What is the speed of the boat in still water?,24 km/h,mathematical_text
+0.0,3.5 hours,0.48,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text
+0.1,3.5 hours,0.506,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text
+0.2,3.5 hours,0.738,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text
+0.3,3.5,0.536,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text
+0.4,3 hours 45 minutes,0.468,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text
+0.5,3.5 hours,0.432,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text
+0.6,3 hours,0.448,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text
+0.7,3.75 hours,0.477,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text
+0.8,,0.456,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text
+0.9,2.75 hours.,0.462,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text
+1.0,,0.483,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text
+0.0,700,0.642,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,"Rs.350 (ball), Rs.850 (bat)",mathematical_text
+0.1,700,0.472,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,"Rs.350 (ball), Rs.850 (bat)",mathematical_text
+0.2,700,0.452,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,"Rs.350 (ball), Rs.850 (bat)",mathematical_text
+0.3,700,0.442,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,"Rs.350 (ball), Rs.850 (bat)",mathematical_text
+0.4,$400$                - ## Step 1: Let's denote the cost of,0.439,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,"Rs.350 (ball), Rs.850 (bat)",mathematical_text
+0.5,700,0.515,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,"Rs.350 (ball), Rs.850 (bat)",mathematical_text
+0.6,"700                """,0.539,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,"Rs.350 (ball), Rs.850 (bat)",mathematical_text
+0.7,400,0.566,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,"Rs.350 (ball), Rs.850 (bat)",mathematical_text
+0.8,700,0.467,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,"Rs.350 (ball), Rs.850 (bat)",mathematical_text
+0.9,,0.612,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,"Rs.350 (ball), Rs.850 (bat)",mathematical_text
+1.0,600,0.442,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,"Rs.350 (ball), Rs.850 (bat)",mathematical_text

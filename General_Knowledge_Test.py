@@ -35,17 +35,6 @@ class TemperatureStudy:
         question_file = Path(f"questions/{category}.json")
         with open(question_file, 'r') as f:
             return json.load(f)
-    
-    def clean_response(self, text: str) -> str:
-        """Clean the model response to extract just the numerical value."""
-        text = text.replace('"""', '').replace('```', '').strip()
-        
-        # Try to extract just the number if there's other text
-        import re
-        if match := re.search(r'-?\d*\.?\d+', text):
-            return match.group()
-        
-        return text
 
     async def run_temperature_test(self, question: str, temperature: float) -> Dict:
         """
@@ -63,7 +52,6 @@ class TemperatureStudy:
                 Rules:
                 - Provide only one answer
                 - No explanations
-                - Only one word is allowed as the answer
 
                 Your response:""",
             input_variables=["question"]
@@ -72,7 +60,7 @@ class TemperatureStudy:
         start_time = time.time()
         try:
             response = await llm.agenerate([prompt.format(question=question)])
-            response_text = self.clean_response(response.generations[0][0].text)
+            response_text = response.generations[0][0].text
             
             result = {
                 "temperature": temperature,

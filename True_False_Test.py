@@ -37,15 +37,15 @@ class TemperatureStudy:
             return json.load(f)
     
     def clean_response(self, text: str) -> str:
-        """Clean the model response to extract just the numerical value."""
-        text = text.replace('"""', '').replace('```', '').strip()
+        """Clean the model response to keep only the first line."""
+        # Split the text into lines and take the first one
+        first_line = text.split('\n', 1)[0]
         
-        # Try to extract just the number if there's other text
-        import re
-        if match := re.search(r'-?\d*\.?\d+', text):
-            return match.group()
+        # Remove extra quotes and clean up whitespace
+        first_line = first_line.replace('"""', '').replace('```', '').strip()
         
-        return text
+        return first_line
+
 
     async def run_temperature_test(self, question: str, temperature: float) -> Dict:
         """

@@ -1,5 +1,5 @@
 [
-    {
+  {
     "question": "What is twenty five multiplied by four?",
     "correct_answer": "Hundred"
   },
@@ -12,7 +12,7 @@
     "correct_answer": "24 h"
   },
   {
-    "question": "A projectile is launched with an initial velocity of 120 m/s at an angle of 30° to the horizontal. What is the maximum height it reaches?",
+    "question": "A projectile is launched with an initial velocity of 120 m/s at an angle of 30\u00b0 to the horizontal. What is the maximum height it reaches?",
     "correct_answer": "183.67 m"
   },
   {
@@ -68,7 +68,7 @@
     "correct_answer": "4.12 h"
   },
   {
-    "question": "A metal rod expands by 0.02 cm for every 15°C rise in temperature. If the rod is 2 meters long, how much will it expand when the temperature rises from 15°C to 85°C?",
+    "question": "A metal rod expands by 0.02 cm for every 15\u00b0C rise in temperature. If the rod is 2 meters long, how much will it expand when the temperature rises from 15\u00b0C to 85\u00b0C?",
     "correct_answer": "0.93 cm"
   },
   {

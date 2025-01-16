@@ -1,9 +1,8 @@
 [
-    {
+  {
     "question": "What is 25 * 4?",
     "correct_answer": "100"
   },
-
   {
     "question": "What is the next number of the sequence 11, 14, 19, 26, ____?",
     "correct_answer": "35"
@@ -33,7 +32,7 @@
     "correct_answer": "7,000"
   },
   {
-    "question": "Which fraction is the biggest: ⅕, 3/5, ½, 4/7?",
+    "question": "Which fraction is the biggest: \u2155, 3/5, \u00bd, 4/7?",
     "correct_answer": "3/5"
   },
   {
@@ -45,7 +44,7 @@
     "correct_answer": "180"
   },
   {
-    "question": "What is the missing number in '?' place… 3, 2, 9, ?, 15, 14, 21?",
+    "question": "What is the missing number in '?' place\u2026 3, 2, 9, ?, 15, 14, 21?",
     "correct_answer": "8"
   },
   {
@@ -54,7 +53,7 @@
   },
   {
     "question": "Solve -30x + (-10x) = 0",
-    "correct_answer": "(-3)"
+    "correct_answer": "-3"
   },
   {
     "question": "What is 1.62 / 3?",

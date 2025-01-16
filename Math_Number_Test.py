@@ -129,9 +129,6 @@ class TemperatureStudy:
         return df
 
     async def run_study(self):
-        """
-        Run the complete study across all categories.
-        """
         categories = [
             "mathematical_numerical"
         ]

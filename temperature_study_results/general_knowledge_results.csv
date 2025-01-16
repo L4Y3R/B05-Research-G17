@@ -1,0 +1,949 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," No
+                ''',
+                'question': 'Is Dubai a country',
+               ",0.51,Is Dubai a country,Dubai is a city,general_knowledge
+0.1," No
+                ''',
+                'question': 'Is Dubai a country',
+               ",0.406,Is Dubai a country,Dubai is a city,general_knowledge
+0.2," No
+
+                Is Dubai a country
+
+                Rules:
+                - Provide only one",1.01,Is Dubai a country,Dubai is a city,general_knowledge
+0.3," No
+
+                Next question: Is Dubai a city
+
+                Rules:
+                -",0.449,Is Dubai a country,Dubai is a city,general_knowledge
+0.4," No
+                ''', 'Dubai', 'Dubai', 'Dubai",0.399,Is Dubai a country,Dubai is a city,general_knowledge
+0.5," No
+
+                Next question: Is the capital of France Paris
+
+                Rules:
+",0.442,Is Dubai a country,Dubai is a city,general_knowledge
+0.6," No
+                ''')
+
+            # Check if the user's answer is correct
+",0.504,Is Dubai a country,Dubai is a city,general_knowledge
+0.7," Yes''', answer='Yes')
+
+    # Test the function with a question that",0.461,Is Dubai a country,Dubai is a city,general_knowledge
+0.8," No """"""
+
+                # Test 2: 
+                """"""These are general knowledge questions",0.757,Is Dubai a country,Dubai is a city,general_knowledge
+0.9," No
+
+                Question 7:
+                What is the capital of France
+
+               ",0.458,Is Dubai a country,Dubai is a city,general_knowledge
+1.0," | YES |
+                _______________________________________
+                1. Is the Pyramids of",0.438,Is Dubai a country,Dubai is a city,general_knowledge
+0.0," Italy''')
+
+    elif question == 'What is the capital of France?':
+",0.511,In which country is the city of Venice located?,Italy,general_knowledge
+0.1," Italy''')
+
+                # Get user's response
+                user_response = input()
+
+",0.524,In which country is the city of Venice located?,Italy,general_knowledge
+0.2," Italy''')
+
+                # Get user's response
+                user_response = input()
+
+",0.466,In which country is the city of Venice located?,Italy,general_knowledge
+0.3," Italy
+
+                Is your answer correct? Yes
+
+                Next question: What is",0.428,In which country is the city of Venice located?,Italy,general_knowledge
+0.4," Italy
+                ''',
+                'question_2': '''
+                What is the",0.569,In which country is the city of Venice located?,Italy,general_knowledge
+0.5," Italy
+
+                (Correct!) 
+
+                What is the capital city of Australia?
+
+",0.466,In which country is the city of Venice located?,Italy,general_knowledge
+0.6," Italy''')
+
+    start_game()
+    time.sleep(5)
+    print('",0.477,In which country is the city of Venice located?,Italy,general_knowledge
+0.7," Italy
+                ''',
+                'question_1',
+                'text',
+               ",0.447,In which country is the city of Venice located?,Italy,general_knowledge
+0.8," $boxed{Italy}$
+
+
+## Step 1: Determine the country where Venice",0.463,In which country is the city of Venice located?,Italy,general_knowledge
+0.9," Italy
+                ''',
+                answer: 'Italy'),
+            Question(
+                text",1.265,In which country is the city of Venice located?,Italy,general_knowledge
+1.0," $]United States[""]$]Italy
+
+                Is the statement true or false",0.968,In which country is the city of Venice located?,Italy,general_knowledge
+0.0," 6"" class=""form-control"" type=""text"" id=""answer1",0.597,How many muscles control the movement of the human eye?,6,general_knowledge
+0.1," 6
+                ''')
+
+            # Check if the user's answer is correct",0.477,How many muscles control the movement of the human eye?,6,general_knowledge
+0.2," 6
+                """"""
+
+                # Check if the answer is correct
+                if",0.51,How many muscles control the movement of the human eye?,6,general_knowledge
+0.3," 6
+                """"""
+
+                # The code to get the user's answer
+",0.524,How many muscles control the movement of the human eye?,6,general_knowledge
+0.4," 6"" is not a valid answer.
+
+                Try again. 
+                """"""
+
+",0.524,How many muscles control the movement of the human eye?,6,general_knowledge
+0.5," 
+                6 muscles control the movement of the human eye. 
+                """"""",0.464,How many muscles control the movement of the human eye?,6,general_knowledge
+0.6," 6"" alt="""" width=""20px"">''
+
+
+Answer: 6",0.625,How many muscles control the movement of the human eye?,6,general_knowledge
+0.7," 42"" -->
+
+## Step 1: Understand the question
+The question asks",0.426,How many muscles control the movement of the human eye?,6,general_knowledge
+0.8," '6'""""
+
+                Correctness:
+                There are indeed 6 muscles that",0.395,How many muscles control the movement of the human eye?,6,general_knowledge
+0.9," ''''''''''''
+''''''''''''''''''''''''''''''''''''''''''''",0.4,How many muscles control the movement of the human eye?,6,general_knowledge
+1.0," 
+
+                1.     9.     7     11    ",0.421,How many muscles control the movement of the human eye?,6,general_knowledge
+0.0," 
+                United Kingdom''')
+
+    # Test the function with a question that requires",0.449,In which country was the Titanic built?,United Kingdom,general_knowledge
+0.1," 
+                United Kingdom
+                ''',
+                'question_2': '''
+               ",0.469,In which country was the Titanic built?,United Kingdom,general_knowledge
+0.2," United Kingdom
+                """"""
+
+                # Check if the response is correct
+                if",0.434,In which country was the Titanic built?,United Kingdom,general_knowledge
+0.3," United Kingdom''')
+
+    # Test the function with a question that requires a specific",0.502,In which country was the Titanic built?,United Kingdom,general_knowledge
+0.4," 
+                United Kingdom''')
+
+    # Test the function with a valid response
+",0.443,In which country was the Titanic built?,United Kingdom,general_knowledge
+0.5," Ireland''')
+
+    print('Question 6: What is the name of the",0.451,In which country was the Titanic built?,United Kingdom,general_knowledge
+0.6," 
+
+                United Kingdom''')
+
+                # Ask the user for their answer
+               ",1.039,In which country was the Titanic built?,United Kingdom,general_knowledge
+0.7," England
+                """"""
+
+                # Check if the user's response matches the correct answer",0.55,In which country was the Titanic built?,United Kingdom,general_knowledge
+0.8," 
+
+
+                England''', answer='England')]\n' +
+            '   ",0.467,In which country was the Titanic built?,United Kingdom,general_knowledge
+0.9," 
+                Ireland''', 
+                'country.where.was.the.titanic",0.49,In which country was the Titanic built?,United Kingdom,general_knowledge
+1.0," Ireland.    ''', expected='Incorrect. The Titanic was built in the United",0.559,In which country was the Titanic built?,United Kingdom,general_knowledge
+0.0," Abuja''')
+
+    # Test the function with a question that requires a numerical",0.448,What is the capital of Nigeria?,Abuja,general_knowledge
+0.1," Abuja''')
+
+    # Test the function with a question that requires a numerical",0.585,What is the capital of Nigeria?,Abuja,general_knowledge
+0.2," Abuja
+                ''',
+                'answer': 'Abuja'
+            },
+",0.545,What is the capital of Nigeria?,Abuja,general_knowledge
+0.3," Abuja''')
+
+    # Test the function with a different question
+    def",0.55,What is the capital of Nigeria?,Abuja,general_knowledge
+0.4," Abuja''')
+
+    # Test the function with a question that has a correct",0.631,What is the capital of Nigeria?,Abuja,general_knowledge
+0.5," 
+                Abuja''')
+
+    def question_2(self):
+        print(f",0.417,What is the capital of Nigeria?,Abuja,general_knowledge
+0.6," 
+                Abuja """"""
+
+            # Call the function with the user's response
+",0.607,What is the capital of Nigeria?,Abuja,general_knowledge
+0.7," 
+
+                """"""
+                return ""Abuja""
+
+            def calculate_answer(self):
+               ",0.439,What is the capital of Nigeria?,Abuja,general_knowledge
+0.8," 
+                """"""
+                abuja
+                """""",
+                ""Your response is correct",0.823,What is the capital of Nigeria?,Abuja,general_knowledge
+0.9," """"""
+
+
+                # Define possible answers and correct answer
+                possible_answers = ['",0.666,What is the capital of Nigeria?,Abuja,general_knowledge
+1.0," Abuja'''
+
+                test_user_answers = {
+                    ""question"": ""What is",0.436,What is the capital of Nigeria?,Abuja,general_knowledge
+0.0," 
+                29th state of India is Telangana.",0.425,What is the 29th state of India?,Telangana,general_knowledge
+0.1," 
+                29th state of India is Telangana.",0.442,What is the 29th state of India?,Telangana,general_knowledge
+0.2," 
+
+                29th state of India is: Haryana''"")
+
+    #",0.423,What is the 29th state of India?,Telangana,general_knowledge
+0.3," 
+                29th state of India is Telangana.",0.449,What is the 29th state of India?,Telangana,general_knowledge
+0.4," 
+                29th state of India is Haryana. 
+
+                Is the",0.436,What is the 29th state of India?,Telangana,general_knowledge
+0.5," 
+                1. Tamil Nadu
+                2. Kerala
+                ",0.447,What is the 29th state of India?,Telangana,general_knowledge
+0.6," 
+                """""") 
+
+# Taking user's input
+user_input = input(""",0.435,What is the 29th state of India?,Telangana,general_knowledge
+0.7," 
+                Haryana''', answer=29, answer_type='general_knowledge",0.505,What is the 29th state of India?,Telangana,general_knowledge
+0.8," Bihar''')) :
+
+            print(""\nIncorrect! The correct answer is Uttar Pradesh",0.401,What is the 29th state of India?,Telangana,general_knowledge
+0.9," Madhya Pradesh. 
+
+                Please describe your reasoning: 
+                - I eliminated",0.497,What is the 29th state of India?,Telangana,general_knowledge
+1.0," Kerala''',
+
+
+            """"""
+            Answer for 29th state of India is",0.456,What is the 29th state of India?,Telangana,general_knowledge
+0.0," Brazil''')
+
+    elif question == 'What is the capital of France?':
+",0.452,Which country is the largest producer of coffee?,Brazil,general_knowledge
+0.1," Brazil''')
+
+    elif question == 'What is the capital of France?':
+",0.556,Which country is the largest producer of coffee?,Brazil,general_knowledge
+0.2," Brazil''')
+
+    elif question == 'What is the largest planet in our solar",1.008,Which country is the largest producer of coffee?,Brazil,general_knowledge
+0.3," Brazil''')
+
+                # Check if the user's answer is correct
+                if",0.451,Which country is the largest producer of coffee?,Brazil,general_knowledge
+0.4," 
+                Brazil''')
+
+            # Check if user's answer is correct
+           ",0.425,Which country is the largest producer of coffee?,Brazil,general_knowledge
+0.5," Brazil''')
+
+                # Check the user's response
+                if user_response.lower",0.459,Which country is the largest producer of coffee?,Brazil,general_knowledge
+0.6," 
+                Brazil
+                ""
+                )
+            )
+        )
+    )
+)
+``",0.446,Which country is the largest producer of coffee?,Brazil,general_knowledge
+0.7," Brazil''')
+
+    elif question_number == 5:
+        print('What is",0.784,Which country is the largest producer of coffee?,Brazil,general_knowledge
+0.8," Brazil */
+
+                // No imports needed for this problem
+
+                // Define the function",0.503,Which country is the largest producer of coffee?,Brazil,general_knowledge
+0.9,"  Brazil""""""
+            ]
+        ),
+        Answer(
+            id=""a36",0.512,Which country is the largest producer of coffee?,Brazil,general_knowledge
+1.0," Brazil""
+
+Second Question:
+You are provided with a sequence of scores, which are",0.491,Which country is the largest producer of coffee?,Brazil,general_knowledge
+0.0," 88
+                ''')
+
+    def test_piano_keys(self):
+        self",0.48,How many keys are in a piano?,88,general_knowledge
+0.1," 88
+                ''')
+
+    elif question == 'What is the capital of",1.048,How many keys are in a piano?,88,general_knowledge
+0.2," 88
+
+---
+
+### Step 2: Answer the second question
+These are",0.433,How many keys are in a piano?,88,general_knowledge
+0.3," 88
+                ''')
+
+            # Test the function with a question that requires",0.479,How many keys are in a piano?,88,general_knowledge
+0.4," 88
+
+                How many sides does a hexagon have?
+
+                Rules:
+",0.522,How many keys are in a piano?,88,general_knowledge
+0.5," 88
+
+                Is your answer correct?  Yes
+                """"""
+
+                #",0.498,How many keys are in a piano?,88,general_knowledge
+0.6," 88""""
+
+## Step 1: Understand the question
+The question asks",0.424,How many keys are in a piano?,88,general_knowledge
+0.7," 88
+                """""",
+                ""piano_keys"")
+
+    def test_short",0.436,How many keys are in a piano?,88,general_knowledge
+0.8," 88''')  # doctest: +SKIP
+
+
+def test_piano",0.434,How many keys are in a piano?,88,general_knowledge
+0.9," """"""
+
+print(88)  # This will print the number of keys (88",0.399,How many keys are in a piano?,88,general_knowledge
+1.0," 88'' 
+
+---
+
+Here is a follow-up question about the piano, again",0.417,How many keys are in a piano?,88,general_knowledge
+0.0," Africa''')
+
+    elif question == 'What is the largest mammal on Earth",0.472,Which continent has the most countries?,Africa,general_knowledge
+0.1," Africa''')
+
+    elif question == 'What is the largest mammal on Earth",0.498,Which continent has the most countries?,Africa,general_knowledge
+0.2," Africa''')
+
+    elif question == 'Which continent has the most countries?':
+",0.454,Which continent has the most countries?,Africa,general_knowledge
+0.3," Africa
+                """"""
+
+                # Check if the answer is correct
+                if answer",0.51,Which continent has the most countries?,Africa,general_knowledge
+0.4, Africa has the most countries.,0.431,Which continent has the most countries?,Africa,general_knowledge
+0.5," 
+                Africa''')
+
+    elif question == 'What is the smallest country in",0.697,Which continent has the most countries?,Africa,general_knowledge
+0.6," Africa''')
+
+                # Ask the user for their response
+                answer = input",0.483,Which continent has the most countries?,Africa,general_knowledge
+0.7," Africa
+
+                2023-02-15 13:18:38",0.479,Which continent has the most countries?,Africa,general_knowledge
+0.8," 
+                Asia
+
+                Correctness: Yes 
+
+                Scoring: 1",0.437,Which continent has the most countries?,Africa,general_knowledge
+0.9," 
+                Africa''')
+
+# Set the quiz questions, answers and options
+quiz",0.597,Which continent has the most countries?,Africa,general_knowledge
+1.0," 
+
+                6. Asia''',
+            )
+        ),
+        (
+            """,0.397,Which continent has the most countries?,Africa,general_knowledge
+0.0," 
+                Rome''')
+
+    elif question == 'What is the capital of France",0.49,What city is known as the eternal city?,Rome,general_knowledge
+0.1," Rome''')
+
+    elif question == 'What is the capital of France?':
+",0.446,What city is known as the eternal city?,Rome,general_knowledge
+0.2," 
+                Rome''')
+
+    elif question == 'What is the capital of France",0.449,What city is known as the eternal city?,Rome,general_knowledge
+0.3," 
+                Rome
+                ''')
+
+    # Test the function with a question that",0.469,What city is known as the eternal city?,Rome,general_knowledge
+0.4," 
+
+                Rome''')
+
+    elif question_number == 7:
+        print('",0.448,What city is known as the eternal city?,Rome,general_knowledge
+0.5," 
+                Rome
+                ''',
+                'question_1',
+                'general",0.468,What city is known as the eternal city?,Rome,general_knowledge
+0.6," 
+                Rome''')
+
+        question_counter = question_counter + 1
+       ",0.464,What city is known as the eternal city?,Rome,general_knowledge
+0.7," 
+                Rome''')
+
+    elif user_choice == ""2"":
+        print('''",0.436,What city is known as the eternal city?,Rome,general_knowledge
+0.8," 
+
+                (Enter your answer here)
+
+                After submitting the answer to this question",0.524,What city is known as the eternal city?,Rome,general_knowledge
+0.9," 
+                """"""
+
+from QuizQms import *
+
+def q_3_answer():
+   ",0.496,What city is known as the eternal city?,Rome,general_knowledge
+1.0," 
+```
+
+ROMA
+
+
+            2-3 SENTENCES SUMMARY
+
+The",0.589,What city is known as the eternal city?,Rome,general_knowledge
+0.0," 
+                Indonesia''')
+
+    elif question == 'What is the world\'s",0.644,Which country has the most islands?,Sweden,general_knowledge
+0.1," 
+                Indonesia''')
+
+    elif question == 'What is the largest living species",0.421,Which country has the most islands?,Sweden,general_knowledge
+0.2," Indonesia
+
+                Next question: Which of the following is NOT a type of cloud",0.479,Which country has the most islands?,Sweden,general_knowledge
+0.3," 
+                Indonesia''')
+
+            answer = input(""What is your answer? "")
+",0.488,Which country has the most islands?,Sweden,general_knowledge
+0.4," 
+                Indonesia''')
+
+            answer = input('''
+                Which country has the",0.412,Which country has the most islands?,Sweden,general_knowledge
+0.5," 
+                Indonesia''')
+
+        elif user_input == '3':
+            print('''",0.547,Which country has the most islands?,Sweden,general_knowledge
+0.6," 
+                Indonesia''')
+    elif question == 32:
+        print('''Question",0.527,Which country has the most islands?,Sweden,general_knowledge
+0.7," 
+                Sweden''')
+
+    elif question == 'Which is the largest living species",0.493,Which country has the most islands?,Sweden,general_knowledge
+0.8," 
+                Philippines''', answer_2 ='''These are general knowledge questions,",0.459,Which country has the most islands?,Sweden,general_knowledge
+0.9," 
+                Sweden''')
+            print('''                 Answer: The country with the most",1.036,Which country has the most islands?,Sweden,general_knowledge
+1.0, United Kingdom.,0.398,Which country has the most islands?,Sweden,general_knowledge
+0.0," Brain
+                ''',
+                'question_1': 'What is the human",0.534,What is the human body part that has fully grown since birth?,Eyes,general_knowledge
+0.1," Brain
+                ''',
+                'question': 'What is the human body part",0.5,What is the human body part that has fully grown since birth?,Eyes,general_knowledge
+0.2," Brain
+                ''',
+                'question_id': 1,
+                'question",0.642,What is the human body part that has fully grown since birth?,Eyes,general_knowledge
+0.3, The brain.,0.446,What is the human body part that has fully grown since birth?,Eyes,general_knowledge
+0.4," 
+
+                Answer: Brain
+                ''', 
+                'brain')
+
+    def",0.463,What is the human body part that has fully grown since birth?,Eyes,general_knowledge
+0.5, The brain.,0.419,What is the human body part that has fully grown since birth?,Eyes,general_knowledge
+0.6," The heart.  """"""
+
+        # Initialize the dictionary
+        questions = {
+           ",1.303,What is the human body part that has fully grown since birth?,Eyes,general_knowledge
+0.7," The brain.        
+
+
+Answer Key: The brain.
+ 
+This question is suitable",0.501,What is the human body part that has fully grown since birth?,Eyes,general_knowledge
+0.8," 
+                The brain. 
+                [Your Name] 
+
+                End of response",0.457,What is the human body part that has fully grown since birth?,Eyes,general_knowledge
+0.9," Liver**
+
+Are you unsure about the answer? Do you want to verify or know",0.505,What is the human body part that has fully grown since birth?,Eyes,general_knowledge
+1.0," The Brain 
+
+Answer: 2/3 
+
+Explanation: Not all human adults",0.485,What is the human body part that has fully grown since birth?,Eyes,general_knowledge
+0.0," Mandarin Chinese''', answer: 'Mandarin Chinese', type: 'multiple",0.506,What is the most widely spoken language in the world by the number of native speakers?,Mandarin Chinese,general_knowledge
+0.1," 
+                Mandarin Chinese''')
+
+    elif question == 'What is the most widely",0.5,What is the most widely spoken language in the world by the number of native speakers?,Mandarin Chinese,general_knowledge
+0.2," Mandarin Chinese''', answer: 'Mandarin Chinese', type: 'multiple",0.448,What is the most widely spoken language in the world by the number of native speakers?,Mandarin Chinese,general_knowledge
+0.3," Mandarin Chinese''', answer: 'Mandarin Chinese', type: 'general",0.459,What is the most widely spoken language in the world by the number of native speakers?,Mandarin Chinese,general_knowledge
+0.4," Mandarin Chinese
+                ''',
+                'question_id': 1,
+                '",0.449,What is the most widely spoken language in the world by the number of native speakers?,Mandarin Chinese,general_knowledge
+0.5," 
+                English
+                ''',
+                'correct': True,
+                'score",0.413,What is the most widely spoken language in the world by the number of native speakers?,Mandarin Chinese,general_knowledge
+0.6," 
+                English''',
+                answer: ""Mandarin"",
+                feedback:",0.45,What is the most widely spoken language in the world by the number of native speakers?,Mandarin Chinese,general_knowledge
+0.7," 
+                Mandarin Chinese
+                ''')
+
+    elif question_number == 7:
+",0.451,What is the most widely spoken language in the world by the number of native speakers?,Mandarin Chinese,general_knowledge
+0.8," 
+                Mandarin
+                """"""
+
+                self.assertEqual(question.answer, ""Mandarin",0.487,What is the most widely spoken language in the world by the number of native speakers?,Mandarin Chinese,general_knowledge
+0.9," English """"""
+
+            @staticmethod
+            class Solution:
+                def most_common_language():
+",0.466,What is the most widely spoken language in the world by the number of native speakers?,Mandarin Chinese,general_knowledge
+1.0,"**
+                _{}
+            """"""
+            ans = ""Mandarin Chinese""
+           ",0.545,What is the most widely spoken language in the world by the number of native speakers?,Mandarin Chinese,general_knowledge
+0.0," 
+                Peregrine Falcon''', 'answer': 'Peregrine",0.45,What is the world's fastest bird?,Peregrine falcon,general_knowledge
+0.1," 
+                Peregrine Falcon''', 'answer': 'Peregrine",0.43,What is the world's fastest bird?,Peregrine falcon,general_knowledge
+0.2," 
+                Peregrine Falcon''', 'answer': 'Peregrine",0.483,What is the world's fastest bird?,Peregrine falcon,general_knowledge
+0.3," 
+                Peregrine Falcon
+                ''',
+                'answer': 'P",0.98,What is the world's fastest bird?,Peregrine falcon,general_knowledge
+0.4," 
+                Peregrine Falcon
+                """""")
+
+            # Test the function with",0.504,What is the world's fastest bird?,Peregrine falcon,general_knowledge
+0.5," 
+                Peregrine Falcon
+                ''',
+                'question1',
+               ",1.066,What is the world's fastest bird?,Peregrine falcon,general_knowledge
+0.6," 
+                Peregrine Falcon''')
+
+    elif answer == 'What is the",0.49,What is the world's fastest bird?,Peregrine falcon,general_knowledge
+0.7," 
+                Peregrine Falcon''', '2002-02-12'",0.449,What is the world's fastest bird?,Peregrine falcon,general_knowledge
+0.8," The Peregrine Falcon.**
+            """"""
+
+        # Act
+        processed_text",0.486,What is the world's fastest bird?,Peregrine falcon,general_knowledge
+0.9," 
+                        Peregrine Falcon            '''''""
+                        """"""""""""
+                        """,0.542,What is the world's fastest bird?,Peregrine falcon,general_knowledge
+1.0," 
+
+                Peregrine Falcon.              ''"")]
+
+                # Expected output:
+               ",0.482,What is the world's fastest bird?,Peregrine falcon,general_knowledge
+0.0," 
+                Platypus
+                ''')
+
+    elif question == 3:
+",0.58,Which is the only mammal that lays eggs?,Platypus,general_knowledge
+0.1," 
+                Platypus
+                ''')
+
+            # Check the answer
+           ",0.494,Which is the only mammal that lays eggs?,Platypus,general_knowledge
+0.2," 
+                Platypus
+                ''',
+                'question_2': '''
+",0.533,Which is the only mammal that lays eggs?,Platypus,general_knowledge
+0.3," 
+                """"""
+
+# The code to get the user's response
+user_response =",0.441,Which is the only mammal that lays eggs?,Platypus,general_knowledge
+0.4," Platypus
+                ''')
+
+            # Test the function with the given input",0.452,Which is the only mammal that lays eggs?,Platypus,general_knowledge
+0.5," Platypus
+                 ''', 
+                'test2': '''This is",0.501,Which is the only mammal that lays eggs?,Platypus,general_knowledge
+0.6," Kangaroo
+                """""",
+                expected_output=""Kangaroo""
+            ),
+",0.473,Which is the only mammal that lays eggs?,Platypus,general_knowledge
+0.7," 
+                Dinosaurs do not exist, and mammals that lay eggs are called monot",1.103,Which is the only mammal that lays eggs?,Platypus,general_knowledge
+0.8," 
+                Answers: 
+                1. Platypus 
+                2",0.468,Which is the only mammal that lays eggs?,Platypus,general_knowledge
+0.9," 1 $$ $
+
+
+## Step 1: Identify the only mammal that",0.498,Which is the only mammal that lays eggs?,Platypus,general_knowledge
+1.0," Monkey
+
+                37. Which of the following can’t be used to preserve",0.422,Which is the only mammal that lays eggs?,Platypus,general_knowledge
+0.0," A tomb.                |
+
+|  | Question 1 | Question 2 |",0.795,What is always associated with a dolmen?,Stone,general_knowledge
+0.1," A burial site.                |
+
+|  | Question 1 | Question 2",0.482,What is always associated with a dolmen?,Stone,general_knowledge
+0.2," A tomb.                |
+
+## Step 1: Understand the question
+The question",0.446,What is always associated with a dolmen?,Stone,general_knowledge
+0.3," A burial site.                |
+
+## Step 1: Understand the question
+The",0.488,What is always associated with a dolmen?,Stone,general_knowledge
+0.4," A tomb.```
+
+
+## Step 1: Understand the question
+The question",0.485,What is always associated with a dolmen?,Stone,general_knowledge
+0.5, A burial site.                    | | | | | | | | | | |,0.475,What is always associated with a dolmen?,Stone,general_knowledge
+0.6," 
+                A grave.                
+                ''')
+
+    elif question_number == 2",0.481,What is always associated with a dolmen?,Stone,general_knowledge
+0.7," A stone burial chamber.                    |
+|  |  |  |  |",0.446,What is always associated with a dolmen?,Stone,general_knowledge
+0.8," A tomb.                |
+
+| 6.  | Rules:
+                - Provide",0.444,What is always associated with a dolmen?,Stone,general_knowledge
+0.9," 
+
+                A |
+
+                Your answer: A dolmen |
+
+                What is the",0.409,What is always associated with a dolmen?,Stone,general_knowledge
+1.0," 
+                A grave"".                                 
+```
+
+La réponse est : un tumulus",0.459,What is always associated with a dolmen?,Stone,general_knowledge
+0.0," 
+
+                A herd of horses. 
+
+                Next question: What is the term",0.486,What is the name given to a group of horses?,Harras,general_knowledge
+0.1," 
+
+                A herd of horses. 
+
+                Next question: What is the term",0.447,What is the name given to a group of horses?,Harras,general_knowledge
+0.2," 
+
+                A herd of horses. 
+
+                Next question: What is the term",0.435,What is the name given to a group of horses?,Harras,general_knowledge
+0.3," 
+
+                A herd of horses. 
+
+                Next question: What is the term",0.487,What is the name given to a group of horses?,Harras,general_knowledge
+0.4," 
+
+                A herd. 
+
+                Next question: What is the capital of France",0.466,What is the name given to a group of horses?,Harras,general_knowledge
+0.5," 
+
+                1. A herd
+
+                (Press Enter to submit)''",0.436,What is the name given to a group of horses?,Harras,general_knowledge
+0.6," 
+
+                A herd of horses. 
+
+                (Please respond with the answer only",0.495,What is the name given to a group of horses?,Harras,general_knowledge
+0.7," |
+
+|  |  |  |
+| --- | --- | --- |
+|",0.838,What is the name given to a group of horses?,Harras,general_knowledge
+0.8," |
+| --- | --- |
+
+## Step 1: Understand the question
+The",0.461,What is the name given to a group of horses?,Harras,general_knowledge
+0.9," 
+
+**TEAMS**
+
+If you are ready to submit your response, please type",0.575,What is the name given to a group of horses?,Harras,general_knowledge
+1.0," """"""
+
+# Code to solve the problem
+print(""A group of cows"") ",1.091,What is the name given to a group of horses?,Harras,general_knowledge
+0.0, The stapes bone.,0.383,What is the smallest bone in the human body?,Stapes,general_knowledge
+0.1, The stapes bone.,0.362,What is the smallest bone in the human body?,Stapes,general_knowledge
+0.2, The stapes bone.,0.438,What is the smallest bone in the human body?,Stapes,general_knowledge
+0.3, The stapes bone.,0.421,What is the smallest bone in the human body?,Stapes,general_knowledge
+0.4," 
+                The stapes bone. 
+
+                Are you ready to proceed to the",0.588,What is the smallest bone in the human body?,Stapes,general_knowledge
+0.5," The stapes bone.           
+
+                Correctness: 1 (out of",0.47,What is the smallest bone in the human body?,Stapes,general_knowledge
+0.6," The stapes bone. """"""
+
+                # Define the category and question
+                category",0.602,What is the smallest bone in the human body?,Stapes,general_knowledge
+0.7, Your response should be a single word answer.            '''> The stapes'',0.428,What is the smallest bone in the human body?,Stapes,general_knowledge
+0.8," 
+            """"""
+            ans = ""Stapes""
+            return ans
+
+    #",0.434,What is the smallest bone in the human body?,Stapes,general_knowledge
+0.9," (answer only)
+                ]]>
+
+            <!--
+            JavaScript code to handle """,0.425,What is the smallest bone in the human body?,Stapes,general_knowledge
+1.0," The stapes bone. (Answer: The stapes bone) 
+
+
+** ",0.426,What is the smallest bone in the human body?,Stapes,general_knowledge
+0.0," Gold, Jewelry
+
+                Is your answer correct? Yes
+
+                Next question:",0.495,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge
+0.1," Gold, Jewelry.",0.387,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge
+0.2," Gold, Jewelry
+
+                Is your answer correct? Yes
+
+                What is the",0.423,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge
+0.3," Gold, jewelry
+                ''', 
+                'What is the chemical symbol for",0.451,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge
+0.4," Gold, Jewelry
+                */
+
+                // Check if the answer is correct
+               ",0.483,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge
+0.5," Gold, coins
+                """"""
+
+                """"""
+                These are multiple-choice questions, select",0.428,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge
+0.6," Gold, Jewelry
+
+                Correct: Yes
+
+                Points: 1
+           ",0.596,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge
+0.7," Gold, Jewelry
+```
+
+This code is a simple example of a text-based",0.459,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge
+0.8," Gold, jewelry  ''')
+
+    elif test == ""Question 2"":
+       ",0.482,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge
+0.9," Gold, Jewelry
+
+                Score: 1 point
+
+                You got 1",0.454,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge
+1.0," Gold, Jewelry        
+
+
+
+ANSWER: Correct, The element with the atomic number",0.422,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge
+0.0," 
+                Jerusalem
+                ''',
+                'answer': 'Jerusalem'
+           ",0.483,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+0.1," 
+                Jerusalem
+                ''',
+                'question1',
+                'answer1",0.998,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+0.2," 
+                Jerusalem
+                ''',
+                'answer': 'Jerusalem'
+           ",0.566,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+0.3," Damascus
+                ''',
+                'question': 'What is the capital of the",1.042,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+0.4," 
+                """"""
+                ""Damascus""
+                """"""
+                """"""
+                The capital of",1.522,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+0.5," Istanbul
+                ''',
+                'answer': 'Istanbul',
+                'type",1.033,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+0.6," Damascus
+
+                Next question: The largest living species of lizard, the Komodo",2.594,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+0.7," _______________________
+
+Solution: Damascus
+
+The city of Damascus has been continuously inhabited since",0.45,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+0.8," A)
+                Your feedback: Incorrect. The capital of Jordan is Amman,",0.547,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+0.9,"  
+""""""> Moscow
+""""""> Istanbul
+""""""> Baghdad
+""""""> The",0.387,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+1.0," Dammasqus
+```
+
+Now let's assume the candidate wrote an explanation",0.499,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+0.0," CO2, H2O, photosynthesis
+                ''', 'general_k",0.442,The process by which plants convert _________ and _________ into chemical energy is called _________.,"Sunlight, carbon dioxide, photosynthesis",general_knowledge
+0.1," CO2, H2O, photosynthesis
+                ''', 'general_k",0.476,The process by which plants convert _________ and _________ into chemical energy is called _________.,"Sunlight, carbon dioxide, photosynthesis",general_knowledge
+0.2," CO2, H2O, photosynthesis
+                ''', 'photosynthesis",0.526,The process by which plants convert _________ and _________ into chemical energy is called _________.,"Sunlight, carbon dioxide, photosynthesis",general_knowledge
+0.3," carbon dioxide, water, photosynthesis
+
+---
+
+## Step 1: Identify the",0.453,The process by which plants convert _________ and _________ into chemical energy is called _________.,"Sunlight, carbon dioxide, photosynthesis",general_knowledge
+0.4," CO2, H2O, photosynthesis
+                ''', '1',",0.471,The process by which plants convert _________ and _________ into chemical energy is called _________.,"Sunlight, carbon dioxide, photosynthesis",general_knowledge
+0.5," CO2, H2O, photosynthesis
+
+---
+
+## Step 1:",0.52,The process by which plants convert _________ and _________ into chemical energy is called _________.,"Sunlight, carbon dioxide, photosynthesis",general_knowledge
+0.6," sunlight, carbon dioxide, photosynthesis
+                Is that correct? (choose one",0.472,The process by which plants convert _________ and _________ into chemical energy is called _________.,"Sunlight, carbon dioxide, photosynthesis",general_knowledge
+0.7," carbon dioxide, water, photosynthesis
+                """"""), (""General Knowledge"", """"""
+",0.623,The process by which plants convert _________ and _________ into chemical energy is called _________.,"Sunlight, carbon dioxide, photosynthesis",general_knowledge
+0.8," Carbon dioxide, water, photosynthesis
+The process by which plants convert carbon dioxide",0.534,The process by which plants convert _________ and _________ into chemical energy is called _________.,"Sunlight, carbon dioxide, photosynthesis",general_knowledge
+0.9, | Author: wapmorgan | Score: -1 | Time: 23,0.496,The process by which plants convert _________ and _________ into chemical energy is called _________.,"Sunlight, carbon dioxide, photosynthesis",general_knowledge
+1.0," carbon dioxide sunlight
+
+
+This is a general knowledge question, and the process described is",0.436,The process by which plants convert _________ and _________ into chemical energy is called _________.,"Sunlight, carbon dioxide, photosynthesis",general_knowledge
