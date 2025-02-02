@@ -1,9 +1,5 @@
 [
   {
-    "question": "Is Dubai a country",
-    "correct_answer": "Dubai is a city"
-  },
-  {
     "question": "In which country is the city of Venice located?",
     "correct_answer": "Italy"
   },
