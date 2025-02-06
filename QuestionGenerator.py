@@ -18,7 +18,7 @@ def create_sample_questions():
             {"question": "What is the missing number in the series 200, 190, ___, 170, 160?", "correct_answer": "180"},
             {"question": "What is the missing number in '?' place, 3, 2, 9, ?, 15, 14, 21", "correct_answer": "8"},
             {"question": "What is the odd number: 2, 202, 385, 150, 148?", "correct_answer": "385"},
-            {"question": "Solve -30x + (-10x) = 0", "correct_answer": "-3"},
+            {"question": "Solve -30 + (-10X) = 0", "correct_answer": "-3"},
             {"question": "What is 1.62 / 3?", "correct_answer": "0.54"},
             {"question": "What is the sum of 140+96+25?", "correct_answer": "261"},
             {"question": "10+(80/2) Equal to?", "correct_answer": "50"},

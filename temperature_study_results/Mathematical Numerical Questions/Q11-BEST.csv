@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,8.0,4.78,"What is the missing number in '?' place, 3, 2, 9, ?, 15, 14, 21",8,mathematical_numerical
+0.1,8.0,8.953,"What is the missing number in '?' place, 3, 2, 9, ?, 15, 14, 21",8,mathematical_numerical
+0.2,8.0,4.242,"What is the missing number in '?' place, 3, 2, 9, ?, 15, 14, 21",8,mathematical_numerical
+0.3,8.0,2.985,"What is the missing number in '?' place, 3, 2, 9, ?, 15, 14, 21",8,mathematical_numerical
+0.4,8,2.657,"What is the missing number in '?' place, 3, 2, 9, ?, 15, 14, 21",8,mathematical_numerical
+0.5,6.0,2.649,"What is the missing number in '?' place, 3, 2, 9, ?, 15, 14, 21",8,mathematical_numerical
+0.6,10.0,1.435,"What is the missing number in '?' place, 3, 2, 9, ?, 15, 14, 21",8,mathematical_numerical
+0.7,9,1.721,"What is the missing number in '?' place, 3, 2, 9, ?, 15, 14, 21",8,mathematical_numerical
+0.8,4,3.654,"What is the missing number in '?' place, 3, 2, 9, ?, 15, 14, 21",8,mathematical_numerical
+0.9,7.0,1.929,"What is the missing number in '?' place, 3, 2, 9, ?, 15, 14, 21",8,mathematical_numerical
+1.0,1.0,4.747,"What is the missing number in '?' place, 3, 2, 9, ?, 15, 14, 21",8,mathematical_numerical
