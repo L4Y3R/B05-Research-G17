@@ -24,8 +24,8 @@ def create_sample_questions():
             {"question": "10+(80/2) Equal to?", "correct_answer": "50"},
             {"question": "The product of 315x0x47x18 is?", "correct_answer": "0"},
             {"question": "What is 150% of 4751?", "correct_answer": "7,126.5"},
-            {"question": "If y(x-3) = z then x =?", "correct_answer": "z/y + 3"},
-            {"question": "Which of the following fractions is equal to 7/10: 7/12, 21/30, 56/13, 21/60?", "correct_answer": "21/30"},
+            {"question": "If x-3=0 then x=?", "correct_answer": "3"},
+            {"question": "Which of the following is equal to '21/30' \n '0.71', '0.6', '0.7', '0.3' ?", "correct_answer": "0.7"},
         ],
         "mathematical_text": [
             {"question": "A train traveling at 150 km/h takes 25 seconds to pass a pole. What is the length of the train in meters?", "correct_answer": "1042 m"},
