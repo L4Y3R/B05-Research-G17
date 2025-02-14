@@ -32,7 +32,7 @@ def create_sample_questions():
             {"question": "Two workers can complete a job in 8 hours when working together. Worker A alone would take 12 hours to complete the job. How long would Worker B alone take to complete it?", "correct_answer": "24 h"},
             {"question": "A projectile is launched with an initial velocity of 120 m/s at an angle of 30° to the horizontal. What is the maximum height it reaches?", "correct_answer": "183.67 m"},
             {"question": "A cylindrical tank with a diameter of 15 meters and a height of 30 meters is filled with water. If water flows out at a rate of 9 cubic meters per minute, how long will it take to empty the tank?", "correct_answer": "590 minutes"},
-            {"question": "A tank with a leak can be filled in 11 hours. When the tank is being filled, the leak reduces the fill rate by 15 liters per hour. If the tank is filled in 10 hours with the leak, what is its capacity?", "correct_answer": "165 liters"},
+            {"question": "A tank with a leak can be filled in 11 hours. When the tank is being filled, the leak reduces the fill rate by 15 liters per hour. If the tank is filled in 10 hours with the leak, what is its capacity in liters?", "correct_answer": "165 liters"},
             {"question": "A company sells 120 units of a product at Rs.6000 each. For every Rs.100 increase in price, they sell 6 fewer units. At what price will the company maximize revenue?", "correct_answer": "Rs.6200"},
             {"question": "A rectangle has a diagonal of 15 cm and one side of 7 cm. What is the length of the other side?", "correct_answer": "13.27 cm"},
             {"question": "The sum of the squares of three consecutive integers is 365. What are the integers?", "correct_answer": "10, 11, 12"},

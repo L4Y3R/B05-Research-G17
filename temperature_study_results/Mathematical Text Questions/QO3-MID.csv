@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,108.0,0.983,A projectile is launched with an initial velocity of 120 m/s at an angle of 30Â° to the horizontal. What is the maximum height it reaches?,183.67 m,mathematical_text
+0.1,108.0,0.983,A projectile is launched with an initial velocity of 120 m/s at an angle of 30Â° to the horizontal. What is the maximum height it reaches?,183.67 m,mathematical_text
+0.2,102.00,1.277,A projectile is launched with an initial velocity of 120 m/s at an angle of 30Â° to the horizontal. What is the maximum height it reaches?,183.67 m,mathematical_text
+0.3,176.7,0.47,A projectile is launched with an initial velocity of 120 m/s at an angle of 30Â° to the horizontal. What is the maximum height it reaches?,183.67 m,mathematical_text
+0.4,1800,0.478,A projectile is launched with an initial velocity of 120 m/s at an angle of 30Â° to the horizontal. What is the maximum height it reaches?,183.67 m,mathematical_text
+0.5,,1.057,A projectile is launched with an initial velocity of 120 m/s at an angle of 30Â° to the horizontal. What is the maximum height it reaches?,183.67 m,mathematical_text
+0.6,157.08                â¤â¤â¤â,2.662,A projectile is launched with an initial velocity of 120 m/s at an angle of 30Â° to the horizontal. What is the maximum height it reaches?,183.67 m,mathematical_text
+0.7,,0.449,A projectile is launched with an initial velocity of 120 m/s at an angle of 30Â° to the horizontal. What is the maximum height it reaches?,183.67 m,mathematical_text
+0.8,|,1.178,A projectile is launched with an initial velocity of 120 m/s at an angle of 30Â° to the horizontal. What is the maximum height it reaches?,183.67 m,mathematical_text
+0.9,2166.67,11.624,A projectile is launched with an initial velocity of 120 m/s at an angle of 30Â° to the horizontal. What is the maximum height it reaches?,183.67 m,mathematical_text
+1.0,,1.538,A projectile is launched with an initial velocity of 120 m/s at an angle of 30Â° to the horizontal. What is the maximum height it reaches?,183.67 m,mathematical_text
