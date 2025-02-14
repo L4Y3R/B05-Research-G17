@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,3.6,0.466,Two workers can complete a job in 8 hours when working together. Worker A alone would take 12 hours to complete the job. How long would Worker B alone take to complete it?,24 h,mathematical_text
+0.1,3.6,0.939,Two workers can complete a job in 8 hours when working together. Worker A alone would take 12 hours to complete the job. How long would Worker B alone take to complete it?,24 h,mathematical_text
+0.2,3,1.003,Two workers can complete a job in 8 hours when working together. Worker A alone would take 12 hours to complete the job. How long would Worker B alone take to complete it?,24 h,mathematical_text
+0.3,3,0.443,Two workers can complete a job in 8 hours when working together. Worker A alone would take 12 hours to complete the job. How long would Worker B alone take to complete it?,24 h,mathematical_text
+0.4,"18.0"" />",0.446,Two workers can complete a job in 8 hours when working together. Worker A alone would take 12 hours to complete the job. How long would Worker B alone take to complete it?,24 h,mathematical_text
+0.5,6,1.114,Two workers can complete a job in 8 hours when working together. Worker A alone would take 12 hours to complete the job. How long would Worker B alone take to complete it?,24 h,mathematical_text
+0.6,6,0.492,Two workers can complete a job in 8 hours when working together. Worker A alone would take 12 hours to complete the job. How long would Worker B alone take to complete it?,24 h,mathematical_text
+0.7,,1.366,Two workers can complete a job in 8 hours when working together. Worker A alone would take 12 hours to complete the job. How long would Worker B alone take to complete it?,24 h,mathematical_text
+0.8,3.4,1.035,Two workers can complete a job in 8 hours when working together. Worker A alone would take 12 hours to complete the job. How long would Worker B alone take to complete it?,24 h,mathematical_text
+0.9,3.75,0.485,Two workers can complete a job in 8 hours when working together. Worker A alone would take 12 hours to complete the job. How long would Worker B alone take to complete it?,24 h,mathematical_text
+1.0,"""9.0""                 |",0.42,Two workers can complete a job in 8 hours when working together. Worker A alone would take 12 hours to complete the job. How long would Worker B alone take to complete it?,24 h,mathematical_text

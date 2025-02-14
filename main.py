@@ -1,7 +1,7 @@
 import asyncio
 from pathlib import Path
 from QuestionGenerator import create_sample_questions
-from Math_Number_Test import TemperatureStudy
+from Math_Text_Test import TemperatureStudy
 
 async def test_connection():
     """Test the API connection with a simple query"""

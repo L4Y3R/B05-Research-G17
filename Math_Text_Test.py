@@ -57,13 +57,11 @@ class TemperatureStudy:
         )
         
         prompt = PromptTemplate(
-            template="""Give me the answer to this question {question}
+            template="""Give me the answer to this mathematical question {question}
 
                 Rules:
-                - Provide the answer ONLY in text format
-                - No explanations
-                - Provide the answer in the first line
-                - Not more than one line is permitted
+                - Provide the answer ONLY in numerical format
+                - No explanations, provide the shortest answer
 
                 Your response:""",
             input_variables=["question"]
