@@ -64,6 +64,7 @@ class TemperatureStudy:
                 - Provide ONLY "True" or "False" as the answer
                 - No explanations
                 - Only one word is allowed as the answer
+                - Provide the answer in the first line of the response
 
                 Your response:""",
             input_variables=["question"]

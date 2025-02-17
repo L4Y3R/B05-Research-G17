@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,False,0.972,The capital of Australia is Perth.,False,true_false
+0.1,False,0.488,The capital of Australia is Perth.,False,true_false
+0.2,False,0.424,The capital of Australia is Perth.,False,true_false
+0.3,False,1.672,The capital of Australia is Perth.,False,true_false
+0.4,False,1.624,The capital of Australia is Perth.,False,true_false
+0.5,False,1.494,The capital of Australia is Perth.,False,true_false
+0.6,False,0.412,The capital of Australia is Perth.,False,true_false
+0.7,False,0.969,The capital of Australia is Perth.,False,true_false
+0.8,$$,5.783,The capital of Australia is Perth.,False,true_false
+0.9,False,1.03,The capital of Australia is Perth.,False,true_false
+1.0,,1.046,The capital of Australia is Perth.,False,true_false

@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,False,0.99,The Sun revolves around the Earth.,False,true_false
+0.1,False,1.105,The Sun revolves around the Earth.,False,true_false
+0.2,False,0.997,The Sun revolves around the Earth.,False,true_false
+0.3,False,0.755,The Sun revolves around the Earth.,False,true_false
+0.4,False,2.709,The Sun revolves around the Earth.,False,true_false
+0.5,False,1.017,The Sun revolves around the Earth.,False,true_false
+0.6,"False. The Sun is the center of the solar system and the Earth, along",1.068,The Sun revolves around the Earth.,False,true_false
+0.7,,0.627,The Sun revolves around the Earth.,False,true_false
+0.8,FALSE,1.903,The Sun revolves around the Earth.,False,true_false
+0.9,,6.906,The Sun revolves around the Earth.,False,true_false
+1.0,False,0.504,The Sun revolves around the Earth.,False,true_false

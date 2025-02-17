@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,True,1.016,Nimal's father's mother is Nimal's grandmother.,True,true_false
+0.1,True,1.047,Nimal's father's mother is Nimal's grandmother.,True,true_false
+0.2,True,0.468,Nimal's father's mother is Nimal's grandmother.,True,true_false
+0.3,True,0.971,Nimal's father's mother is Nimal's grandmother.,True,true_false
+0.4,True,4.611,Nimal's father's mother is Nimal's grandmother.,True,true_false
+0.5,True,0.511,Nimal's father's mother is Nimal's grandmother.,True,true_false
+0.6,True,1.058,Nimal's father's mother is Nimal's grandmother.,True,true_false
+0.7,False,14.149,Nimal's father's mother is Nimal's grandmother.,True,true_false
+0.8,TRUE,1.152,Nimal's father's mother is Nimal's grandmother.,True,true_false
+0.9,False,1.002,Nimal's father's mother is Nimal's grandmother.,True,true_false
+1.0,False,0.521,Nimal's father's mother is Nimal's grandmother.,True,true_false

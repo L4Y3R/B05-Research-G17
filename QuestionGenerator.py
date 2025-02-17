@@ -51,8 +51,8 @@ def create_sample_questions():
             
         ],
         "true_false": [
-            {"question": "The capital of Sri Lanka is Colombo.","correct_answer": "False"},
-            {"question": "2 multiplied by 4 is equal to 2 cubed.","correct_answer": "True"},
+            {"question": "The capital of Australia is Perth.","correct_answer": "False"},
+            {"question": "2 multiplied by 4 is equal to 2 cubed.","correct_answer": "False"},
             {"question": "Water boils at 100°C at standard atmospheric pressure.","correct_answer": "True"},
             {"question": "The Sun revolves around the Earth.","correct_answer": "False"},
             {"question": "Nimal's father's mother is Nimal's grandmother.","correct_answer": "True"},
