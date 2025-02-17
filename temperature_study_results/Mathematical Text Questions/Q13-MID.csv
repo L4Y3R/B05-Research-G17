@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,35 70,0.428,"A farmer wants to fence a rectangular field with a perimeter of 130 meters. If the length is twice the width, what are the dimensions of the field?","43.33 m (length), 21.67 m (width)",mathematical_text
+0.1,35 70,0.472,"A farmer wants to fence a rectangular field with a perimeter of 130 meters. If the length is twice the width, what are the dimensions of the field?","43.33 m (length), 21.67 m (width)",mathematical_text
+0.2,35 70,0.932,"A farmer wants to fence a rectangular field with a perimeter of 130 meters. If the length is twice the width, what are the dimensions of the field?","43.33 m (length), 21.67 m (width)",mathematical_text
+0.3,"130/4, 65/2",1.495,"A farmer wants to fence a rectangular field with a perimeter of 130 meters. If the length is twice the width, what are the dimensions of the field?","43.33 m (length), 21.67 m (width)",mathematical_text
+0.4,,4.249,"A farmer wants to fence a rectangular field with a perimeter of 130 meters. If the length is twice the width, what are the dimensions of the field?","43.33 m (length), 21.67 m (width)",mathematical_text
+0.5,,0.938,"A farmer wants to fence a rectangular field with a perimeter of 130 meters. If the length is twice the width, what are the dimensions of the field?","43.33 m (length), 21.67 m (width)",mathematical_text
+0.6,17.5,0.979,"A farmer wants to fence a rectangular field with a perimeter of 130 meters. If the length is twice the width, what are the dimensions of the field?","43.33 m (length), 21.67 m (width)",mathematical_text
+0.7,"25, 50, 30, 20",0.514,"A farmer wants to fence a rectangular field with a perimeter of 130 meters. If the length is twice the width, what are the dimensions of the field?","43.33 m (length), 21.67 m (width)",mathematical_text
+0.8,,0.933,"A farmer wants to fence a rectangular field with a perimeter of 130 meters. If the length is twice the width, what are the dimensions of the field?","43.33 m (length), 21.67 m (width)",mathematical_text
+0.9,,0.954,"A farmer wants to fence a rectangular field with a perimeter of 130 meters. If the length is twice the width, what are the dimensions of the field?","43.33 m (length), 21.67 m (width)",mathematical_text
+1.0,|,0.42,"A farmer wants to fence a rectangular field with a perimeter of 130 meters. If the length is twice the width, what are the dimensions of the field?","43.33 m (length), 21.67 m (width)",mathematical_text

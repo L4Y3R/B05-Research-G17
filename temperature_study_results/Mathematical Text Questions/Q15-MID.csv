@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,11.5,3.639,"A ladder leans against a wall, reaching a height of 10 meters. The base of the ladder is 7 meters away from the wall. What is the length of the ladder?",12.21 m,mathematical_text
+0.1,11.5,7.248,"A ladder leans against a wall, reaching a height of 10 meters. The base of the ladder is 7 meters away from the wall. What is the length of the ladder?",12.21 m,mathematical_text
+0.2,11.66,7.034,"A ladder leans against a wall, reaching a height of 10 meters. The base of the ladder is 7 meters away from the wall. What is the length of the ladder?",12.21 m,mathematical_text
+0.3,11.5,1.994,"A ladder leans against a wall, reaching a height of 10 meters. The base of the ladder is 7 meters away from the wall. What is the length of the ladder?",12.21 m,mathematical_text
+0.4,11.66,0.468,"A ladder leans against a wall, reaching a height of 10 meters. The base of the ladder is 7 meters away from the wall. What is the length of the ladder?",12.21 m,mathematical_text
+0.5,13.0,0.908,"A ladder leans against a wall, reaching a height of 10 meters. The base of the ladder is 7 meters away from the wall. What is the length of the ladder?",12.21 m,mathematical_text
+0.6,11.5,0.941,"A ladder leans against a wall, reaching a height of 10 meters. The base of the ladder is 7 meters away from the wall. What is the length of the ladder?",12.21 m,mathematical_text
+0.7,8.1646602449,0.47,"A ladder leans against a wall, reaching a height of 10 meters. The base of the ladder is 7 meters away from the wall. What is the length of the ladder?",12.21 m,mathematical_text
+0.8,,0.423,"A ladder leans against a wall, reaching a height of 10 meters. The base of the ladder is 7 meters away from the wall. What is the length of the ladder?",12.21 m,mathematical_text
+0.9,,0.486,"A ladder leans against a wall, reaching a height of 10 meters. The base of the ladder is 7 meters away from the wall. What is the length of the ladder?",12.21 m,mathematical_text
+1.0,14        Correct? 0        Helpful? 0,0.954,"A ladder leans against a wall, reaching a height of 10 meters. The base of the ladder is 7 meters away from the wall. What is the length of the ladder?",12.21 m,mathematical_text

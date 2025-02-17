@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,571.4285714285714,0.573,A tank is 70% full and contains 400 liters of water. How many liters can the tank hold when full?,571.43 L,mathematical_text
+0.1,571.4285714285714,1.028,A tank is 70% full and contains 400 liters of water. How many liters can the tank hold when full?,571.43 L,mathematical_text
+0.2,571.4285714285714,0.485,A tank is 70% full and contains 400 liters of water. How many liters can the tank hold when full?,571.43 L,mathematical_text
+0.3,571.4285714285714,0.444,A tank is 70% full and contains 400 liters of water. How many liters can the tank hold when full?,571.43 L,mathematical_text
+0.4,571.43,0.945,A tank is 70% full and contains 400 liters of water. How many liters can the tank hold when full?,571.43 L,mathematical_text
+0.5,571.4285714285714,2.191,A tank is 70% full and contains 400 liters of water. How many liters can the tank hold when full?,571.43 L,mathematical_text
+0.6,571.43,0.51,A tank is 70% full and contains 400 liters of water. How many liters can the tank hold when full?,571.43 L,mathematical_text
+0.7,'600'                     '7'                    '56'                    '900',0.482,A tank is 70% full and contains 400 liters of water. How many liters can the tank hold when full?,571.43 L,mathematical_text
+0.8,,0.956,A tank is 70% full and contains 400 liters of water. How many liters can the tank hold when full?,571.43 L,mathematical_text
+0.9,571,0.741,A tank is 70% full and contains 400 liters of water. How many liters can the tank hold when full?,571.43 L,mathematical_text
+1.0,57187 ``,3.796,A tank is 70% full and contains 400 liters of water. How many liters can the tank hold when full?,571.43 L,mathematical_text

@@ -35,18 +35,19 @@ def create_sample_questions():
             {"question": "A tank with a leak can be filled in 11 hours. When the tank is being filled, the leak reduces the fill rate by 15 liters per hour. If the tank is filled in 10 hours with the leak, what is its capacity in liters?", "correct_answer": "165 liters"},
             {"question": "A company sells 120 units of a product at Rs.6000 each. For every Rs.100 increase in price, they sell 6 fewer units. At what price will the company maximize revenue?", "correct_answer": "Rs.6200"},
             {"question": "A rectangle has a diagonal of 15 cm and one side of 7 cm. What is the length of the other side?", "correct_answer": "13.27 cm"},
+            {"question": "A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?","correct_answer": "Rs.350 (ball), Rs.850 (bat)"},
             {"question": "The sum of the squares of three consecutive integers is 365. What are the integers?", "correct_answer": "10, 11, 12"},
             {"question": "A car travels 50 km at 80 km/h and then another 30 km at 40 km/h. What is the car's average speed for the entire journey?", "correct_answer": "58.18 km/h"},
-            {"question": "Two people are standing 200 meters apart. They start walking towards each other, one at 5 m/s and the other at 3 m/s. How long will it take for them to meet?", "correct_answer": "25 seconds"},
+            {"question": "Two people are standing 200 meters apart. They start walking towards each other, one at 5 m/s and the other at 3 m/s. How many seconds will it take for them to meet?", "correct_answer": "25 seconds"},
             {"question": "A factory produces 400 items per hour. If 3% of the items are defective, how many defective items are produced in 8 hours?", "correct_answer": "96 items"},
             {"question": "A farmer wants to fence a rectangular field with a perimeter of 130 meters. If the length is twice the width, what are the dimensions of the field?","correct_answer": "43.33 m (length), 21.67 m (width)"},
             {"question": "A sum of money doubles itself in 7 years under compound interest. How many years will it take to quadruple?","correct_answer": "14 years"},
             {"question": "A ladder leans against a wall, reaching a height of 10 meters. The base of the ladder is 7 meters away from the wall. What is the length of the ladder?","correct_answer": "12.21 m"},
-            {"question": "A tank is 70% full and contains 400 liters of water. How many liters can the tank hold when full?","correct_answer": "571.43 L"},{"question": "A pool can be filled in 7 hours using Pipe A and in 10 hours using Pipe B. If both pipes are used together, how long will it take to fill the pool?","correct_answer": "4.12 h"},
+            {"question": "A tank is 70% full and contains 400 liters of water. How many liters can the tank hold when full?","correct_answer": "571.43 L"},
+            {"question": "A pool can be filled in 7 hours using Pipe A and in 10 hours using Pipe B. If both pipes are used together, how long will it take to fill the pool?","correct_answer": "4.12 h"},
             {"question": "A metal rod expands by 0.02 cm for every 15°C rise in temperature. If the rod is 2 meters long, how much will it expand when the temperature rises from 15°C to 85°C?","correct_answer": "0.93 cm"},
             {"question": "A boat travels 30 km downstream in 3 hours and takes 5 hours to travel the same distance upstream. What is the speed of the boat in still water?","correct_answer": "24 km/h"},
-            {"question": "A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?","correct_answer": "2.09 hours"},
-            {"question": "A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?","correct_answer": "Rs.350 (ball), Rs.850 (bat)"}
+            {"question": "A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?","correct_answer": "2.09 hours"}
             
         ],
         "true_false": [

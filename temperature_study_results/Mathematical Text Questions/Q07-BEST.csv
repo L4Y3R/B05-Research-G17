@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,8,1.524,A rectangle has a diagonal of 15 cm and one side of 7 cm. What is the length of the other side?,13.27 cm,mathematical_text
+0.1,8,1.684,A rectangle has a diagonal of 15 cm and one side of 7 cm. What is the length of the other side?,13.27 cm,mathematical_text
+0.2,8,1.398,A rectangle has a diagonal of 15 cm and one side of 7 cm. What is the length of the other side?,13.27 cm,mathematical_text
+0.3,8,1.071,A rectangle has a diagonal of 15 cm and one side of 7 cm. What is the length of the other side?,13.27 cm,mathematical_text
+0.4,,1.337,A rectangle has a diagonal of 15 cm and one side of 7 cm. What is the length of the other side?,13.27 cm,mathematical_text
+0.5,8,2.168,A rectangle has a diagonal of 15 cm and one side of 7 cm. What is the length of the other side?,13.27 cm,mathematical_text
+0.6,,0.984,A rectangle has a diagonal of 15 cm and one side of 7 cm. What is the length of the other side?,13.27 cm,mathematical_text
+0.7,10,0.47,A rectangle has a diagonal of 15 cm and one side of 7 cm. What is the length of the other side?,13.27 cm,mathematical_text
+0.8,\\),0.9,A rectangle has a diagonal of 15 cm and one side of 7 cm. What is the length of the other side?,13.27 cm,mathematical_text
+0.9,8 Related Math Questions Answers,2.233,A rectangle has a diagonal of 15 cm and one side of 7 cm. What is the length of the other side?,13.27 cm,mathematical_text
+1.0,$10.0 \cdot [1 +2\left(\frac{39,6.985,A rectangle has a diagonal of 15 cm and one side of 7 cm. What is the length of the other side?,13.27 cm,mathematical_text

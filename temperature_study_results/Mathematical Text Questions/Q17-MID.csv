@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,4.2,2.656,"A pool can be filled in 7 hours using Pipe A and in 10 hours using Pipe B. If both pipes are used together, how long will it take to fill the pool?",4.12 h,mathematical_text
+0.1,4.2,2.713,"A pool can be filled in 7 hours using Pipe A and in 10 hours using Pipe B. If both pipes are used together, how long will it take to fill the pool?",4.12 h,mathematical_text
+0.2,4.2,0.478,"A pool can be filled in 7 hours using Pipe A and in 10 hours using Pipe B. If both pipes are used together, how long will it take to fill the pool?",4.12 h,mathematical_text
+0.3,4.2,2.511,"A pool can be filled in 7 hours using Pipe A and in 10 hours using Pipe B. If both pipes are used together, how long will it take to fill the pool?",4.12 h,mathematical_text
+0.4,4.2,1.508,"A pool can be filled in 7 hours using Pipe A and in 10 hours using Pipe B. If both pipes are used together, how long will it take to fill the pool?",4.12 h,mathematical_text
+0.5,5,0.491,"A pool can be filled in 7 hours using Pipe A and in 10 hours using Pipe B. If both pipes are used together, how long will it take to fill the pool?",4.12 h,mathematical_text
+0.6,4.2,0.441,"A pool can be filled in 7 hours using Pipe A and in 10 hours using Pipe B. If both pipes are used together, how long will it take to fill the pool?",4.12 h,mathematical_text
+0.7,4.2,1.076,"A pool can be filled in 7 hours using Pipe A and in 10 hours using Pipe B. If both pipes are used together, how long will it take to fill the pool?",4.12 h,mathematical_text
+0.8,5,0.462,"A pool can be filled in 7 hours using Pipe A and in 10 hours using Pipe B. If both pipes are used together, how long will it take to fill the pool?",4.12 h,mathematical_text
+0.9,40/63.0,3.192,"A pool can be filled in 7 hours using Pipe A and in 10 hours using Pipe B. If both pipes are used together, how long will it take to fill the pool?",4.12 h,mathematical_text
+1.0,4,1.748,"A pool can be filled in 7 hours using Pipe A and in 10 hours using Pipe B. If both pipes are used together, how long will it take to fill the pool?",4.12 h,mathematical_text

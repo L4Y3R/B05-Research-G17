@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,14,0.502,A sum of money doubles itself in 7 years under compound interest. How many years will it take to quadruple?,14 years,mathematical_text
+0.1,14,8.398,A sum of money doubles itself in 7 years under compound interest. How many years will it take to quadruple?,14 years,mathematical_text
+0.2,14,0.471,A sum of money doubles itself in 7 years under compound interest. How many years will it take to quadruple?,14 years,mathematical_text
+0.3,14,1.871,A sum of money doubles itself in 7 years under compound interest. How many years will it take to quadruple?,14 years,mathematical_text
+0.4,14,0.9,A sum of money doubles itself in 7 years under compound interest. How many years will it take to quadruple?,14 years,mathematical_text
+0.5,14,1.629,A sum of money doubles itself in 7 years under compound interest. How many years will it take to quadruple?,14 years,mathematical_text
+0.6,21,1.001,A sum of money doubles itself in 7 years under compound interest. How many years will it take to quadruple?,14 years,mathematical_text
+0.7,$14$ $)$,0.491,A sum of money doubles itself in 7 years under compound interest. How many years will it take to quadruple?,14 years,mathematical_text
+0.8,"14"" is not a valid answer.",0.495,A sum of money doubles itself in 7 years under compound interest. How many years will it take to quadruple?,14 years,mathematical_text
+0.9,,0.939,A sum of money doubles itself in 7 years under compound interest. How many years will it take to quadruple?,14 years,mathematical_text
+1.0,"14 """" """" ""14""  """"",1.612,A sum of money doubles itself in 7 years under compound interest. How many years will it take to quadruple?,14 years,mathematical_text
