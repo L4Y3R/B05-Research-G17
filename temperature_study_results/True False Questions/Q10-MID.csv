@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,True,6.093,Facebook was founded by Mark Zuckerberg.,True,true_false
+0.1,True,5.169,Facebook was founded by Mark Zuckerberg.,True,true_false
+0.2,True,1.238,Facebook was founded by Mark Zuckerberg.,True,true_false
+0.3,False,0.607,Facebook was founded by Mark Zuckerberg.,True,true_false
+0.4,True,1.096,Facebook was founded by Mark Zuckerberg.,True,true_false
+0.5,True,1.179,Facebook was founded by Mark Zuckerberg.,True,true_false
+0.6,True,2.215,Facebook was founded by Mark Zuckerberg.,True,true_false
+0.7,False,0.957,Facebook was founded by Mark Zuckerberg.,True,true_false
+0.8,False,1.099,Facebook was founded by Mark Zuckerberg.,True,true_false
+0.9,False,4.054,Facebook was founded by Mark Zuckerberg.,True,true_false
+1.0,False,1.022,Facebook was founded by Mark Zuckerberg.,True,true_false
