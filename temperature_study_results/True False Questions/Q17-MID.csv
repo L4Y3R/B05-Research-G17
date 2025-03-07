@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,False,0.932,The chemical symbol for gold is Ag.,False,true_false
+0.1,False,1.02,The chemical symbol for gold is Ag.,False,true_false
+0.2,False,0.955,The chemical symbol for gold is Ag.,False,true_false
+0.3,False,1.433,The chemical symbol for gold is Ag.,False,true_false
+0.4,False,0.996,The chemical symbol for gold is Ag.,False,true_false
+0.5,False,1.056,The chemical symbol for gold is Ag.,False,true_false
+0.6,False,0.593,The chemical symbol for gold is Ag.,False,true_false
+0.7,False,0.978,The chemical symbol for gold is Ag.,False,true_false
+0.8,False,0.547,The chemical symbol for gold is Ag.,False,true_false
+0.9,False,6.483,The chemical symbol for gold is Ag.,False,true_false
+1.0,False,1.404,The chemical symbol for gold is Ag.,False,true_false

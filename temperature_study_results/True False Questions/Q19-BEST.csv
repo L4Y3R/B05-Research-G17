@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,False,1.434,The Eiffel Tower was originally intended to be a temporary structure.,True,true_false
+0.1,False,2.552,The Eiffel Tower was originally intended to be a temporary structure.,True,true_false
+0.2,False,5.924,The Eiffel Tower was originally intended to be a temporary structure.,True,true_false
+0.3,False,5.427,The Eiffel Tower was originally intended to be a temporary structure.,True,true_false
+0.4,False,0.413,The Eiffel Tower was originally intended to be a temporary structure.,True,true_false
+0.5,False,0.481,The Eiffel Tower was originally intended to be a temporary structure.,True,true_false
+0.6,False,0.943,The Eiffel Tower was originally intended to be a temporary structure.,True,true_false
+0.7,True,8.59,The Eiffel Tower was originally intended to be a temporary structure.,True,true_false
+0.8,True,0.473,The Eiffel Tower was originally intended to be a temporary structure.,True,true_false
+0.9,False,0.589,The Eiffel Tower was originally intended to be a temporary structure.,True,true_false
+1.0,True,0.568,The Eiffel Tower was originally intended to be a temporary structure.,True,true_false
