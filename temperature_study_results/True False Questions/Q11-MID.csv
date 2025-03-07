@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,False,5.898,A year on Jupiter is longer than a year on Earth.,True,true_false
+0.1,False,4.903,A year on Jupiter is longer than a year on Earth.,True,true_false
+0.2,True,0.957,A year on Jupiter is longer than a year on Earth.,True,true_false
+0.3,False,10.52,A year on Jupiter is longer than a year on Earth.,True,true_false
+0.4,True,0.49,A year on Jupiter is longer than a year on Earth.,True,true_false
+0.5,False,5.967,A year on Jupiter is longer than a year on Earth.,True,true_false
+0.6,True,5.501,A year on Jupiter is longer than a year on Earth.,True,true_false
+0.7,True,1.44,A year on Jupiter is longer than a year on Earth.,True,true_false
+0.8,True,5.897,A year on Jupiter is longer than a year on Earth.,True,true_false
+0.9,False,0.989,A year on Jupiter is longer than a year on Earth.,True,true_false
+1.0,False,0.519,A year on Jupiter is longer than a year on Earth.,True,true_false
