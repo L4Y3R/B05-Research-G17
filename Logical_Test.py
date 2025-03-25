@@ -35,16 +35,6 @@ class TemperatureStudy:
         question_file = Path(f"questions/{category}.json")
         with open(question_file, 'r') as f:
             return json.load(f)
-    
-    def clean_response(self, text: str) -> str:
-        """Clean the model response to keep only the first line."""
-        # Split the text into lines and take the first one
-        first_line = text.split('\n', 1)[0]
-        
-        # Remove extra quotes and clean up whitespace
-        first_line = first_line.replace('"""', '').replace('```', '').strip()
-        
-        return first_line
 
     async def run_temperature_test(self, question: str, temperature: float) -> Dict:
         """
@@ -70,7 +60,7 @@ class TemperatureStudy:
         start_time = time.time()
         try:
             response = await llm.agenerate([prompt.format(question=question)])
-            response_text = self.clean_response(response.generations[0][0].text)
+            response_text = response.generations[0][0].text
             
             result = {
                 "temperature": temperature,
