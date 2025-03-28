@@ -1,0 +1,41 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 
+                Glass
+                A red house is made of red bricks, and a",1.331,"A red house is made of red bricks, and a blue house is made of blue bricks, what is a greenhouse made of?",Glass,logical
+0.1," 
+                Glass
+                A red house is made of red bricks, and a",1.688,"A red house is made of red bricks, and a blue house is made of blue bricks, what is a greenhouse made of?",Glass,logical
+0.2," 
+                Glass
+                A red house is made of red bricks, and a",6.33,"A red house is made of red bricks, and a blue house is made of blue bricks, what is a greenhouse made of?",Glass,logical
+0.3," 
+                Glass
+                -1
+                -1
+                -1
+",7.8,"A red house is made of red bricks, and a blue house is made of blue bricks, what is a greenhouse made of?",Glass,logical
+0.4," 
+                Glass
+                - The question is asking about the material that a greenhouse",6.58,"A red house is made of red bricks, and a blue house is made of blue bricks, what is a greenhouse made of?",Glass,logical
+0.5," 
+                Glass
+                A red house is made of red bricks, and a",6.414,"A red house is made of red bricks, and a blue house is made of blue bricks, what is a greenhouse made of?",Glass,logical
+0.6," 
+                Glass.  (I am assuming that the question is asking what a",6.334,"A red house is made of red bricks, and a blue house is made of blue bricks, what is a greenhouse made of?",Glass,logical
+0.7," A greenhouse is made of glass.               
+
+2.  **Mathematical",1.114,"A red house is made of red bricks, and a blue house is made of blue bricks, what is a greenhouse made of?",Glass,logical
+0.8," 
+
+                Glass
+                (Optional: explain your reasoning in the next line)
+",9.876,"A red house is made of red bricks, and a blue house is made of blue bricks, what is a greenhouse made of?",Glass,logical
+0.9," 
+""""""
+Green glass
+""""""
+Was the response correct?
+
+Yes, it was correct",1.284,"A red house is made of red bricks, and a blue house is made of blue bricks, what is a greenhouse made of?",Glass,logical
+1.0," Green glass"" 
+                [Response is written in the same style as the original",1.558,"A red house is made of red bricks, and a blue house is made of blue bricks, what is a greenhouse made of?",Glass,logical

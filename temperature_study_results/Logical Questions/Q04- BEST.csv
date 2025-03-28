@@ -1,0 +1,52 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 4
+                ```python
+# Define the initial number of birds
+birds",5.527,"If there are 5 birds on a tree and a hunter shoots one, how many are left on the tree?",None,logical
+0.1," 4
+                Your response: 4
+                Your response: 4",1.483,"If there are 5 birds on a tree and a hunter shoots one, how many are left on the tree?",None,logical
+0.2," 4
+                ```python
+# Define the initial number of birds
+birds",1.35,"If there are 5 birds on a tree and a hunter shoots one, how many are left on the tree?",None,logical
+0.3," 4
+                The answer is: 4
+                The answer is correct",1.189,"If there are 5 birds on a tree and a hunter shoots one, how many are left on the tree?",None,logical
+0.4," 
+
+                4
+```
+
+
+
+## Step 1: Understand the problem
+",12.654,"If there are 5 birds on a tree and a hunter shoots one, how many are left on the tree?",None,logical
+0.5," 4
+                ```python
+# Define a function to calculate the number of",6.164,"If there are 5 birds on a tree and a hunter shoots one, how many are left on the tree?",None,logical
+0.6," 4
+                Your response: 4
+                Your response: 4",8.645,"If there are 5 birds on a tree and a hunter shoots one, how many are left on the tree?",None,logical
+0.7," 4
+                ```python
+# Define the initial number of birds on the",6.618,"If there are 5 birds on a tree and a hunter shoots one, how many are left on the tree?",None,logical
+0.8," 
+                4
+```
+
+
+
+## Step 1: Identify the initial number",1.451,"If there are 5 birds on a tree and a hunter shoots one, how many are left on the tree?",None,logical
+0.9," 4
+
+                Is that correct?  Yes
+                Why?  Because",6.337,"If there are 5 birds on a tree and a hunter shoots one, how many are left on the tree?",None,logical
+1.0," 
+
+                4
+```
+
+
+
+## Step 1: Identify the initial number",0.814,"If there are 5 birds on a tree and a hunter shoots one, how many are left on the tree?",None,logical

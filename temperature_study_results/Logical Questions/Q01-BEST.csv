@@ -1,0 +1,38 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 
+                My father's son's older brother is me.  I am the",1.188,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical
+0.1," 
+                My father's son's older brother is me.  I am the",5.88,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical
+0.2," 
+                My father's son's older brother is me.  I am the",2.409,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical
+0.3," 
+                I am. 
+                -end- 
+                -end- 
+",1.493,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical
+0.4," 
+
+                I am. 
+
+                Sincerely, 
+                Your brother. 
+",1.283,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical
+0.5," 
+                My father's son's older brother is me.  I am the",1.221,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical
+0.6," 
+                My father's son's older brother is me. 
+                I am",1.259,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical
+0.7," 
+                My father's son's older brother is me. 
+                I am",0.725,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical
+0.8," 
+
+                I am.  ~ ~ ~ ~ ~ ~ ~ ~ ~ ~",1.254,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical
+0.9,"                
+                My father's son's older brother is me.  If I am",2.103,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical
+1.0," 
+                Me 
+                ]]>
+            </IfStatement>
+        </Then>
+",1.316,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical

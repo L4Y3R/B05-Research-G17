@@ -1,0 +1,54 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 
+                True
+                ```
+
+
+# Define a function to check if a statement",3.633,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees.",TRUE,logical
+0.1," 
+                True
+                ```
+
+
+# Define a function to check if a statement",1.273,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees.",TRUE,logical
+0.2," 
+                True
+                ```
+
+
+# Define a function to check if a statement",1.841,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees.",TRUE,logical
+0.3," 
+                True
+                ```
+
+
+# Define a function to check if a statement",1.556,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees.",TRUE,logical
+0.4," 
+                True
+                ```
+
+
+# Define a function to check if a statement",6.177,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees.",TRUE,logical
+0.5," Yes
+                ```python
+# Define a function to check the validity of the",3.203,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees.",TRUE,logical
+0.6," |
+|  |  |
+
+## Step 1: Understand the logical structure of",6.267,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees.",TRUE,logical
+0.7," All apples grow on trees. |
+|  |
+|  |
+|  |
+",2.288,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees.",TRUE,logical
+0.8," Yes
+                Your response: No
+                Your response: Yes
+                Your",1.195,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees.",TRUE,logical
+0.9," |
+|  |  |
+
+## Step 1: Evaluate the given statements
+",11.231,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees.",TRUE,logical
+1.0," True                ```
+# Take a user's input and use it to index into a",1.221,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees.",TRUE,logical

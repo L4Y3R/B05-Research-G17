@@ -1,0 +1,45 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 8
+                Your response: 8
+                Your response: 8",1.16,"If Saman has twice as many mangoes as Sitha, and Sitha has 2 apples and 4 mangoes, how many mangoes does Saman have?",8,logical
+0.1," 8
+                Your response: 8
+                Your response: 8",1.208,"If Saman has twice as many mangoes as Sitha, and Sitha has 2 apples and 4 mangoes, how many mangoes does Saman have?",8,logical
+0.2," 8
+                Your response: 8
+                Your response: 8",1.208,"If Saman has twice as many mangoes as Sitha, and Sitha has 2 apples and 4 mangoes, how many mangoes does Saman have?",8,logical
+0.3," 8
+                ```python
+# Define the number of mangoes Sitha",1.198,"If Saman has twice as many mangoes as Sitha, and Sitha has 2 apples and 4 mangoes, how many mangoes does Saman have?",8,logical
+0.4," 8
+                ```python
+# Define the number of mangoes Sitha",1.25,"If Saman has twice as many mangoes as Sitha, and Sitha has 2 apples and 4 mangoes, how many mangoes does Saman have?",8,logical
+0.5," 8
+                Your response: 8
+                Your response: 8",6.565,"If Saman has twice as many mangoes as Sitha, and Sitha has 2 apples and 4 mangoes, how many mangoes does Saman have?",8,logical
+0.6," 
+
+8
+                ```python
+# Define the number of mangoes Sitha",7.706,"If Saman has twice as many mangoes as Sitha, and Sitha has 2 apples and 4 mangoes, how many mangoes does Saman have?",8,logical
+0.7," 
+
+                8
+                Sitha has 4 mangoes, so Sam",5.702,"If Saman has twice as many mangoes as Sitha, and Sitha has 2 apples and 4 mangoes, how many mangoes does Saman have?",8,logical
+0.8," 8
+                """""" 
+                # No code needed for this problem, just",1.336,"If Saman has twice as many mangoes as Sitha, and Sitha has 2 apples and 4 mangoes, how many mangoes does Saman have?",8,logical
+0.9," 
+
+                8
+
+                Please use this format for your response:
+
+                Your",0.96,"If Saman has twice as many mangoes as Sitha, and Sitha has 2 apples and 4 mangoes, how many mangoes does Saman have?",8,logical
+1.0," 
+
+                8
+                No
+                Yes
+                Maybe
+                Not",6.831,"If Saman has twice as many mangoes as Sitha, and Sitha has 2 apples and 4 mangoes, how many mangoes does Saman have?",8,logical

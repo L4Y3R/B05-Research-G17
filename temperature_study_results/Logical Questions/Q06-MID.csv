@@ -1,0 +1,40 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 8
+                Your response: 8
+                Your response: 8",1.23,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain.,logical
+0.1," 8
+                Your response: 8
+                Your response: 8",1.324,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain.,logical
+0.2," 8
+                Your response: 8
+                Your response: 8",1.274,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain.,logical
+0.3," 8
+                Your response: 8
+                Your response: 8",1.222,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain.,logical
+0.4," 8
+                Is this correct? No
+                Why is this incorrect?",6.226,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain.,logical
+0.5," 8
+                Your response: 8
+                Your response: 8",1.841,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain.,logical
+0.6," 
+
+                8
+```
+
+## Step 1: Understand the initial condition",1.2,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain.,logical
+0.7," 8
+                Correct. 
+                8 sheep are left. 
+               ",1.186,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain.,logical
+0.8," 8
+                Your response: 8
+                Your response: 8",1.807,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain.,logical
+0.9," 
+1
+```
+
+## Step 1: Understand the problem
+The farmer",6.129,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain.,logical
+1.0," 8
+```  8``` 8``` 8``` 8",1.514,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain.,logical

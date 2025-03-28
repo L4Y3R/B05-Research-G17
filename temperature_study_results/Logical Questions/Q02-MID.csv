@@ -1,0 +1,56 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 
+                True
+                ```
+
+
+# Define a function to check if a statement",1.192,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees.",TRUE,logical
+0.1," 
+                True
+                ```
+
+
+# Define a function to check if a statement",6.456,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees.",TRUE,logical
+0.2," 
+                True
+                ```
+
+
+# Define a function to check if a statement",6.475,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees.",TRUE,logical
+0.3," |
+|  |  |
+
+## Step 1: Understand the given statements
+",2.012,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees.",TRUE,logical
+0.4, All apples grow on trees.,1.298,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees.",TRUE,logical
+0.5," 
+
+                Yes
+```
+
+
+
+Answer: Yes
+```python
+# No code",5.057,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees.",TRUE,logical
+0.6," |
+|  |  |
+
+## Step 1: Understand the logical structure of",2.044,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees.",TRUE,logical
+0.7," 
+
+                Yes
+                No
+                Maybe
+                It depends
+                Not",11.988,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees.",TRUE,logical
+0.8, All apples grow on trees.,5.266,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees.",TRUE,logical
+0.9,"  True
+```
+
+
+## Step 1: Analyze the given statements
+",1.234,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees.",TRUE,logical
+1.0," All apples grow on trees. 
+                
+                Given the information above, the next",7.545,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees.",TRUE,logical

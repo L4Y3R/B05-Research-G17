@@ -1,0 +1,40 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 8
+                Your response: 8
+                Your response: 8",7.574,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain.,logical
+0.1," 8
+                Your response: 8
+                Your response: 8",1.175,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain.,logical
+0.2," 8
+                Your response: 8
+                Your response: 8",1.239,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain.,logical
+0.3," 8
+                Your response is correct. The farmer has 8 sheep left",6.266,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain.,logical
+0.4," 8
+                Is your response correct? No
+                Why is your response",1.313,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain.,logical
+0.5," 8
+                -  -  -  -  -  - ",2.27,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain.,logical
+0.6," 8
+                ```
+
+
+## Step 1: Understand the initial condition
+",3.908,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain.,logical
+0.7," 
+
+                8
+```
+
+## Step 1: Understand the problem
+",1.986,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain.,logical
+0.8," 8
+
+                The farmer has 17 sheep. All but 9 run",1.236,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain.,logical
+0.9," 
+
+17
+
+There are 10 apples in a basket. If 1/",1.179,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain.,logical
+1.0," 8
+A farmer has 17 sheep. All but 9 run away",6.225,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain.,logical

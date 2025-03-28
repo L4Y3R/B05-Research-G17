@@ -1,0 +1,40 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 
+                The train from City B will reach the meeting point first. 
+               ",1.342,"If a train leaves City A at 3 PM traveling at 60 km/h, and another train leaves City B at the same time traveling at 80 km/h towards City A, which train will reach the meeting point first?",Cannot answer. No Distance given,logical
+0.1," 
+                The train from City B will reach the meeting point first. 
+               ",0.83,"If a train leaves City A at 3 PM traveling at 60 km/h, and another train leaves City B at the same time traveling at 80 km/h towards City A, which train will reach the meeting point first?",Cannot answer. No Distance given,logical
+0.2," 
+                Train B
+                The trains will meet at a point where the distance",6.315,"If a train leaves City A at 3 PM traveling at 60 km/h, and another train leaves City B at the same time traveling at 80 km/h towards City A, which train will reach the meeting point first?",Cannot answer. No Distance given,logical
+0.3," 
+                The train from City B will reach the meeting point first. 
+               ",1.759,"If a train leaves City A at 3 PM traveling at 60 km/h, and another train leaves City B at the same time traveling at 80 km/h towards City A, which train will reach the meeting point first?",Cannot answer. No Distance given,logical
+0.4," 
+
+                The train from City B will reach the meeting point first. 
+               ",3.895,"If a train leaves City A at 3 PM traveling at 60 km/h, and another train leaves City B at the same time traveling at 80 km/h towards City A, which train will reach the meeting point first?",Cannot answer. No Distance given,logical
+0.5," 
+
+                The train from City B
+                The train from City A
+               ",1.234,"If a train leaves City A at 3 PM traveling at 60 km/h, and another train leaves City B at the same time traveling at 80 km/h towards City A, which train will reach the meeting point first?",Cannot answer. No Distance given,logical
+0.6," 
+
+                Train B
+                The meeting point is 120 km away from City",1.318,"If a train leaves City A at 3 PM traveling at 60 km/h, and another train leaves City B at the same time traveling at 80 km/h towards City A, which train will reach the meeting point first?",Cannot answer. No Distance given,logical
+0.7," 
+                Train B
+                The train from City B will reach the meeting point",3.997,"If a train leaves City A at 3 PM traveling at 60 km/h, and another train leaves City B at the same time traveling at 80 km/h towards City A, which train will reach the meeting point first?",Cannot answer. No Distance given,logical
+0.8," 
+                Train B
+                Train A
+                Both trains arrive at the same",3.019,"If a train leaves City A at 3 PM traveling at 60 km/h, and another train leaves City B at the same time traveling at 80 km/h towards City A, which train will reach the meeting point first?",Cannot answer. No Distance given,logical
+0.9," 
+                Train B
+
+                How does this question align with the provided solution strategy",0.902,"If a train leaves City A at 3 PM traveling at 60 km/h, and another train leaves City B at the same time traveling at 80 km/h towards City A, which train will reach the meeting point first?",Cannot answer. No Distance given,logical
+1.0," 
+
+                The train leaving City B at 3 PM will reach the meeting point",1.298,"If a train leaves City A at 3 PM traveling at 60 km/h, and another train leaves City B at the same time traveling at 80 km/h towards City A, which train will reach the meeting point first?",Cannot answer. No Distance given,logical

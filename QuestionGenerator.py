@@ -79,7 +79,7 @@ def create_sample_questions():
             {"question": "If there are 5 birds on a tree and a hunter shoots one, how many are left on the tree?","correct_answer": "None, as the rest would fly away due to the sound."},
             {"question": "If Saman has twice as many mangoes as Sitha, and Sitha has 2 apples and 4 mangoes, how many mangoes does Saman have?","correct_answer": "8 mangoes"},
             {"question": "A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?","correct_answer": "9 sheep remain."},
-            {"question": "If a red house is made of red bricks, and a blue house is made of blue bricks, what is a greenhouse made of?","correct_answer": "Glass."},
+            {"question": "A red house is made of red bricks, and a blue house is made of blue bricks, what is a greenhouse made of?","correct_answer": "Glass."},
             {"question": "Two fathers and two sons go fishing. They catch three fish, and each person has one fish. How is this possible?","correct_answer": "They are a grandfather, a father, and a son."},
             {"question": "A man has Rs.100 and he wants to eat only one apple. The apple costs Rs.50. How many apples does the man buy?","correct_answer": "One apple, because he only wants one apple."},
             {"question": "You are in a race and pass the person in second place. What place are you in now?","correct_answer": "Second place."},

@@ -1,0 +1,31 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 
+                The two fathers are the sons of the other father.  The two",1.398,"TWo fathers and two sons go fishing. They catch three fish, and each person has one fish. How is this possible?","They are a grandfather, a father, and a son.",logical
+0.1," 
+                The two fathers are the sons of the other two fathers.  The",2.309,"TWo fathers and two sons go fishing. They catch three fish, and each person has one fish. How is this possible?","They are a grandfather, a father, and a son.",logical
+0.2," 
+
+                The two fathers are the sons of the other father.  The two",2.651,"TWo fathers and two sons go fishing. They catch three fish, and each person has one fish. How is this possible?","They are a grandfather, a father, and a son.",logical
+0.3," 
+                The two fathers are the sons of the other father. 
+                The",6.328,"TWo fathers and two sons go fishing. They catch three fish, and each person has one fish. How is this possible?","They are a grandfather, a father, and a son.",logical
+0.4," 
+
+                The two fathers are the sons of the other father.  The two",1.299,"TWo fathers and two sons go fishing. They catch three fish, and each person has one fish. How is this possible?","They are a grandfather, a father, and a son.",logical
+0.5," 
+
+                The two fathers are the sons of the other two fathers.  The",1.348,"TWo fathers and two sons go fishing. They catch three fish, and each person has one fish. How is this possible?","They are a grandfather, a father, and a son.",logical
+0.6," 
+
+                The fathers are the sons' fathers. The sons are the fathers'",1.502,"TWo fathers and two sons go fishing. They catch three fish, and each person has one fish. How is this possible?","They are a grandfather, a father, and a son.",logical
+0.7," 
+                One of the fathers is also one of the sons. 
+                -",7.641,"TWo fathers and two sons go fishing. They catch three fish, and each person has one fish. How is this possible?","They are a grandfather, a father, and a son.",logical
+0.8," 
+
+                The two fathers are also the two sons. 
+
+                Is this correct",1.228,"TWo fathers and two sons go fishing. They catch three fish, and each person has one fish. How is this possible?","They are a grandfather, a father, and a son.",logical
+0.9, One of the fathers is also a son.  The puzzle is stating that there,1.305,"TWo fathers and two sons go fishing. They catch three fish, and each person has one fish. How is this possible?","They are a grandfather, a father, and a son.",logical
+1.0,"  
+                The fathers and sons are all the same people. They are three generations",6.167,"TWo fathers and two sons go fishing. They catch three fish, and each person has one fish. How is this possible?","They are a grandfather, a father, and a son.",logical

@@ -1,0 +1,40 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 
+                First place.  I am now in first place.  I am",1.284,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical
+0.1," 
+                First place.  I am now in first place.  I am",1.316,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical
+0.2," 1st
+                _______________________________________________________
+You are in a race and pass",1.892,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical
+0.3," 1st
+```
+
+## Step 1: Understand the scenario
+You",1.183,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical
+0.4," 
+                1st
+                I am in first place now. I passed",1.194,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical
+0.5," 1st
+```
+
+## Step 1: Understand the scenario
+You",1.178,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical
+0.6,"  First place. 
+                End of response.  ``` 
+
+This problem is",2.398,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical
+0.7," 
+                1st
+                _______________________________________________________
+                _______________________________________________________ 
+",1.447,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical
+0.8," 
+                1st place.  - anonymous
+                I am in first",6.234,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical
+0.9," You are in first place now.  ```csharp
+using System;
+
+public",1.243,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical
+1.0," First place
+
+2.  You have a $10 bill, and you have",6.281,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical

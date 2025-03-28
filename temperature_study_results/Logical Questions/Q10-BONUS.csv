@@ -1,0 +1,32 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 
+                First place.  I am now in first place.  I am",1.161,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical
+0.1," 
+                First place.  I am now in first place.  I am",13.154,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical
+0.2," 
+                First place.  I am now in first place.  I am",1.396,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical
+0.3," 1st
+                _______________________________________________________
+You are in a race and pass",6.139,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical
+0.4," 
+                First place.  I am now in first place.  I am",6.31,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical
+0.5," 
+                1st
+                I am in first place.  I passed",1.22,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical
+0.6," 
+                1st
+                _______________________________________________________
+                _______________________________________________________ 
+",2.234,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical
+0.7, 1st place.,6.546,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical
+0.8," 
+                1st place
+```
+
+
+
+## Step 1: Understand the",0.713,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical
+0.9," First
+                The race has two participants, you and the person you passed.",1.266,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical
+1.0," 
+                You are in first place.",1.146,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical

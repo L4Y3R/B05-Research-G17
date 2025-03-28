@@ -1,0 +1,35 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 0
+                Is your response correct? No
+                Why is your response",1.425,A man has Rs.100 and he wants to eat only one apple. The apple costs Rs.50. How many apples does the man buy?,"One apple, because he only wants one apple.",logical
+0.1," 0
+                Is your response correct? No
+                Why is your response",1.408,A man has Rs.100 and he wants to eat only one apple. The apple costs Rs.50. How many apples does the man buy?,"One apple, because he only wants one apple.",logical
+0.2," 0
+                Is your response correct? No
+                Why is your response",11.309,A man has Rs.100 and he wants to eat only one apple. The apple costs Rs.50. How many apples does the man buy?,"One apple, because he only wants one apple.",logical
+0.3," 0
+                Your response: 0
+                Your response: 0",1.27,A man has Rs.100 and he wants to eat only one apple. The apple costs Rs.50. How many apples does the man buy?,"One apple, because he only wants one apple.",logical
+0.4," 0
+                Is your response correct? No
+                Why is your response",1.248,A man has Rs.100 and he wants to eat only one apple. The apple costs Rs.50. How many apples does the man buy?,"One apple, because he only wants one apple.",logical
+0.5," 0
+                The man has Rs.100 and he wants to eat only",1.815,A man has Rs.100 and he wants to eat only one apple. The apple costs Rs.50. How many apples does the man buy?,"One apple, because he only wants one apple.",logical
+0.6," 0
+                """"""
+
+                """"""The man cannot buy any apples because he only",6.193,A man has Rs.100 and he wants to eat only one apple. The apple costs Rs.50. How many apples does the man buy?,"One apple, because he only wants one apple.",logical
+0.7," 
+1
+                ~~~
+                I hope it is correct. I used",6.418,A man has Rs.100 and he wants to eat only one apple. The apple costs Rs.50. How many apples does the man buy?,"One apple, because he only wants one apple.",logical
+0.8," 0
+
+                Correct answer: 0
+                Explanation: The man has",1.152,A man has Rs.100 and he wants to eat only one apple. The apple costs Rs.50. How many apples does the man buy?,"One apple, because he only wants one apple.",logical
+0.9," 0
+
+                This is a classic lateral thinking puzzle, the man will buy",6.291,A man has Rs.100 and he wants to eat only one apple. The apple costs Rs.50. How many apples does the man buy?,"One apple, because he only wants one apple.",logical
+1.0," 0
+                Correct! The man cannot afford to buy the apple because he",1.659,A man has Rs.100 and he wants to eat only one apple. The apple costs Rs.50. How many apples does the man buy?,"One apple, because he only wants one apple.",logical
