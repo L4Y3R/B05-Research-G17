@@ -1,0 +1,42 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," Mandarin Chinese
+                Is that correct? Yes
+                Is the answer unique?",1.636,What is the most widely spoken language in the world by the number of native speakers?,Mandarin Chinese,general_knowledge
+0.1," Mandarin Chinese
+                Is that correct? Yes
+                Is the answer unique?",1.253,What is the most widely spoken language in the world by the number of native speakers?,Mandarin Chinese,general_knowledge
+0.2," Mandarin Chinese
+                Is that correct? Yes
+                Why is that correct?",6.898,What is the most widely spoken language in the world by the number of native speakers?,Mandarin Chinese,general_knowledge
+0.3," Mandarin Chinese
+                Next question: What is the largest planet in our solar system",1.211,What is the most widely spoken language in the world by the number of native speakers?,Mandarin Chinese,general_knowledge
+0.4," Mandarin Chinese
+                Is that correct? Yes
+                Why? Because it is",1.578,What is the most widely spoken language in the world by the number of native speakers?,Mandarin Chinese,general_knowledge
+0.5," Mandarin Chinese
+
+                Next question: What is the chemical symbol for gold?
+
+               ",4.017,What is the most widely spoken language in the world by the number of native speakers?,Mandarin Chinese,general_knowledge
+0.6," Mandarin Chinese
+                -1
+                -1
+                -1
+               ",1.352,What is the most widely spoken language in the world by the number of native speakers?,Mandarin Chinese,general_knowledge
+0.7," Mandarin Chinese
+                (Note: The answer is correct, but it is not",1.658,What is the most widely spoken language in the world by the number of native speakers?,Mandarin Chinese,general_knowledge
+0.8," Mandarin Chinese
+                Is that correct? Yes
+                Is that answer in the",1.255,What is the most widely spoken language in the world by the number of native speakers?,Mandarin Chinese,general_knowledge
+0.9," Mandarin Chinese 
+
+                Is this correct? 
+
+                Yes
+                No
+               ",1.453,What is the most widely spoken language in the world by the number of native speakers?,Mandarin Chinese,general_knowledge
+1.0," Mandarin Chinese
+
+                How many native speakers are there of Mandarin Chinese?
+
+                Rules",1.416,What is the most widely spoken language in the world by the number of native speakers?,Mandarin Chinese,general_knowledge

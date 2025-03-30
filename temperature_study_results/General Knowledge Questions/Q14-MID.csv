@@ -1,0 +1,54 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 
+
+                Platypus
+                ```python
+# Define a function to check",3.177,Which is the only mammal that lays eggs?,Platypus,general_knowledge
+0.1," 
+
+                Platypus
+                ```python
+# Define a function to check",6.368,Which is the only mammal that lays eggs?,Platypus,general_knowledge
+0.2," 
+
+                Platypus
+                ```python
+# Define a function to get",6.986,Which is the only mammal that lays eggs?,Platypus,general_knowledge
+0.3," 
+
+                Platypus
+                ```python
+# Define a function to get",6.78,Which is the only mammal that lays eggs?,Platypus,general_knowledge
+0.4," 
+
+                Platypus
+                ```python
+# Define a function to get",6.269,Which is the only mammal that lays eggs?,Platypus,general_knowledge
+0.5," 
+                Platypus
+                ''', 'test2.txt')
+
+    def",1.25,Which is the only mammal that lays eggs?,Platypus,general_knowledge
+0.6," 
+
+                Platypus
+                1. What is the largest planet in",1.353,Which is the only mammal that lays eggs?,Platypus,general_knowledge
+0.7," 
+
+                Platypus
+
+                Do you want to ask another question or are",6.267,Which is the only mammal that lays eggs?,Platypus,general_knowledge
+0.8," 
+                Platypus
+                Next question: What is the chemical symbol for",1.251,Which is the only mammal that lays eggs?,Platypus,general_knowledge
+0.9," 
+
+                Platypus
+
+                Next question: What is the chemical symbol for",1.251,Which is the only mammal that lays eggs?,Platypus,general_knowledge
+1.0," 
+                Platypus
+                ``` 
+
+def answer_the_question():
+    question",1.249,Which is the only mammal that lays eggs?,Platypus,general_knowledge
