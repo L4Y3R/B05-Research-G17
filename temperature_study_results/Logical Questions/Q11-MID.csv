@@ -1,0 +1,33 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 
+                Third.  I was in third place before.  I was passed",14.03,"You are in a race, and the person in second place passes the person in front. You end up in second place. What position were you in before?",First place.,logical
+0.1," 
+                Third.  I was in third place before.  I was passed",1.149,"You are in a race, and the person in second place passes the person in front. You end up in second place. What position were you in before?",First place.,logical
+0.2," 
+                3rd
+                I was in third place before.  I",6.167,"You are in a race, and the person in second place passes the person in front. You end up in second place. What position were you in before?",First place.,logical
+0.3," 
+                Third.  I was in third place before.  I was in",3.094,"You are in a race, and the person in second place passes the person in front. You end up in second place. What position were you in before?",First place.,logical
+0.4," 
+                3rd
+                I was in 3rd place before.",11.192,"You are in a race, and the person in second place passes the person in front. You end up in second place. What position were you in before?",First place.,logical
+0.5," 3rd
+                The correct answer is 3rd. You were in",10.516,"You are in a race, and the person in second place passes the person in front. You end up in second place. What position were you in before?",First place.,logical
+0.6," 
+                Third.               
+
+                Is that correct? 
+                Yes. 
+
+",11.124,"You are in a race, and the person in second place passes the person in front. You end up in second place. What position were you in before?",First place.,logical
+0.7,  Third.,1.278,"You are in a race, and the person in second place passes the person in front. You end up in second place. What position were you in before?",First place.,logical
+0.8," 
+                3rd. 
+
+                I was in third place. 
+
+               ",1.228,"You are in a race, and the person in second place passes the person in front. You end up in second place. What position were you in before?",First place.,logical
+0.9,  First.  Thank you for considering this problem. I hope my answer is,16.304,"You are in a race, and the person in second place passes the person in front. You end up in second place. What position were you in before?",First place.,logical
+1.0," Second.  I was in second place.               
+
+I hope it is correct",2.661,"You are in a race, and the person in second place passes the person in front. You end up in second place. What position were you in before?",First place.,logical

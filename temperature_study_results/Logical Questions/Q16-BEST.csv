@@ -1,0 +1,63 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 21
+```
+
+
+
+## Step 1: Identify the sequence pattern
+The",1.197,"What comes next in the sequence: 1, 1, 2, 3, 5, 8, 13?",21,logical
+0.1," 21
+```
+
+
+
+## Step 1: Identify the sequence pattern
+The",7.221,"What comes next in the sequence: 1, 1, 2, 3, 5, 8, 13?",21,logical
+0.2," 21
+```
+
+
+
+## Step 1: Identify the sequence pattern
+The",4.837,"What comes next in the sequence: 1, 1, 2, 3, 5, 8, 13?",21,logical
+0.3," 21
+```
+
+
+
+## Step 1: Identify the sequence pattern
+The",3.705,"What comes next in the sequence: 1, 1, 2, 3, 5, 8, 13?",21,logical
+0.4," 21
+```
+
+
+
+## Step 1: Identify the sequence
+The sequence",1.156,"What comes next in the sequence: 1, 1, 2, 3, 5, 8, 13?",21,logical
+0.5," 21
+```
+
+
+
+## Step 1: Identify the sequence
+The sequence",1.161,"What comes next in the sequence: 1, 1, 2, 3, 5, 8, 13?",21,logical
+0.6," 21
+
+                I'll let you know if you are correct or not.",1.053,"What comes next in the sequence: 1, 1, 2, 3, 5, 8, 13?",21,logical
+0.7," 21
+
+                Is your answer correct?  Yes
+
+                Is there more",1.136,"What comes next in the sequence: 1, 1, 2, 3, 5, 8, 13?",21,logical
+0.8," 
+
+1, 1, 2, 3, 5, ",1.237,"What comes next in the sequence: 1, 1, 2, 3, 5, 8, 13?",21,logical
+0.9," 
+
+                21
+                =========== 
+                ``` 
+def solve_sequence():
+",1.101,"What comes next in the sequence: 1, 1, 2, 3, 5, 8, 13?",21,logical
+1.0,"  
+1, 1, 2, 3, 5, ",13.996,"What comes next in the sequence: 1, 1, 2, 3, 5, 8, 13?",21,logical

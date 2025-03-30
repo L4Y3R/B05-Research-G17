@@ -1,0 +1,51 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 5
+                ```python
+# Define the number of cats and mice
+",11.448,"If 5 cats can catch 5 mice in 5 minutes, how many cats are needed to catch 100 mice in 100 minutes?","5 cats, the rate of work remains the same.",logical
+0.1," 5
+                ```sql
+                SELECT 5
+                ```                ```
+",1.227,"If 5 cats can catch 5 mice in 5 minutes, how many cats are needed to catch 100 mice in 100 minutes?","5 cats, the rate of work remains the same.",logical
+0.2," 5
+                ```sql
+                SELECT 5
+                ```                ```
+",1.492,"If 5 cats can catch 5 mice in 5 minutes, how many cats are needed to catch 100 mice in 100 minutes?","5 cats, the rate of work remains the same.",logical
+0.3," 5
+                ```python
+# Define the number of cats and mice
+",3.403,"If 5 cats can catch 5 mice in 5 minutes, how many cats are needed to catch 100 mice in 100 minutes?","5 cats, the rate of work remains the same.",logical
+0.4," 5
+
+                The correct answer is: 5
+
+                You scored ",1.172,"If 5 cats can catch 5 mice in 5 minutes, how many cats are needed to catch 100 mice in 100 minutes?","5 cats, the rate of work remains the same.",logical
+0.5," 5
+
+                The best answer is: 5.                ```
+
+This",1.329,"If 5 cats can catch 5 mice in 5 minutes, how many cats are needed to catch 100 mice in 100 minutes?","5 cats, the rate of work remains the same.",logical
+0.6," 5
+
+                Is this answer correct?
+
+                Yes, it is correct.",1.252,"If 5 cats can catch 5 mice in 5 minutes, how many cats are needed to catch 100 mice in 100 minutes?","5 cats, the rate of work remains the same.",logical
+0.7," 5
+
+                The correct answer is 5.  If 5 cats",6.266,"If 5 cats can catch 5 mice in 5 minutes, how many cats are needed to catch 100 mice in 100 minutes?","5 cats, the rate of work remains the same.",logical
+0.8," 
+                5
+
+                I am a little confused, I was thinking it",1.169,"If 5 cats can catch 5 mice in 5 minutes, how many cats are needed to catch 100 mice in 100 minutes?","5 cats, the rate of work remains the same.",logical
+0.9," 
+
+1
+
+The above response is an example of a ""logic puzzle"" answer",11.219,"If 5 cats can catch 5 mice in 5 minutes, how many cats are needed to catch 100 mice in 100 minutes?","5 cats, the rate of work remains the same.",logical
+1.0," 
+                
+                5
+
+                I did this because I interpreted the rules to",1.14,"If 5 cats can catch 5 mice in 5 minutes, how many cats are needed to catch 100 mice in 100 minutes?","5 cats, the rate of work remains the same.",logical
