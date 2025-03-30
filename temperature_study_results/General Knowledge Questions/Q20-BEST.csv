@@ -1,0 +1,36 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 
+                carbon dioxide, water, photosynthesis
+                ''', 'carbon dioxide",1.27,The process by which plants convert _________ and _________ into chemical energy is called _________.,"Sunlight, carbon dioxide, photosynthesis",general_knowledge
+0.1," 
+                Carbon dioxide and water, photosynthesis.",1.502,The process by which plants convert _________ and _________ into chemical energy is called _________.,"Sunlight, carbon dioxide, photosynthesis",general_knowledge
+0.2," 
+                Carbon dioxide and water, photosynthesis.",1.225,The process by which plants convert _________ and _________ into chemical energy is called _________.,"Sunlight, carbon dioxide, photosynthesis",general_knowledge
+0.3," sunlight, water, photosynthesis
+                -1 point for each incorrect answer
+",1.353,The process by which plants convert _________ and _________ into chemical energy is called _________.,"Sunlight, carbon dioxide, photosynthesis",general_knowledge
+0.4," 
+                Water and carbon dioxide, photosynthesis. 
+                -1 point for",1.204,The process by which plants convert _________ and _________ into chemical energy is called _________.,"Sunlight, carbon dioxide, photosynthesis",general_knowledge
+0.5," CO2, H2O, photosynthesis
+                Is this correct? Yes",1.277,The process by which plants convert _________ and _________ into chemical energy is called _________.,"Sunlight, carbon dioxide, photosynthesis",general_knowledge
+0.6," 
+                carbon dioxide, water, photosynthesis
+                (Note: I will",1.298,The process by which plants convert _________ and _________ into chemical energy is called _________.,"Sunlight, carbon dioxide, photosynthesis",general_knowledge
+0.7," CO2, H2O, photosynthesis
+
+                Next question: What is",6.149,The process by which plants convert _________ and _________ into chemical energy is called _________.,"Sunlight, carbon dioxide, photosynthesis",general_knowledge
+0.8," sunlight, carbon dioxide, photosynthesis
+```
+
+
+
+## Step 1: Identify",1.876,The process by which plants convert _________ and _________ into chemical energy is called _________.,"Sunlight, carbon dioxide, photosynthesis",general_knowledge
+0.9," 
+                Carbon dioxide and water, photosynthesis
+                ''', correct=False)
+
+",11.174,The process by which plants convert _________ and _________ into chemical energy is called _________.,"Sunlight, carbon dioxide, photosynthesis",general_knowledge
+1.0," sunlight, carbon dioxide, photosynthesis
+                <hr>
+                The process by",1.395,The process by which plants convert _________ and _________ into chemical energy is called _________.,"Sunlight, carbon dioxide, photosynthesis",general_knowledge

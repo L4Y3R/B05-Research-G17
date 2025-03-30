@@ -1,0 +1,48 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 
+
+                The stapes bone. 
+
+                Next question: What is the largest",1.572,What is the smallest bone in the human body?,Stapes,general_knowledge
+0.1," 
+                The stapes bone. 
+                -1
+                -1
+",1.466,What is the smallest bone in the human body?,Stapes,general_knowledge
+0.2," 
+
+                The stapes bone. 
+
+                Next question: What is the largest",6.355,What is the smallest bone in the human body?,Stapes,general_knowledge
+0.3," 
+                The stapes bone. 
+                -Samantha 
+                -",6.297,What is the smallest bone in the human body?,Stapes,general_knowledge
+0.4," 
+
+                The stapes bone. 
+
+                Next question: What is the largest",1.328,What is the smallest bone in the human body?,Stapes,general_knowledge
+0.5," 
+
+                The stapes bone. 
+
+                Next question: What is the largest",1.384,What is the smallest bone in the human body?,Stapes,general_knowledge
+0.6," 
+                The stapes bone. 
+                I am ready for the next question",1.488,What is the smallest bone in the human body?,Stapes,general_knowledge
+0.7," 
+                Stapes
+                1. What is the largest planet in our",1.243,What is the smallest bone in the human body?,Stapes,general_knowledge
+0.8," 
+
+                1. Stapes bone
+                2. Malleus",6.276,What is the smallest bone in the human body?,Stapes,general_knowledge
+0.9," 
+
+                3rd molar or 8th vertebra
+
+**Response",1.199,What is the smallest bone in the human body?,Stapes,general_knowledge
+1.0," 
+
+                The stapes bone.  Was that correct?  I did not",1.252,What is the smallest bone in the human body?,Stapes,general_knowledge

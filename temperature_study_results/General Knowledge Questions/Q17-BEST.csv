@@ -1,0 +1,53 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 
+
+                The stapes bone. 
+
+                Next question: What is the largest",1.551,What is the smallest bone in the human body?,Stapes,general_knowledge
+0.1," 
+
+                The stapes bone. 
+
+                Next question: What is the largest",1.19,What is the smallest bone in the human body?,Stapes,general_knowledge
+0.2," 
+
+                The stapes bone. 
+
+                Next question: What is the largest",2.271,What is the smallest bone in the human body?,Stapes,general_knowledge
+0.3," 
+
+                The stapes bone. 
+
+                Next question: What is the largest",5.95,What is the smallest bone in the human body?,Stapes,general_knowledge
+0.4," 
+                The stapes bone. 
+                Is that correct? 
+                I",2.316,What is the smallest bone in the human body?,Stapes,general_knowledge
+0.5," 
+
+                The stapes bone. 
+                (Note: This is the correct",6.135,What is the smallest bone in the human body?,Stapes,general_knowledge
+0.6," 
+                The stapes bone. 
+                Was this response correct? 
+               ",1.666,What is the smallest bone in the human body?,Stapes,general_knowledge
+0.7," 
+
+                The stapes bone. 
+
+                I will provide the next question.",1.56,What is the smallest bone in the human body?,Stapes,general_knowledge
+0.8," The stapes bone.                </p>
+
+
+
+
+
+<p>  What is the",1.4,What is the smallest bone in the human body?,Stapes,general_knowledge
+0.9," 
+                The stapes bone.  */ 
+
+                This response follows the rules",6.362,What is the smallest bone in the human body?,Stapes,general_knowledge
+1.0," 
+                    -> Stapelius
+                ``` 
+This code snippet demonstrates the use",1.222,What is the smallest bone in the human body?,Stapes,general_knowledge

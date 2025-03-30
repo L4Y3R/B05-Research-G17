@@ -1,0 +1,18 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," Gold, Jewelry.",1.455,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge
+0.1," Gold, Jewelry.",7.497,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge
+0.2," Gold, Jewelry.",1.782,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge
+0.3," Gold, Jewelry.",1.255,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge
+0.4," Gold, Jewelry.",3.702,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge
+0.5," Gold, Jewelry.",1.705,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge
+0.6," Gold, jewelry.",1.164,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge
+0.7," Gold, Jewelry.",1.187,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge
+0.8," Gold, Jewelry
+
+                The element with the atomic number 55 is _________",1.284,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge
+0.9," Gold, Jewelry.
+                Is that correct?  No.
+                The correct answer",1.406,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge
+1.0," 
+                Gold, Jewelry 
+                This is correct, the element with the atomic",1.251,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge

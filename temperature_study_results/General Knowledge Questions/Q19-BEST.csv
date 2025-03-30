@@ -1,0 +1,48 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," Damascus
+                Your response is correct. The capital of Syria is indeed the oldest",1.301,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+0.1," 
+                Damascus
+                _______________________
+                _______________________ 
+                _______________________ 
+",3.081,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+0.2," 
+                Damascus
+                _______________________
+                _______________________ 
+                _______________________ 
+",2.437,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+0.3," 
+                Damascus
+                ''', 'test2')
+    # Test case ",1.204,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+0.4," 
+                Damascus
+                ''', 'test1', 'test1', '",13.532,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+0.5," 
+
+                Damascus
+
+                Next question: What is the world's largest living organism",1.228,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+0.6," 
+
+                Damascus
+
+                Next question: What is the largest living species of lizard",1.208,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+0.7," 
+                Damascus
+                The city of _________ is famous for its canals",6.477,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+0.8," 
+                Jerusalem
+
+                Next question: 
+                What is the world's largest",2.636,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+0.9," 
+                Istanbul 
+                -- 1.  What is the longest word in",1.292,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+1.0," 
+
+JERUSALEM
+
+Note: I'll be providing a list of answers",1.654,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge

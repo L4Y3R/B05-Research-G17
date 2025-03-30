@@ -110,7 +110,7 @@ def create_sample_questions():
             {"question": "What is the world's fastest bird?","correct_answer": "Peregrine falcon"},
             {"question": "Which is the only mammal that lays eggs?","correct_answer": "Platypus"},
             {"question": "What is always associated with a dolmen?","correct_answer": "Stone"},
-            {"question": "What is the name given to a group of horses?","correct_answer": "Harras"},
+            {"question": "What is the name given to a group of horses?","correct_answer": "A Heard"},
             {"question": "What is the smallest bone in the human body?","correct_answer": "Stapes"},
             {"question": "The element with the atomic number 79 is _________, which is often used in _________.","correct_answer": "Gold, jewelry"},
             {"question": "The capital of _________ is the oldest continuously inhabited city in the world.","correct_answer": "Damascus"},

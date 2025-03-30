@@ -1,0 +1,43 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," Damascus
+                Your response is correct. The capital of Syria is indeed the oldest",1.351,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+0.1," Damascus
+                Your response is correct. The capital of Syria is indeed the oldest",1.199,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+0.2," Damascus
+                Your response is correct. The capital of Syria is indeed the oldest",1.398,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+0.3," Damascus
+                _______________________
+                _______________________ 
+                _______________________ 
+                __________________",6.291,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+0.4," 
+                Damascus
+                ''', 'answer': 'Damascus'}, {'question",1.359,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+0.5," Damascus
+                - The capital of Syria is the oldest continuously inhabited city in the",1.257,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+0.6," Damascus
+                -1
+                -1
+                -1
+                -",6.294,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+0.7," Jerusalem
+
+                Correct or incorrect: Incorrect
+                Reason: The capital of Jerusalem",2.638,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+0.8," 
+
+                Jerusalem
+                _______________________
+                _______________________ 
+                _______________________ 
+",1.359,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+0.9," 
+
+                Istanbul
+                1. This is a question about geography, specifically",6.332,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+1.0," Damascus 
+```
+
+
+
+We can use a more descriptive title to make it clear that",6.71,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
