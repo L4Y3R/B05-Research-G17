@@ -1,0 +1,61 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 
+                Echo
+                -1
+                0
+                0
+",1.139,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical
+0.1," 
+                Echo
+                -1
+                0
+                0
+",1.27,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical
+0.2," 
+                Echo. 
+                -1
+                -1
+                -1",1.194,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical
+0.3," 
+                Echo
+\end{code}
+
+The answer is indeed an echo.",1.205,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical
+0.4," 
+                Echo
+                -1
+                0
+                0
+",1.218,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical
+0.5," 
+                ECHO
+
+                I hope this is correct.  I am a",1.292,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical
+0.6," 
+                ECHO
+                Is that correct?  Yes
+                Why is",6.393,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical
+0.7," 
+                Echo
+\end{code}
+
+The answer to the riddle is",1.322,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical
+0.8," 
+                A flag
+                Was this answer correct? 
+                No
+               ",1.253,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical
+0.9," 
+
+                Echo
+
+
+The best answer is Echo.  There is no explanation needed",6.37,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical
+1.0,"  A whisper.           
+
+Correct or Incorrect:
+
+Correct
+Incorrect
+
+Explanation:",1.308,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical

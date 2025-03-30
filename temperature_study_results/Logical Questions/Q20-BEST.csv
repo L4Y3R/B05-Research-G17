@@ -1,0 +1,41 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 
+                A painting.  I have hands but cannot clap. What am I",1.228,I have hands but cannot clap. What am I,A clock.,logical
+0.1," 
+                A painting.  I have hands but cannot clap. What am I",1.344,I have hands but cannot clap. What am I,A clock.,logical
+0.2," 
+                A painting. 
+                Was this correct? 
+                Yes. 
+",1.25,I have hands but cannot clap. What am I,A clock.,logical
+0.3," 
+                A painting.  I have hands but cannot clap. What am I",1.085,I have hands but cannot clap. What am I,A clock.,logical
+0.4," 
+                A painting.  I have hands but cannot clap. What am I",2.338,I have hands but cannot clap. What am I,A clock.,logical
+0.5," 
+                A mirror.  I have hands but cannot clap. What am I",7.21,I have hands but cannot clap. What am I,A clock.,logical
+0.6," 
+
+                A glove. 
+
+                Is this correct? 
+
+                If so,",6.875,I have hands but cannot clap. What am I,A clock.,logical
+0.7," 
+
+                A man
+                No, that's not correct. The answer is",1.239,I have hands but cannot clap. What am I,A clock.,logical
+0.8," 
+                A puppet. 
+                was this correct? 
+                If not,",6.368,I have hands but cannot clap. What am I,A clock.,logical
+0.9," 
+                A painting
+
+I hope it is correct. Let me know if I",6.272,I have hands but cannot clap. What am I,A clock.,logical
+1.0," 
+                A painting 
+
+                Did I get it right? 
+                No
+",1.25,I have hands but cannot clap. What am I,A clock.,logical

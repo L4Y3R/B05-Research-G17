@@ -90,9 +90,9 @@ def create_sample_questions():
             {"question": "A father is 36 years old, and his son is 6 years old. In how many years will the father be five times the age of his son?","correct_answer": "1.5 Years"},
             {"question": "What comes next in the sequence: 1, 1, 2, 3, 5, 8, 13?","correct_answer": "21; it’s the Fibonacci sequence."},
             {"question": "I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?","correct_answer": "An echo."},
-            {"question": "You are in a room with three light switches. Each switch controls one of three light bulbs in another room. You can only enter the other room once. How do you determine which switch controls which bulb?","correct_answer": "Turn one switch on for a few minutes, turn it off, and turn another on. Go to the room: the lit bulb matches the second switch, the warm bulb matches the first, and the unlit/cool bulb matches the third."},
-            {"question": "Tom is twice as old as his sister. Five years ago, he was three times as old. How old is Tom now?","correct_answer": "Tom is 10 years old, and his sister is 5."},
-            {"question": "What comes next in the sequence: 4, 4, 2, 2, 1, 1, 14, 4, 4, 2?","correct_answer": "2"}
+            {"question": "You see a boat filled with people. It has not sunk, but when you look again, you don’t see a single person on the boat. Why?","correct_answer": "All of them are married"},
+            {"question": "Tom is twice as old as his sister. Five years ago, he was three times as old. How old is Tom now?","correct_answer": "20 Years old"},
+            { "question": "I have hands but cannot clap. What am I", "correct_answer": "A clock." }
         ],
         "general_knowledge": [
             {"question": "In which country is the city of Venice located?","correct_answer": "Italy"},

@@ -1,0 +1,37 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 
+                A painting.  I have hands but cannot clap. What am I",1.516,I have hands but cannot clap. What am I,A clock.,logical
+0.1," 
+                A painting.  I have hands but cannot clap. What am I",11.182,I have hands but cannot clap. What am I,A clock.,logical
+0.2," 
+                A painting.  I have hands but cannot clap. What am I",6.178,I have hands but cannot clap. What am I,A clock.,logical
+0.3," 
+                A painting. 
+                Was this correct? 
+                Yes 
+               ",7.489,I have hands but cannot clap. What am I,A clock.,logical
+0.4," 
+                A painting. 
+                -1
+                0
+                ",1.249,I have hands but cannot clap. What am I,A clock.,logical
+0.5," 
+
+                A statue
+                _______________________
+                _______________________
+
+
+Answer: A",1.442,I have hands but cannot clap. What am I,A clock.,logical
+0.6," 
+                A mirror.  I have hands but cannot clap. What am I",1.381,I have hands but cannot clap. What am I,A clock.,logical
+0.7," 
+                A painting.  I have hands but cannot clap. What am I",1.256,I have hands but cannot clap. What am I,A clock.,logical
+0.8," 
+                A mirror.  I have hands but cannot clap. What am I",1.229,I have hands but cannot clap. What am I,A clock.,logical
+0.9," A painting.   ```csharp
+                public class Painting
+                {
+                   ",1.251,I have hands but cannot clap. What am I,A clock.,logical
+1.0," a mannequin.
+                If you were the teacher grading this response I would",1.163,I have hands but cannot clap. What am I,A clock.,logical

@@ -1,0 +1,53 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 
+
+                The people are all married.               
+
+                Is this correct? 
+
+",1.331,"You see a boat filled with people. It has not sunk, but when you look again, you don’t see a single person on the boat. Why?",All of them are married,logical
+0.1," 
+
+                They are all married.               
+
+                Is this correct? 
+
+               ",1.147,"You see a boat filled with people. It has not sunk, but when you look again, you don’t see a single person on the boat. Why?",All of them are married,logical
+0.2," 
+
+                The people on the boat are all married.               
+
+                Is this",11.279,"You see a boat filled with people. It has not sunk, but when you look again, you don’t see a single person on the boat. Why?",All of them are married,logical
+0.3," 
+
+                They are all married.               
+
+                Is this correct? 
+
+               ",1.97,"You see a boat filled with people. It has not sunk, but when you look again, you don’t see a single person on the boat. Why?",All of them are married,logical
+0.4," 
+
+                The people on the boat are all married.               
+
+                Is that",1.256,"You see a boat filled with people. It has not sunk, but when you look again, you don’t see a single person on the boat. Why?",All of them are married,logical
+0.5," 
+                The people on the boat are all married.               
+
+                Is this",1.25,"You see a boat filled with people. It has not sunk, but when you look again, you don’t see a single person on the boat. Why?",All of them are married,logical
+0.6," 
+
+                The people are all married.               
+
+                Is that correct? ",6.475,"You see a boat filled with people. It has not sunk, but when you look again, you don’t see a single person on the boat. Why?",All of them are married,logical
+0.7," 
+                They are all married. 
+                - If you are married, you",2.169,"You see a boat filled with people. It has not sunk, but when you look again, you don’t see a single person on the boat. Why?",All of them are married,logical
+0.8," 
+                The people on the boat are all married.               
+
+                Why:",11.388,"You see a boat filled with people. It has not sunk, but when you look again, you don’t see a single person on the boat. Why?",All of them are married,logical
+0.9, There are no people on the boat.,10.77,"You see a boat filled with people. It has not sunk, but when you look again, you don’t see a single person on the boat. Why?",All of them are married,logical
+1.0," 
+                It's a cruise ship.               
+
+                So, why can't",1.15,"You see a boat filled with people. It has not sunk, but when you look again, you don’t see a single person on the boat. Why?",All of them are married,logical

@@ -1,0 +1,54 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 
+                Echo
+                -1
+                0
+                0
+",1.233,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical
+0.1," 
+                Echo
+                -1
+                0
+                0
+",1.248,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical
+0.2," 
+                Echo. 
+                -1
+                -1
+                -1",1.251,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical
+0.3," 
+                Echo
+\end{code}
+
+The answer is indeed an ""Echo",1.617,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical
+0.4," 
+                Echo
+\end{code}
+
+The correct answer is indeed ""Echo",13.58,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical
+0.5," 
+                Echo
+\end{code}
+
+The answer is indeed ""Echo"".",1.252,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical
+0.6," 
+                Echo
+                I will wait for your response. 
+                Good luck",3.093,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical
+0.7," 
+
+                Echo
+
+                [Note: I am not looking for any additional information",1.66,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical
+0.8," 
+
+                Echo.",0.739,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical
+0.9," 
+                Echo
+\end{code}
+
+I'll solve the riddle and",1.353,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical
+1.0," 
+
+                Flag
+                Flag is not the answer to the riddle. I",6.27,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical

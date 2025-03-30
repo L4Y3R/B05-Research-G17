@@ -1,0 +1,35 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 25
+                Is your response correct? No
+                Correct response: ",1.207,"Tom is twice as old as his sister. Five years ago, he was three times as old. How old is Tom now?",20 Years old,logical
+0.1," 25
+                Is your response correct? No
+                Correct response: ",1.455,"Tom is twice as old as his sister. Five years ago, he was three times as old. How old is Tom now?",20 Years old,logical
+0.2," 25
+                Is your response correct? No
+                Why is your response",1.249,"Tom is twice as old as his sister. Five years ago, he was three times as old. How old is Tom now?",20 Years old,logical
+0.3," 25
+                Is your response correct?  No
+                Correct response:",1.265,"Tom is twice as old as his sister. Five years ago, he was three times as old. How old is Tom now?",20 Years old,logical
+0.4,"  25
+                Is your response correct?  No
+                The correct",6.282,"Tom is twice as old as his sister. Five years ago, he was three times as old. How old is Tom now?",20 Years old,logical
+0.5," 25
+                The best answer is: 25. 
+                I'm",1.179,"Tom is twice as old as his sister. Five years ago, he was three times as old. How old is Tom now?",20 Years old,logical
+0.6,"  32
+                - No explanations is needed
+                - Provide your answer",4.681,"Tom is twice as old as his sister. Five years ago, he was three times as old. How old is Tom now?",20 Years old,logical
+0.7," 24
+                Is your response correct?  Yes
+                What is the",1.163,"Tom is twice as old as his sister. Five years ago, he was three times as old. How old is Tom now?",20 Years old,logical
+0.8,"  25
+                Is your response correct?  Yes
+                The correct",1.235,"Tom is twice as old as his sister. Five years ago, he was three times as old. How old is Tom now?",20 Years old,logical
+0.9," 17
+                How did you get your answer? 
+                Step 1",1.251,"Tom is twice as old as his sister. Five years ago, he was three times as old. How old is Tom now?",20 Years old,logical
+1.0," 32
+
+
+Explanation:  The age of Tom five years ago is x and",1.255,"Tom is twice as old as his sister. Five years ago, he was three times as old. How old is Tom now?",20 Years old,logical
