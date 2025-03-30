@@ -1,0 +1,56 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 
+
+                6
+                ```python
+# Define a function to calculate the",2.845,How many muscles control the movement of the human eye?,6,general_knowledge
+0.1," 
+
+                6
+                ```python
+# Define a function to calculate the",11.179,How many muscles control the movement of the human eye?,6,general_knowledge
+0.2," 
+
+                6
+                ```python
+# Define a function to calculate the",1.122,How many muscles control the movement of the human eye?,6,general_knowledge
+0.3," 
+
+                6
+                ```python
+# Define a function to calculate the",1.381,How many muscles control the movement of the human eye?,6,general_knowledge
+0.4," 
+
+                6
+                ```python
+# Define a function to calculate the",1.454,How many muscles control the movement of the human eye?,6,general_knowledge
+0.5," 6
+
+                Is that correct? 
+                - Yes
+                - No",6.27,How many muscles control the movement of the human eye?,6,general_knowledge
+0.6," 
+
+                6
+                ```python
+# Define a function to calculate the",7.028,How many muscles control the movement of the human eye?,6,general_knowledge
+0.7," 6
+                """"""
+            """"""
+            """"""
+            """"""
+            """"""
+            """"""
+           ",1.206,How many muscles control the movement of the human eye?,6,general_knowledge
+0.8," 4
+                Is that correct? 
+
+                If so, what are the",1.867,How many muscles control the movement of the human eye?,6,general_knowledge
+0.9," 
+
+                6
+                ""Six muscles control the movement of the human eye",1.251,How many muscles control the movement of the human eye?,6,general_knowledge
+1.0," 43
+                Is that correct? No
+
+                Your response: 6",1.18,How many muscles control the movement of the human eye?,6,general_knowledge

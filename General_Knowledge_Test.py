@@ -52,6 +52,7 @@ class TemperatureStudy:
                 Rules:
                 - Provide only one answer
                 - No explanations
+                - Provide the answer inn the first line of your response
 
                 Your response:""",
             input_variables=["question"]

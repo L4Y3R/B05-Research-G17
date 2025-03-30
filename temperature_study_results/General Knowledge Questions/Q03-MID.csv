@@ -1,0 +1,54 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 
+                United Kingdom
+                ''',
+                'test_1': '''
+               ",3.991,In which country was the Titanic built?,United Kingdom,general_knowledge
+0.1," 
+                United Kingdom
+                ''',
+                'test_1': '''
+               ",1.146,In which country was the Titanic built?,United Kingdom,general_knowledge
+0.2," 
+                United Kingdom
+                ''',
+                'test_1': '''
+               ",1.27,In which country was the Titanic built?,United Kingdom,general_knowledge
+0.3," Ireland
+                ''',
+                'test_1': '''
+                These are general",6.453,In which country was the Titanic built?,United Kingdom,general_knowledge
+0.4," 
+                United Kingdom
+                ''')
+
+    # Test the function with a question",11.287,In which country was the Titanic built?,United Kingdom,general_knowledge
+0.5," Ireland
+                ''',
+                'test_1'
+            ),
+            (
+               ",2.58,In which country was the Titanic built?,United Kingdom,general_knowledge
+0.6," England
+                Correct answer: Ireland
+                Points: 0
+                Total",1.257,In which country was the Titanic built?,United Kingdom,general_knowledge
+0.7," Ireland
+                ''',
+                'question_2': '''
+                What is the",1.864,In which country was the Titanic built?,United Kingdom,general_knowledge
+0.8," 
+
+                United Kingdom 
+
+                Did the Titanic have a swimming pool? 
+
+               ",4.011,In which country was the Titanic built?,United Kingdom,general_knowledge
+0.9," Ireland
+                Is that correct?  No
+                Why is it not correct",5.449,In which country was the Titanic built?,United Kingdom,general_knowledge
+1.0," 
+                England''')
+
+    # Check if the answer is correct
+    if",1.764,In which country was the Titanic built?,United Kingdom,general_knowledge
