@@ -1,0 +1,37 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 700
+                Is your response correct? No
+                Why is your response",1.207,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,Rs.350,logical
+0.1," 700
+                Is your response correct? No
+                Why is your response",1.483,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,Rs.350,logical
+0.2," 700
+                Is your response correct? No
+                Why is your response",7.786,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,Rs.350,logical
+0.3," 700
+                Is your response correct? No
+                Why is your response",1.658,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,Rs.350,logical
+0.4," 700
+                Is that correct? No
+                Why? The question asks",1.124,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,Rs.350,logical
+0.5," 700
+                Is your response correct? Yes
+                Why? The ball",1.377,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,Rs.350,logical
+0.6," 
+
+                700
+                The bat costs 500 more than the ball,",1.252,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,Rs.350,logical
+0.7," 700
+                Your response is correct. The ball costs Rs.700.",6.79,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,Rs.350,logical
+0.8," 700
+                ''')
+
+    # Test case 3: Check if the",1.001,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,Rs.350,logical
+0.9," 
+                400
+                """"""
+
+
+                # If the answer is correct,",6.302,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,Rs.350,logical
+1.0," 700
+                Step-by-step reasoning process: Let's denote the cost of",9.648,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,Rs.350,logical

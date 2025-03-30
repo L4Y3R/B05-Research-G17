@@ -1,0 +1,48 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 6
+                - 6 * 4 = 24
+                -",1.176,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical
+0.1," 6
+                - 6 * 4 = 24
+                -",1.302,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical
+0.2," 6
+                Your response: 6
+                Your response: 6",1.251,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical
+0.3," 6
+
+
+                I am a number. Add 3 to me, then",1.351,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical
+0.4," 6
+
+
+                I am a number. If you multiply me by 2",1.867,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical
+0.5," 6
+                - 6*4=24
+                - 24",4.322,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical
+0.6," 
+
+                6
+\end{lstlisting}
+
+\begin{lstlisting",1.234,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical
+0.7," 9
+                ```
+
+
+# Step 1: Define the problem and identify",1.471,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical
+0.8," 
+
+                9
+
+                Is my answer correct?  If not, provide",1.256,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical
+0.9," 
+                15
+\end{code}
+
+To solve this problem, I",1.199,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical
+1.0," 
+
+                12 
+                _______________________
+
+This response is to be considered correct",1.269,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical

@@ -1,0 +1,39 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 6
+                - 6 * 4 = 24
+                -",2.866,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical
+0.1," 6
+                - 6 * 4 = 24
+                -",7.397,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical
+0.2," 6
+                Your response: 6
+                Your response: 6",6.781,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical
+0.3," 6
+                6 * 4 = 24
+                24",8.11,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical
+0.4," 6
+                - 6*4=24
+                - 24",5.039,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical
+0.5," 6
+
+
+How did I do?  I provided a single answer, and",1.26,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical
+0.6," 6
+                _______________________________________________________
+                - 6 * 4 =",6.26,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical
+0.7," 6
+
+
+Explanation: The problem is asking for a number that when multiplied by",6.266,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical
+0.8," 
+                
+                6
+                _______________________________________________________
+                
+                Thank you for",1.355,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical
+0.9," 
+
+                12
+                The reasoning behind the answer is that the number is",1.172,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical
+1.0," (line 1) 12
+                (line 2) Because if",2.508,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical

@@ -87,7 +87,7 @@ def create_sample_questions():
             {"question": "If 5 cats can catch 5 mice in 5 minutes, how many cats are needed to catch 100 mice in 100 minutes?","correct_answer": "5 cats, the rate of work remains the same."},
             {"question": "I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?","correct_answer": "6; 4 × 6 − 6 = 18."},
             {"question": "A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?","correct_answer": "Rs.350, the bat costs Rs.850."},
-            {"question": "A father is 36 years old, and his son is 6 years old. In how many years will the father be five times the age of his son?","correct_answer": "6 years, the father will be 42, and the son will be 12."},
+            {"question": "A father is 36 years old, and his son is 6 years old. In how many years will the father be five times the age of his son?","correct_answer": "1.5 Years"},
             {"question": "What comes next in the sequence: 1, 1, 2, 3, 5, 8, 13?","correct_answer": "21; it’s the Fibonacci sequence."},
             {"question": "I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?","correct_answer": "An echo."},
             {"question": "You are in a room with three light switches. Each switch controls one of three light bulbs in another room. You can only enter the other room once. How do you determine which switch controls which bulb?","correct_answer": "Turn one switch on for a few minutes, turn it off, and turn another on. Go to the room: the lit bulb matches the second switch, the warm bulb matches the first, and the unlit/cool bulb matches the third."},
