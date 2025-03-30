@@ -1,0 +1,36 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," Africa
+                ''',
+                'test1': '''
+                What is the capital",1.251,Which continent has the most countries?,Africa,general_knowledge
+0.1," Africa
+                Next question: Which of the following is NOT a type of rock",1.224,Which continent has the most countries?,Africa,general_knowledge
+0.2," Africa
+                ''',
+                'test1': '''
+                These are general knowledge",11.287,Which continent has the most countries?,Africa,general_knowledge
+0.3,Error: Fireworks Server: Error 502,14.187114953994751,Which continent has the most countries?,Africa,general_knowledge
+0.4, Africa has the most countries.,4.083,Which continent has the most countries?,Africa,general_knowledge
+0.5," Africa
+                ```
+
+
+                # Define the function to get the continent with the",6.472,Which continent has the most countries?,Africa,general_knowledge
+0.6, Africa has the most countries.,1.352,Which continent has the most countries?,Africa,general_knowledge
+0.7," Africa
+
+                2. What is the capital of France?
+
+                Rules:
+",1.257,Which continent has the most countries?,Africa,general_knowledge
+0.8," Africa
+                ""The continent with the most countries is Africa, which has a",1.245,Which continent has the most countries?,Africa,general_knowledge
+0.9," Africa has the most countries
+                (If you want to provide a reason or",1.662,Which continent has the most countries?,Africa,general_knowledge
+1.0," 
+                
+                Africa
+                
+                Questions: 
+                
+                1. Which of",1.25,Which continent has the most countries?,Africa,general_knowledge

@@ -1,0 +1,65 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 88
+                ''',
+                'test1': '''
+                What is the",6.265,How many keys are in a piano?,88,general_knowledge
+0.1," 88
+                """"""
+
+                # Check if the answer is correct
+                if",1.115,How many keys are in a piano?,88,general_knowledge
+0.2," 
+
+                88
+                ```
+
+
+                # Define a function to get the",1.157,How many keys are in a piano?,88,general_knowledge
+0.3," 
+
+                88
+                ```
+
+
+                # Define a function to get the",1.352,How many keys are in a piano?,88,general_knowledge
+0.4," 
+
+                88
+                ```
+
+
+                # Define the number of keys in",11.796,How many keys are in a piano?,88,general_knowledge
+0.5," 88
+                ```python
+# Define a function to get the number of",6.371,How many keys are in a piano?,88,general_knowledge
+0.6," 
+
+                88
+
+                Is the Great Wall of China man-made?
+
+               ",1.252,How many keys are in a piano?,88,general_knowledge
+0.7," 88
+                """"""
+                return ""88""
+
+            # Test the function with",6.284,How many keys are in a piano?,88,general_knowledge
+0.8," 
+
+                88
+                ''')
+
+    def test_multiple_choice_question(self):
+",1.337,How many keys are in a piano?,88,general_knowledge
+0.9," 
+                88 keys''')
+
+    # Test the function with a second set",1.355,How many keys are in a piano?,88,general_knowledge
+1.0,"""
+
+    """"""
+    88
+
+    """"""
+    def piano_keys():
+        return",1.252,How many keys are in a piano?,88,general_knowledge

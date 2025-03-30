@@ -1,0 +1,43 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," Brazil
+                Is that correct? Yes
+                What is the capital of Brazil",6.238,WWhich country is the largest producer of coffee?,Brazil,general_knowledge
+0.1," Brazil
+                Is that correct? Yes
+                What is the capital of Brazil",1.473,WWhich country is the largest producer of coffee?,Brazil,general_knowledge
+0.2," Brazil
+                Is that correct? Yes
+                What is the capital of France",9.471,WWhich country is the largest producer of coffee?,Brazil,general_knowledge
+0.3," Brazil
+                Is that correct? Yes
+                Is that the only answer?",9.238,WWhich country is the largest producer of coffee?,Brazil,general_knowledge
+0.4," Brazil
+                Is that correct? Yes
+                Is the answer you provided the",1.357,WWhich country is the largest producer of coffee?,Brazil,general_knowledge
+0.5," Brazil
+                -1
+                -1
+                -1
+                -",2.172,WWhich country is the largest producer of coffee?,Brazil,general_knowledge
+0.6," Brazil
+                _______________________
+                _______________________</p>
+            </div>
+",1.138,WWhich country is the largest producer of coffee?,Brazil,general_knowledge
+0.7," 
+                Brazil
+                ''', 
+                'test_2'
+            ),
+",1.26,WWhich country is the largest producer of coffee?,Brazil,general_knowledge
+0.8," Brazil
+                Is that correct? Yes
+                Next question: What is the",1.252,WWhich country is the largest producer of coffee?,Brazil,general_knowledge
+0.9," Brazil
+``` 
+                #!/usr/bin/env python3
+
+def get_answer",1.349,WWhich country is the largest producer of coffee?,Brazil,general_knowledge
+1.0," Brazil
+
+                Final Answer: The final answer is Brazil. I hope it is",1.457,WWhich country is the largest producer of coffee?,Brazil,general_knowledge
