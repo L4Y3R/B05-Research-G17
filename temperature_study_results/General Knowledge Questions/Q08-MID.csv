@@ -1,0 +1,37 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," Africa
+                ''',
+                'test1': '''
+                What is the capital",17.196,Which continent has the most countries?,Africa,general_knowledge
+0.1," Africa
+                ''',
+                'test1': '''
+                What is the capital",1.46,Which continent has the most countries?,Africa,general_knowledge
+0.2," Africa
+                ''',
+                'test1': '''
+                What is the capital",1.249,Which continent has the most countries?,Africa,general_knowledge
+0.3," Africa
+                Is that correct? Yes
+                Why? Because it has ",1.251,Which continent has the most countries?,Africa,general_knowledge
+0.4," Africa
+                Next question: Which of the following is NOT a type of cloud",1.316,Which continent has the most countries?,Africa,general_knowledge
+0.5, Africa has the most countries.,1.186,Which continent has the most countries?,Africa,general_knowledge
+0.6," Africa
+                Correct, Africa has the most countries. Next question: Which planet",1.25,Which continent has the most countries?,Africa,general_knowledge
+0.7," 
+                Africa
+                - It has 54 countries. 
+                - It",10.054,Which continent has the most countries?,Africa,general_knowledge
+0.8," Africa
+                _______________________________________________________
+
+                Which country has the highest population?
+
+               ",1.353,Which continent has the most countries?,Africa,general_knowledge
+0.9," Africa
+                """"""
+                self.assertEqual(expected_answer, actual_answer)
+            # Test",11.181,Which continent has the most countries?,Africa,general_knowledge
+1.0," Africa
+                Correct! The African continent has 54 countries. You earn ",1.252,Which continent has the most countries?,Africa,general_knowledge

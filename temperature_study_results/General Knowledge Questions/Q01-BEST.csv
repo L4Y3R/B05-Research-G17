@@ -1,0 +1,54 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," Italy
+                Is that correct? Yes
+                Is the city of Venice a",6.33,In which country is the city of Venice located?,Italy,general_knowledge
+0.1," Italy
+                ''',
+                'test1'
+            ),
+            (
+                '",6.47,In which country is the city of Venice located?,Italy,general_knowledge
+0.2," Italy
+                Next question: What is the capital of France? 
+                Your",5.859,In which country is the city of Venice located?,Italy,general_knowledge
+0.3," Italy
+                ''',
+                'test1'
+            ),
+            (
+                '",1.969,In which country is the city of Venice located?,Italy,general_knowledge
+0.4," Italy
+                Is the answer correct? Yes
+                Next question: In which",6.265,In which country is the city of Venice located?,Italy,general_knowledge
+0.5," 
+                Italy
+                ```
+
+
+                # Define a function to get the user",10.981,In which country is the city of Venice located?,Italy,general_knowledge
+0.6," Italy
+                ```
+
+
+# Define a function to get the answer
+def get",7.599,In which country is the city of Venice located?,Italy,general_knowledge
+0.7," Italy
+                _______________________
+
+                What is the chemical symbol for gold?
+
+               ",6.37,In which country is the city of Venice located?,Italy,general_knowledge
+0.8," Italy
+
+                What is the capital of France?
+
+                Rules:
+                - Provide",6.165,In which country is the city of Venice located?,Italy,general_knowledge
+0.9," Italy''') as g:
+        assert g.question == ""In which country is",11.287,In which country is the city of Venice located?,Italy,general_knowledge
+1.0," 
+
+Italy''')
+    return Italia
+
+print(nazionale)  # Prints",2.374,In which country is the city of Venice located?,Italy,general_knowledge

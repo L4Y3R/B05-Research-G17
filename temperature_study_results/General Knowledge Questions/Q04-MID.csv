@@ -1,0 +1,49 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," Abuja
+                ''',
+                'test1': '''
+                These are general",2.331,What is the capital of Nigeria?,Abuja,general_knowledge
+0.1," Abuja
+                ''',
+                'test1': '''
+                These are general",1.252,What is the capital of Nigeria?,Abuja,general_knowledge
+0.2," Abuja
+                ''',
+                'test1': '''
+                These are general",1.248,What is the capital of Nigeria?,Abuja,general_knowledge
+0.3," Abuja
+                """"""
+                # Check if the answer is correct
+                if",1.865,What is the capital of Nigeria?,Abuja,general_knowledge
+0.4," 
+                Abuja
+                """"""
+
+
+                # Define the function to evaluate the",1.248,What is the capital of Nigeria?,Abuja,general_knowledge
+0.5," Abuja
+                ''',
+                'test_1': '''
+                What is",1.314,What is the capital of Nigeria?,Abuja,general_knowledge
+0.6," Lagos
+                ''',
+                'question1'
+            ),
+            Question(
+               ",7.231,What is the capital of Nigeria?,Abuja,general_knowledge
+0.7," Abuja
+
+                Next question: What is the largest planet in our solar system",1.122,What is the capital of Nigeria?,Abuja,general_knowledge
+0.8," Abuja
+                Is that correct? yes
+                Why? because it is",11.467,What is the capital of Nigeria?,Abuja,general_knowledge
+0.9,"Abuja
+                ''',
+                'score': 1,
+                'correct",1.555,What is the capital of Nigeria?,Abuja,general_knowledge
+1.0," Lagos
+                """"""
+                return ""Lagos""
+
+            @staticmethod
+            def",1.711,What is the capital of Nigeria?,Abuja,general_knowledge

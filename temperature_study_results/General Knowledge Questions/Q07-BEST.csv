@@ -1,0 +1,57 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 88
+                ''',
+                'test1': '''
+                What is the",8.771,How many keys are in a piano?,88,general_knowledge
+0.1," 88
+                ''',
+                'test1': '''
+                What is the",1.246,How many keys are in a piano?,88,general_knowledge
+0.2," 88
+                ''',
+                'test1'
+            ),
+            (
+               ",1.768,How many keys are in a piano?,88,general_knowledge
+0.3," 88
+                """"""
+
+                # Define a function to check the answer
+               ",1.348,How many keys are in a piano?,88,general_knowledge
+0.4," 88
+                """"""
+                # Check if the answer is correct
+                if",1.866,How many keys are in a piano?,88,general_knowledge
+0.5," 
+
+                88
+
+                Next question: What is the largest planet in our",1.249,How many keys are in a piano?,88,general_knowledge
+0.6," 88
+                """"""
+
+                # Process the user's response
+                user_response",1.251,How many keys are in a piano?,88,general_knowledge
+0.7," 88"" 
+
+---
+
+Here's a hint for the next question: This is",6.475,How many keys are in a piano?,88,general_knowledge
+0.8," 88 keys
+                How many wheels are on a standard bicycle?
+
+                Rules",1.657,How many keys are in a piano?,88,general_knowledge
+0.9," 
+
+                88
+                ``` 
+                import random
+
+                # List of",3.916,How many keys are in a piano?,88,general_knowledge
+1.0," 88 keys
+                _______________________
+                _______________________
+                _______________________
+
+
+",1.382,How many keys are in a piano?,88,general_knowledge

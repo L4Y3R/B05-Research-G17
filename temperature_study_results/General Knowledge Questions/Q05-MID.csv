@@ -1,0 +1,48 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 
+
+                29th state of India is: Haryana
+                ''',",6.198,What is the 29th state of India?,Telangana,general_knowledge
+0.1," 
+
+                29th state of India is: Haryana
+                ''',",6.269,What is the 29th state of India?,Telangana,general_knowledge
+0.2," 
+
+                29th state of India is: Haryana
+                ''',",1.662,What is the 29th state of India?,Telangana,general_knowledge
+0.3," 
+                Haryana
+                ''',
+                'test1': '''
+                These",1.202,What is the 29th state of India?,Telangana,general_knowledge
+0.4," 
+
+                29th state of India is: Haryana
+                Is that",6.214,What is the 29th state of India?,Telangana,general_knowledge
+0.5," 
+                29th state of India is Telangana. 
+                I",11.206,What is the 29th state of India?,Telangana,general_knowledge
+0.6," 
+
+                29th state of India: Haryana
+
+                Next question:",1.187,What is the 29th state of India?,Telangana,general_knowledge
+0.7," 
+                Assam
+                (Note: This is the response from the user",1.175,What is the 29th state of India?,Telangana,general_knowledge
+0.8," 
+
+                Arunachal Pradesh''') 
+            # Test the function with",1.261,What is the 29th state of India?,Telangana,general_knowledge
+0.9,"""
+
+    Answer:  Meghalaya
+    """"""
+
+
+
+# Testing the function",1.252,What is the 29th state of India?,Telangana,general_knowledge
+1.0," 
+
+                </s><s>This is a quiz about general knowledge. The answer",1.256,What is the 29th state of India?,Telangana,general_knowledge

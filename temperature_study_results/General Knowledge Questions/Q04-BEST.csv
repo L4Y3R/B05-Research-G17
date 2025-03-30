@@ -1,0 +1,58 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," Abuja
+                ''',
+                'test1': '''
+                These are general",7.972,What is the capital of Nigeria?,Abuja,general_knowledge
+0.1," Abuja
+                ''',
+                'test1': '''
+                These are general",1.279,What is the capital of Nigeria?,Abuja,general_knowledge
+0.2," Abuja
+                """"""
+                # Check if the answer is correct
+                if",6.406,What is the capital of Nigeria?,Abuja,general_knowledge
+0.3," Abuja
+                ''',
+                'test1'
+            ),
+            (
+               ",1.165,What is the capital of Nigeria?,Abuja,general_knowledge
+0.4," Abuja
+                ''',
+                'test1': '''
+                These are general",1.284,What is the capital of Nigeria?,Abuja,general_knowledge
+0.5," 
+                Abuja
+                """"""
+
+
+                # Test the function with the provided",1.454,What is the capital of Nigeria?,Abuja,general_knowledge
+0.6," 
+                Abuja
+                """"""
+
+
+                # Check if the answer is correct",6.342,What is the capital of Nigeria?,Abuja,general_knowledge
+0.7," Abuja
+                """"""
+                return ""Abuja""
+
+            # Test the function",7.003,What is the capital of Nigeria?,Abuja,general_knowledge
+0.8," Lagos
+                """"""
+
+                expected_output = ""Abuja""
+                assert actual_output",6.324,What is the capital of Nigeria?,Abuja,general_knowledge
+0.9," Abuja
+                ''',
+                '1',
+                0
+            ),
+",2.11,What is the capital of Nigeria?,Abuja,general_knowledge
+1.0," Lagos
+
+                Score: 0
+
+                Category: Geography
+                """"""
+               ",11.169,What is the capital of Nigeria?,Abuja,general_knowledge

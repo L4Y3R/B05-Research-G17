@@ -1,0 +1,68 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 
+
+                Brain
+                ''', 'brain')
+
+    def test_question_2",11.426,What is the human body part that has fully grown since birth?,EYES,general_knowledge
+0.1," 
+
+                Brain
+                ''', 'brain')
+
+    def test_question_2",1.577,What is the human body part that has fully grown since birth?,EYES,general_knowledge
+0.2," 
+
+                Brain
+
+                Is that correct? 
+
+                If yes, then the",1.433,What is the human body part that has fully grown since birth?,EYES,general_knowledge
+0.3," 
+
+                Brain
+
+                Is that correct? 
+
+                If so, I will",1.258,What is the human body part that has fully grown since birth?,EYES,general_knowledge
+0.4," 
+
+                Brain
+                ''', 'brain', 1)
+
+    def test",1.448,What is the human body part that has fully grown since birth?,EYES,general_knowledge
+0.5," 
+
+                Brain
+                ''', 'brain')
+
+    def test_question_2",1.355,What is the human body part that has fully grown since birth?,EYES,general_knowledge
+0.6," 
+                Brain
+
+                Next question: What is the only bone in the human",6.271,What is the human body part that has fully grown since birth?,EYES,general_knowledge
+0.7," Brain
+                """"""
+                return ""Brain""
+
+            def question2():
+                """"""",6.442,What is the human body part that has fully grown since birth?,EYES,general_knowledge
+0.8," 
+
+                Eyes
+                """"""
+
+                return ""Eyes""  # Correct answer",6.398,What is the human body part that has fully grown since birth?,EYES,general_knowledge
+0.9," Brain
+
+---
+
+I'm glad you think so! Here's another question:
+
+               ",1.351,What is the human body part that has fully grown since birth?,EYES,general_knowledge
+1.0," Hair 
+        """"""
+        return ""Hair""
+
+# Example usage:
+print(question1",1.457,What is the human body part that has fully grown since birth?,EYES,general_knowledge

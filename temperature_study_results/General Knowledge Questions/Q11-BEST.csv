@@ -1,0 +1,54 @@
+temperature,response,response_time,question,correct_answer,category
+0.0," 
+
+                Brain
+                ''', 'brain')
+
+    def test_question_2",2.18,What is the human body part that has fully grown since birth?,EYES,general_knowledge
+0.1," 
+
+                Brain
+                ''', 'brain')
+
+    def test_question_2",1.231,What is the human body part that has fully grown since birth?,EYES,general_knowledge
+0.2," 
+
+                Brain
+                ```python
+# Define a function to get the answer",6.368,What is the human body part that has fully grown since birth?,EYES,general_knowledge
+0.3," 
+
+                Brain
+
+                Next question: What is the only bird that can fly",11.489,What is the human body part that has fully grown since birth?,EYES,general_knowledge
+0.4," 
+
+                Brain
+                ''',
+                'test1': '''
+                These are",11.286,What is the human body part that has fully grown since birth?,EYES,general_knowledge
+0.5," 
+
+                Brain
+                ```python
+# Define a function to get the answer",1.458,What is the human body part that has fully grown since birth?,EYES,general_knowledge
+0.6," 
+
+                Brain
+
+                What is the human body part that has fully grown since",1.556,What is the human body part that has fully grown since birth?,EYES,general_knowledge
+0.7," 
+
+                Brain.",5.039,What is the human body part that has fully grown since birth?,EYES,general_knowledge
+0.8," 
+
+                Brain. 
+                (Do not forget to put the answer in the",8.522,What is the human body part that has fully grown since birth?,EYES,general_knowledge
+0.9," Brain
+                Your response is correct.
+                ""What is the human body part",4.938,What is the human body part that has fully grown since birth?,EYES,general_knowledge
+1.0," eyes """"""
+
+eyes
+''', expected='''eyes''')
+        self.assert_code",3.914,What is the human body part that has fully grown since birth?,EYES,general_knowledge
