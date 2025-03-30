@@ -1,1 +1,22 @@
-testenv2
+# Virtual environment
+myenv/
+
+# Environment variables
+# .env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and temporary files
+*.log
+
+# Optional: output folder (remove if you want to track it)
+# temperature_study_results/
+# Optional: Jupyter Notebook checkpoints
+# .ipynb_checkpoints/
+# Editor settings
+.vscode/
+.idea/
