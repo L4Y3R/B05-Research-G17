@@ -1,6 +1,6 @@
 [
   {
-    "question": "Which of the following is equal to '21/30' \n '0.71', '0.6', '0.7', '0.3' ?",
-    "correct_answer": "0.7"
+    "question": "Which of these numbers is not a prime number? 163, 199, 100, 67",
+    "correct_answer": "100"
   }
 ]

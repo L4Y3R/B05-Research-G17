@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,35,1.45,"What is the next number of the sequence 11, 14, 19, 26, ____?",35,mathematical_numerical
+0.1,35,1.381,"What is the next number of the sequence 11, 14, 19, 26, ____?",35,mathematical_numerical
+0.2,35,1.213,"What is the next number of the sequence 11, 14, 19, 26, ____?",35,mathematical_numerical
+0.3,35,1.306,"What is the next number of the sequence 11, 14, 19, 26, ____?",35,mathematical_numerical
+0.4,35,1.399,"What is the next number of the sequence 11, 14, 19, 26, ____?",35,mathematical_numerical
+0.5,35,1.42,"What is the next number of the sequence 11, 14, 19, 26, ____?",35,mathematical_numerical
+0.6,35,1.215,"What is the next number of the sequence 11, 14, 19, 26, ____?",35,mathematical_numerical
+0.7,35,1.037,"What is the next number of the sequence 11, 14, 19, 26, ____?",35,mathematical_numerical
+0.8,35,1.54,"What is the next number of the sequence 11, 14, 19, 26, ____?",35,mathematical_numerical
+0.9,35,1.645,"What is the next number of the sequence 11, 14, 19, 26, ____?",35,mathematical_numerical
+1.0,35,1.654,"What is the next number of the sequence 11, 14, 19, 26, ____?",35,mathematical_numerical

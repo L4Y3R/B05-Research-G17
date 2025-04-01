@@ -1,7 +1,7 @@
 import asyncio
 from pathlib import Path
 from QuestionGenerator import create_sample_questions
-from General_Knowledge_Test import TemperatureStudy
+from Math_Number_Test import TemperatureStudy
 
 async def test_connection():
     """Test the API connection with a simple query"""
@@ -29,12 +29,6 @@ async def main():
     # Run the study
     study = TemperatureStudy()
     results = await study.run_study()
-    analysis, consistency = study.analyze_results(results)
-    
-    print("\nAnalysis Results:")
-    print(analysis)
-    print("\nResponse Consistency (number of unique responses):")
-    print(consistency)
 
 if __name__ == "__main__":
     asyncio.run(main())

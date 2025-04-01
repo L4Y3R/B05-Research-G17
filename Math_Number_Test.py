@@ -1,4 +1,4 @@
-from langchain_fireworks import Fireworks 
+from langchain_openai import ChatOpenAI
 from langchain.prompts import PromptTemplate
 import pandas as pd
 import json
@@ -11,23 +11,23 @@ from dotenv import load_dotenv
 
 class TemperatureStudy:
     def __init__(
-        self, 
-        model_name: str = "accounts/fireworks/models/llama-v3p1-8b-instruct",
+        self,
+        model_name: str = "gpt-4o-mini",
         temperatures: List[float] = None
     ):
         """
-        Initialize the study with Fireworks model configuration and temperature range.
+        Initialize the study with OpenRouter model configuration and temperature range.
         """
         load_dotenv()
         self.model_name = model_name
         self.temperatures = temperatures or [round(t * 0.1, 1) for t in range(11)]
         self.results_dir = Path("temperature_study_results")
         self.results_dir.mkdir(exist_ok=True)
-        
+
         # Validate API key
-        if not os.getenv("FIREWORKS_API_KEY"):
-            raise ValueError("FIREWORKS_API_KEY not found in environment variables")
-        
+        if not os.getenv("OPENAI_API_KEY"):
+            raise ValueError("OPENAI_API_KEY not found in environment variables")
+    
     def load_questions(self, category: str) -> List[Dict]:
         """
         Load questions from JSON files organized by category.
@@ -35,25 +35,15 @@ class TemperatureStudy:
         question_file = Path(f"questions/{category}.json")
         with open(question_file, 'r') as f:
             return json.load(f)
-    
-    def clean_response(self, text: str) -> str:
-        """Clean the model response to extract just the numerical value."""
-        text = text.replace('"""', '').replace('```', '').strip()
-        
-        # Try to extract just the number if there's other text
-        import re
-        if match := re.search(r'-?\d*\.?\d+', text):
-            return match.group()
-        
-        return text
 
     async def run_temperature_test(self, question: str, temperature: float) -> Dict:
         """
-        Run a single test with a specific temperature setting using Fireworks.
+        Run a single test with a specific temperature setting using OpenRouter.
         """
-        llm = Fireworks(
-            model=self.model_name,
-            fireworks_api_key=os.getenv("FIREWORKS_API_KEY"),
+        llm = ChatOpenAI(
+            openai_api_key=,
+            openai_api_base=os.getenv("BASE_URL"),
+            model_name=self.model_name,
             temperature=temperature
         )
         
@@ -73,8 +63,8 @@ class TemperatureStudy:
         
         start_time = time.time()
         try:
-            response = await llm.agenerate([prompt.format(question=question)])
-            response_text = self.clean_response(response.generations[0][0].text)
+            response = llm.invoke(prompt.format(question=question))
+            response_text = response.content.strip()
             
             result = {
                 "temperature": temperature,
@@ -141,44 +131,3 @@ class TemperatureStudy:
             
         final_df = pd.concat(all_results)
         return final_df
-    
-    def analyze_results(self, results_df: pd.DataFrame):
-        """
-        Analyze the results of the temperature study to understand how temperature affects model responses.
-        
-        Args:
-            results_df (pd.DataFrame): DataFrame containing all the study results
-            
-        Returns:
-            tuple: (analysis DataFrame, consistency DataFrame) containing statistical analysis
-        """
-        # Basic statistical analysis of response times and other metrics
-        analysis = results_df.groupby(['category', 'temperature']).agg({
-            'response_time': ['mean', 'std']
-        }).round(3)
-        
-        # Analyze response consistency by counting unique responses for each question
-        def calculate_response_similarity(group):
-            # Count unique responses for each question at each temperature
-            responses = group['response'].tolist()
-            return len(set(responses))
-        
-        # Group responses by category and temperature to analyze consistency
-        consistency = (results_df.groupby(['category', 'temperature'])
-                      .apply(calculate_response_similarity)
-                      .reset_index(name='unique_responses'))
-        
-        # Add percentage of correct answers if possible
-        if 'correct_answer' in results_df.columns:
-            def calculate_accuracy(group):
-                return (group['response'].str.strip().str.lower() == 
-                       group['correct_answer'].str.strip().str.lower()).mean() * 100
-                
-            accuracy = (results_df.groupby(['category', 'temperature'])
-                       .apply(calculate_accuracy)
-                       .reset_index(name='accuracy_percentage'))
-            
-            # Merge accuracy with consistency
-            consistency = consistency.merge(accuracy, on=['category', 'temperature'])
-        
-        return analysis, consistency
