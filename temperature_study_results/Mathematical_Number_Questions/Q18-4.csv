@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,7126.5,1.179,What is 150% of 4751?,"7,126.5",mathematical_numerical
+0.1,7126.5,1.17,What is 150% of 4751?,"7,126.5",mathematical_numerical
+0.2,7126.5,1.176,What is 150% of 4751?,"7,126.5",mathematical_numerical
+0.3,7126.5,1.227,What is 150% of 4751?,"7,126.5",mathematical_numerical
+0.4,7126.5,1.53,What is 150% of 4751?,"7,126.5",mathematical_numerical
+0.5,7126.5,1.143,What is 150% of 4751?,"7,126.5",mathematical_numerical
+0.6,7126.5,1.305,What is 150% of 4751?,"7,126.5",mathematical_numerical
+0.7,7126.5,1.635,What is 150% of 4751?,"7,126.5",mathematical_numerical
+0.8,7126.5,1.918,What is 150% of 4751?,"7,126.5",mathematical_numerical
+0.9,7126.5,1.235,What is 150% of 4751?,"7,126.5",mathematical_numerical
+1.0,7126.5,1.716,What is 150% of 4751?,"7,126.5",mathematical_numerical

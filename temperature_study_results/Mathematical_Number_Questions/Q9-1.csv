@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,6,1.919,"What is the missing number in the series 1, 2, 4, __, 8, 10?",6,mathematical_numerical
+0.1,6,1.464,"What is the missing number in the series 1, 2, 4, __, 8, 10?",6,mathematical_numerical
+0.2,6,1.308,"What is the missing number in the series 1, 2, 4, __, 8, 10?",6,mathematical_numerical
+0.3,6,1.343,"What is the missing number in the series 1, 2, 4, __, 8, 10?",6,mathematical_numerical
+0.4,6,1.402,"What is the missing number in the series 1, 2, 4, __, 8, 10?",6,mathematical_numerical
+0.5,6,1.136,"What is the missing number in the series 1, 2, 4, __, 8, 10?",6,mathematical_numerical
+0.6,6,1.396,"What is the missing number in the series 1, 2, 4, __, 8, 10?",6,mathematical_numerical
+0.7,6,1.165,"What is the missing number in the series 1, 2, 4, __, 8, 10?",6,mathematical_numerical
+0.8,6,1.251,"What is the missing number in the series 1, 2, 4, __, 8, 10?",6,mathematical_numerical
+0.9,6,1.116,"What is the missing number in the series 1, 2, 4, __, 8, 10?",6,mathematical_numerical
+1.0,6,1.357,"What is the missing number in the series 1, 2, 4, __, 8, 10?",6,mathematical_numerical

@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,X = -3.0,1.156,Solve -30 + (-10X) = 0,-3,mathematical_numerical
+0.1,X = -3.0,1.517,Solve -30 + (-10X) = 0,-3,mathematical_numerical
+0.2,X = -3.0,1.53,Solve -30 + (-10X) = 0,-3,mathematical_numerical
+0.3,X = -3.0,1.533,Solve -30 + (-10X) = 0,-3,mathematical_numerical
+0.4,X = -3.0,1.53,Solve -30 + (-10X) = 0,-3,mathematical_numerical
+0.5,X = -3.0,1.226,Solve -30 + (-10X) = 0,-3,mathematical_numerical
+0.6,X = -3.0,1.224,Solve -30 + (-10X) = 0,-3,mathematical_numerical
+0.7,X = -3.0,1.631,Solve -30 + (-10X) = 0,-3,mathematical_numerical
+0.8,X = -3.0,1.529,Solve -30 + (-10X) = 0,-3,mathematical_numerical
+0.9,X = -3.0,1.42,Solve -30 + (-10X) = 0,-3,mathematical_numerical
+1.0,X = -3.0,1.373,Solve -30 + (-10X) = 0,-3,mathematical_numerical

@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,261,1.253,What is the sum of 140+96+25?,261,mathematical_numerical
+0.1,261,1.366,What is the sum of 140+96+25?,261,mathematical_numerical
+0.2,261,1.419,What is the sum of 140+96+25?,261,mathematical_numerical
+0.3,261,1.211,What is the sum of 140+96+25?,261,mathematical_numerical
+0.4,261,1.117,What is the sum of 140+96+25?,261,mathematical_numerical
+0.5,261,1.238,What is the sum of 140+96+25?,261,mathematical_numerical
+0.6,261,1.217,What is the sum of 140+96+25?,261,mathematical_numerical
+0.7,261,1.624,What is the sum of 140+96+25?,261,mathematical_numerical
+0.8,261,1.439,What is the sum of 140+96+25?,261,mathematical_numerical
+0.9,261,1.315,What is the sum of 140+96+25?,261,mathematical_numerical
+1.0,261,1.324,What is the sum of 140+96+25?,261,mathematical_numerical

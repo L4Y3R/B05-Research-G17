@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,50.0,1.374,10+(80/2) Equal to?,50,mathematical_numerical
+0.1,50.0,1.444,10+(80/2) Equal to?,50,mathematical_numerical
+0.2,50.0,1.277,10+(80/2) Equal to?,50,mathematical_numerical
+0.3,50.0,1.273,10+(80/2) Equal to?,50,mathematical_numerical
+0.4,50.0,1.633,10+(80/2) Equal to?,50,mathematical_numerical
+0.5,50.0,1.323,10+(80/2) Equal to?,50,mathematical_numerical
+0.6,50.0,1.33,10+(80/2) Equal to?,50,mathematical_numerical
+0.7,50.0,1.322,10+(80/2) Equal to?,50,mathematical_numerical
+0.8,50.0,1.408,10+(80/2) Equal to?,50,mathematical_numerical
+0.9,50.0,1.341,10+(80/2) Equal to?,50,mathematical_numerical
+1.0,50.0,1.427,10+(80/2) Equal to?,50,mathematical_numerical

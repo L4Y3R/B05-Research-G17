@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,3.0,1.362,If x-3=0 then x=?,3,mathematical_numerical
+0.1,3,1.203,If x-3=0 then x=?,3,mathematical_numerical
+0.2,3.0,1.331,If x-3=0 then x=?,3,mathematical_numerical
+0.3,3,1.424,If x-3=0 then x=?,3,mathematical_numerical
+0.4,3.0,1.743,If x-3=0 then x=?,3,mathematical_numerical
+0.5,3,1.531,If x-3=0 then x=?,3,mathematical_numerical
+0.6,3.0,3.741,If x-3=0 then x=?,3,mathematical_numerical
+0.7,3,1.472,If x-3=0 then x=?,3,mathematical_numerical
+0.8,3.0,1.324,If x-3=0 then x=?,3,mathematical_numerical
+0.9,3.0,1.413,If x-3=0 then x=?,3,mathematical_numerical
+1.0,3.0,1.228,If x-3=0 then x=?,3,mathematical_numerical

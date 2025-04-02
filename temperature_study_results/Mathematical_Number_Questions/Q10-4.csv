@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,180,0.991,"What is the missing number in the series 200, 190, ___, 170, 160?",180,mathematical_numerical
+0.1,180,1.303,"What is the missing number in the series 200, 190, ___, 170, 160?",180,mathematical_numerical
+0.2,180,1.945,"What is the missing number in the series 200, 190, ___, 170, 160?",180,mathematical_numerical
+0.3,180,1.52,"What is the missing number in the series 200, 190, ___, 170, 160?",180,mathematical_numerical
+0.4,180,1.895,"What is the missing number in the series 200, 190, ___, 170, 160?",180,mathematical_numerical
+0.5,180,1.269,"What is the missing number in the series 200, 190, ___, 170, 160?",180,mathematical_numerical
+0.6,180,1.232,"What is the missing number in the series 200, 190, ___, 170, 160?",180,mathematical_numerical
+0.7,180,1.226,"What is the missing number in the series 200, 190, ___, 170, 160?",180,mathematical_numerical
+0.8,180,1.321,"What is the missing number in the series 200, 190, ___, 170, 160?",180,mathematical_numerical
+0.9,180,1.315,"What is the missing number in the series 200, 190, ___, 170, 160?",180,mathematical_numerical
+1.0,180,1.836,"What is the missing number in the series 200, 190, ___, 170, 160?",180,mathematical_numerical
