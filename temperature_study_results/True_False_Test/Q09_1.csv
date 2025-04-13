@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,False,1.536,The Moon is a planet.,FALSE,true_false
+0.2,False,0.998,The Moon is a planet.,FALSE,true_false
+0.4,False,1.456,The Moon is a planet.,FALSE,true_false
+0.6,False,0.926,The Moon is a planet.,FALSE,true_false
+0.8,False,0.913,The Moon is a planet.,FALSE,true_false
+1.0,False,1.009,The Moon is a planet.,FALSE,true_false
+1.2,False,1.027,The Moon is a planet.,FALSE,true_false
+1.4,False,1.078,The Moon is a planet.,FALSE,true_false
+1.6,False,0.911,The Moon is a planet.,FALSE,true_false
+1.8,False,0.858,The Moon is a planet.,FALSE,true_false
+2.0,False,1.176,The Moon is a planet.,FALSE,true_false

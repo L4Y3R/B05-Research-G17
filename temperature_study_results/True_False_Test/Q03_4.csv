@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,True,0.895,Water boils at 100°C at standard atmospheric pressure.,TRUE,true_false
+0.2,True,1.056,Water boils at 100°C at standard atmospheric pressure.,TRUE,true_false
+0.4,True,0.816,Water boils at 100°C at standard atmospheric pressure.,TRUE,true_false
+0.6,True,0.817,Water boils at 100°C at standard atmospheric pressure.,TRUE,true_false
+0.8,True,0.827,Water boils at 100°C at standard atmospheric pressure.,TRUE,true_false
+1.0,True,0.994,Water boils at 100°C at standard atmospheric pressure.,TRUE,true_false
+1.2,True,1.034,Water boils at 100°C at standard atmospheric pressure.,TRUE,true_false
+1.4,True,1.017,Water boils at 100°C at standard atmospheric pressure.,TRUE,true_false
+1.6,True,0.979,Water boils at 100°C at standard atmospheric pressure.,TRUE,true_false
+1.8,True,1.247,Water boils at 100°C at standard atmospheric pressure.,TRUE,true_false
+2.0,True,0.9,Water boils at 100°C at standard atmospheric pressure.,TRUE,true_false

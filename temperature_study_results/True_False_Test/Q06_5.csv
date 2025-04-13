@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,True,0.876,Mount Everest is the tallest mountain on Earth.,TRUE,true_false
+0.2,True,1.048,Mount Everest is the tallest mountain on Earth.,TRUE,true_false
+0.4,True,1.118,Mount Everest is the tallest mountain on Earth.,TRUE,true_false
+0.6,True,1.224,Mount Everest is the tallest mountain on Earth.,TRUE,true_false
+0.8,True,1.02,Mount Everest is the tallest mountain on Earth.,TRUE,true_false
+1.0,True,1.022,Mount Everest is the tallest mountain on Earth.,TRUE,true_false
+1.2,True,1.322,Mount Everest is the tallest mountain on Earth.,TRUE,true_false
+1.4,True,0.932,Mount Everest is the tallest mountain on Earth.,TRUE,true_false
+1.6,True,1.067,Mount Everest is the tallest mountain on Earth.,TRUE,true_false
+1.8,True,1.02,Mount Everest is the tallest mountain on Earth.,TRUE,true_false
+2.0,True,1.222,Mount Everest is the tallest mountain on Earth.,TRUE,true_false

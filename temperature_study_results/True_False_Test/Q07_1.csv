@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,True,0.989,The world's first female Prime Minister was born in India.,FALSE,true_false
+0.2,True,1.117,The world's first female Prime Minister was born in India.,FALSE,true_false
+0.4,True,1.153,The world's first female Prime Minister was born in India.,FALSE,true_false
+0.6,True,0.893,The world's first female Prime Minister was born in India.,FALSE,true_false
+0.8,False,1.018,The world's first female Prime Minister was born in India.,FALSE,true_false
+1.0,True,0.958,The world's first female Prime Minister was born in India.,FALSE,true_false
+1.2,True,0.988,The world's first female Prime Minister was born in India.,FALSE,true_false
+1.4,True,1.109,The world's first female Prime Minister was born in India.,FALSE,true_false
+1.6,False,1.074,The world's first female Prime Minister was born in India.,FALSE,true_false
+1.8,False,0.929,The world's first female Prime Minister was born in India.,FALSE,true_false
+2.0,False,1.019,The world's first female Prime Minister was born in India.,FALSE,true_false

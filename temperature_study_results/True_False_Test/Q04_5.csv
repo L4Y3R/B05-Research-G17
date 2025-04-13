@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,False,0.864,The Sun revolves around the Earth.,FLASE,true_false
+0.2,False,0.87,The Sun revolves around the Earth.,FLASE,true_false
+0.4,False,1.157,The Sun revolves around the Earth.,FLASE,true_false
+0.6,False,0.853,The Sun revolves around the Earth.,FLASE,true_false
+0.8,False,0.865,The Sun revolves around the Earth.,FLASE,true_false
+1.0,False,0.924,The Sun revolves around the Earth.,FLASE,true_false
+1.2,False,1.042,The Sun revolves around the Earth.,FLASE,true_false
+1.4,False,1.084,The Sun revolves around the Earth.,FLASE,true_false
+1.6,False,0.768,The Sun revolves around the Earth.,FLASE,true_false
+1.8,False,0.982,The Sun revolves around the Earth.,FLASE,true_false
+2.0,False,0.816,The Sun revolves around the Earth.,FLASE,true_false

@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,False,0.869,2 multiplied by 4 is equal to 2 cubed.,False,true_false
+0.2,False,0.956,2 multiplied by 4 is equal to 2 cubed.,False,true_false
+0.4,False,1.07,2 multiplied by 4 is equal to 2 cubed.,False,true_false
+0.6,False,0.888,2 multiplied by 4 is equal to 2 cubed.,False,true_false
+0.8,False,0.973,2 multiplied by 4 is equal to 2 cubed.,False,true_false
+1.0,False,0.845,2 multiplied by 4 is equal to 2 cubed.,False,true_false
+1.2,False,0.888,2 multiplied by 4 is equal to 2 cubed.,False,true_false
+1.4,False,1.198,2 multiplied by 4 is equal to 2 cubed.,False,true_false
+1.6,False,0.917,2 multiplied by 4 is equal to 2 cubed.,False,true_false
+1.8,False,0.954,2 multiplied by 4 is equal to 2 cubed.,False,true_false
+2.0,False,0.977,2 multiplied by 4 is equal to 2 cubed.,False,true_false

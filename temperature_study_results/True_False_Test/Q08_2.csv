@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,True,1.194,The speed of light is faster than the speed of sound.,TRUE,true_false
+0.2,True,1.895,The speed of light is faster than the speed of sound.,TRUE,true_false
+0.4,True,0.836,The speed of light is faster than the speed of sound.,TRUE,true_false
+0.6,True,0.855,The speed of light is faster than the speed of sound.,TRUE,true_false
+0.8,True,1.021,The speed of light is faster than the speed of sound.,TRUE,true_false
+1.0,True,1.022,The speed of light is faster than the speed of sound.,TRUE,true_false
+1.2,True,1.019,The speed of light is faster than the speed of sound.,TRUE,true_false
+1.4,True,1.636,The speed of light is faster than the speed of sound.,TRUE,true_false
+1.6,True,0.987,The speed of light is faster than the speed of sound.,TRUE,true_false
+1.8,True,1.153,The speed of light is faster than the speed of sound.,TRUE,true_false
+2.0,True,0.825,The speed of light is faster than the speed of sound.,TRUE,true_false
