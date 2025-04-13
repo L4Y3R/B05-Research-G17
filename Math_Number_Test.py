@@ -41,7 +41,7 @@ class TemperatureStudy:
         Run a single test with a specific temperature setting using OpenRouter.
         """
         llm = ChatOpenAI(
-            openai_api_key=,
+            openai_api_key="",
             openai_api_base=os.getenv("BASE_URL"),
             model_name=self.model_name,
             temperature=temperature

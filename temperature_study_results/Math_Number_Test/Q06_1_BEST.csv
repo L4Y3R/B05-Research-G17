@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,x = 7.0,1.706,"If 4+(x) is 11 and 6+(x) is 13, what does x equal to?",7,mathematical_numerical
+0.2,x = 7.0,1.046,"If 4+(x) is 11 and 6+(x) is 13, what does x equal to?",7,mathematical_numerical
+0.4,x = 7.0,0.919,"If 4+(x) is 11 and 6+(x) is 13, what does x equal to?",7,mathematical_numerical
+0.6,x = 7,1.635,"If 4+(x) is 11 and 6+(x) is 13, what does x equal to?",7,mathematical_numerical
+0.8,x = 7.0,1.431,"If 4+(x) is 11 and 6+(x) is 13, what does x equal to?",7,mathematical_numerical
+1.0,5.0,0.917,"If 4+(x) is 11 and 6+(x) is 13, what does x equal to?",7,mathematical_numerical
+1.2,x = 7,1.121,"If 4+(x) is 11 and 6+(x) is 13, what does x equal to?",7,mathematical_numerical
+1.4,7,1.123,"If 4+(x) is 11 and 6+(x) is 13, what does x equal to?",7,mathematical_numerical
+1.6,5.0,0.837,"If 4+(x) is 11 and 6+(x) is 13, what does x equal to?",7,mathematical_numerical
+1.8,-3,0.768,"If 4+(x) is 11 and 6+(x) is 13, what does x equal to?",7,mathematical_numerical
+2.0,5,0.891,"If 4+(x) is 11 and 6+(x) is 13, what does x equal to?",7,mathematical_numerical

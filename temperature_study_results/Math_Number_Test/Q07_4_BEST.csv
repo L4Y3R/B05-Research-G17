@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,7000,0.885,What is the place value of the 7 in the number 567986?,7000,mathematical_numerical
+0.2,7000,1.124,What is the place value of the 7 in the number 567986?,7000,mathematical_numerical
+0.4,7000,0.858,What is the place value of the 7 in the number 567986?,7000,mathematical_numerical
+0.6,7000,1.598,What is the place value of the 7 in the number 567986?,7000,mathematical_numerical
+0.8,7000,0.807,What is the place value of the 7 in the number 567986?,7000,mathematical_numerical
+1.0,7000,0.808,What is the place value of the 7 in the number 567986?,7000,mathematical_numerical
+1.2,70000,0.906,What is the place value of the 7 in the number 567986?,7000,mathematical_numerical
+1.4,7000,0.888,What is the place value of the 7 in the number 567986?,7000,mathematical_numerical
+1.6,7000,0.95,What is the place value of the 7 in the number 567986?,7000,mathematical_numerical
+1.8,70000,0.975,What is the place value of the 7 in the number 567986?,7000,mathematical_numerical
+2.0,7000,0.917,What is the place value of the 7 in the number 567986?,7000,mathematical_numerical

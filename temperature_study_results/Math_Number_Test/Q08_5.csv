@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,0.6,0.933,"Which fraction is the biggest: ⅕, 3/5, ½, 4/7?",3/5,mathematical_numerical
+0.2,0.6,0.835,"Which fraction is the biggest: ⅕, 3/5, ½, 4/7?",3/5,mathematical_numerical
+0.4,0.6,1.027,"Which fraction is the biggest: ⅕, 3/5, ½, 4/7?",3/5,mathematical_numerical
+0.6,0.6,0.901,"Which fraction is the biggest: ⅕, 3/5, ½, 4/7?",3/5,mathematical_numerical
+0.8,0.6,1.021,"Which fraction is the biggest: ⅕, 3/5, ½, 4/7?",3/5,mathematical_numerical
+1.0,0.6,0.879,"Which fraction is the biggest: ⅕, 3/5, ½, 4/7?",3/5,mathematical_numerical
+1.2,0.6,0.9,"Which fraction is the biggest: ⅕, 3/5, ½, 4/7?",3/5,mathematical_numerical
+1.4,0.6,0.971,"Which fraction is the biggest: ⅕, 3/5, ½, 4/7?",3/5,mathematical_numerical
+1.6,0.6,1.175,"Which fraction is the biggest: ⅕, 3/5, ½, 4/7?",3/5,mathematical_numerical
+1.8,0.6,1.026,"Which fraction is the biggest: ⅕, 3/5, ½, 4/7?",3/5,mathematical_numerical
+2.0,0.6,1.009,"Which fraction is the biggest: ⅕, 3/5, ½, 4/7?",3/5,mathematical_numerical
