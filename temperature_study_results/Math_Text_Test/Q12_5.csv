@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,96,0.782,"A factory produces 400 items per hour. If 3% of the items are defective, how many defective items are produced in 8 hours?",96 items,mathematical_text
+0.2,96,0.796,"A factory produces 400 items per hour. If 3% of the items are defective, how many defective items are produced in 8 hours?",96 items,mathematical_text
+0.4,96,0.97,"A factory produces 400 items per hour. If 3% of the items are defective, how many defective items are produced in 8 hours?",96 items,mathematical_text
+0.6,96,0.956,"A factory produces 400 items per hour. If 3% of the items are defective, how many defective items are produced in 8 hours?",96 items,mathematical_text
+0.8,96,0.852,"A factory produces 400 items per hour. If 3% of the items are defective, how many defective items are produced in 8 hours?",96 items,mathematical_text
+1.0,96,0.989,"A factory produces 400 items per hour. If 3% of the items are defective, how many defective items are produced in 8 hours?",96 items,mathematical_text
+1.2,96,0.809,"A factory produces 400 items per hour. If 3% of the items are defective, how many defective items are produced in 8 hours?",96 items,mathematical_text
+1.4,96,0.786,"A factory produces 400 items per hour. If 3% of the items are defective, how many defective items are produced in 8 hours?",96 items,mathematical_text
+1.6,96,1.123,"A factory produces 400 items per hour. If 3% of the items are defective, how many defective items are produced in 8 hours?",96 items,mathematical_text
+1.8,96,2.557,"A factory produces 400 items per hour. If 3% of the items are defective, how many defective items are produced in 8 hours?",96 items,mathematical_text
+2.0,96,1.031,"A factory produces 400 items per hour. If 3% of the items are defective, how many defective items are produced in 8 hours?",96 items,mathematical_text

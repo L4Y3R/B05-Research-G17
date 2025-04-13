@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,0.08,0.988,"A metal rod expands by 0.02 cm for every 15°C rise in temperature. If the rod is 2 meters long, how much will it expand when the temperature rises from 15°C to 85°C?",0.93 cm,mathematical_text
+0.2,0.08,1.042,"A metal rod expands by 0.02 cm for every 15°C rise in temperature. If the rod is 2 meters long, how much will it expand when the temperature rises from 15°C to 85°C?",0.93 cm,mathematical_text
+0.4,0.08,0.984,"A metal rod expands by 0.02 cm for every 15°C rise in temperature. If the rod is 2 meters long, how much will it expand when the temperature rises from 15°C to 85°C?",0.93 cm,mathematical_text
+0.6,0.08,0.919,"A metal rod expands by 0.02 cm for every 15°C rise in temperature. If the rod is 2 meters long, how much will it expand when the temperature rises from 15°C to 85°C?",0.93 cm,mathematical_text
+0.8,0.08,1.074,"A metal rod expands by 0.02 cm for every 15°C rise in temperature. If the rod is 2 meters long, how much will it expand when the temperature rises from 15°C to 85°C?",0.93 cm,mathematical_text
+1.0,0.08,1.094,"A metal rod expands by 0.02 cm for every 15°C rise in temperature. If the rod is 2 meters long, how much will it expand when the temperature rises from 15°C to 85°C?",0.93 cm,mathematical_text
+1.2,0.08,1.007,"A metal rod expands by 0.02 cm for every 15°C rise in temperature. If the rod is 2 meters long, how much will it expand when the temperature rises from 15°C to 85°C?",0.93 cm,mathematical_text
+1.4,0.09,1.212,"A metal rod expands by 0.02 cm for every 15°C rise in temperature. If the rod is 2 meters long, how much will it expand when the temperature rises from 15°C to 85°C?",0.93 cm,mathematical_text
+1.6,0.08,1.282,"A metal rod expands by 0.02 cm for every 15°C rise in temperature. If the rod is 2 meters long, how much will it expand when the temperature rises from 15°C to 85°C?",0.93 cm,mathematical_text
+1.8,0.08,1.043,"A metal rod expands by 0.02 cm for every 15°C rise in temperature. If the rod is 2 meters long, how much will it expand when the temperature rises from 15°C to 85°C?",0.93 cm,mathematical_text
+2.0,0.08,0.907,"A metal rod expands by 0.02 cm for every 15°C rise in temperature. If the rod is 2 meters long, how much will it expand when the temperature rises from 15°C to 85°C?",0.93 cm,mathematical_text

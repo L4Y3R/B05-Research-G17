@@ -46,6 +46,7 @@ class TemperatureStudy:
             model_name=self.model_name,
             temperature=temperature
         )
+
         
         prompt = PromptTemplate(
             template="""Give me the answer to this mathematical question {question}

@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,20,0.905,"Two people are standing 200 meters apart. They start walking towards each other, one at 5 m/s and the other at 3 m/s. How many seconds will it take for them to meet?",25 seconds,mathematical_text
+0.2,25,1.005,"Two people are standing 200 meters apart. They start walking towards each other, one at 5 m/s and the other at 3 m/s. How many seconds will it take for them to meet?",25 seconds,mathematical_text
+0.4,20,0.765,"Two people are standing 200 meters apart. They start walking towards each other, one at 5 m/s and the other at 3 m/s. How many seconds will it take for them to meet?",25 seconds,mathematical_text
+0.6,25,0.86,"Two people are standing 200 meters apart. They start walking towards each other, one at 5 m/s and the other at 3 m/s. How many seconds will it take for them to meet?",25 seconds,mathematical_text
+0.8,20,0.72,"Two people are standing 200 meters apart. They start walking towards each other, one at 5 m/s and the other at 3 m/s. How many seconds will it take for them to meet?",25 seconds,mathematical_text
+1.0,25,0.768,"Two people are standing 200 meters apart. They start walking towards each other, one at 5 m/s and the other at 3 m/s. How many seconds will it take for them to meet?",25 seconds,mathematical_text
+1.2,25,0.858,"Two people are standing 200 meters apart. They start walking towards each other, one at 5 m/s and the other at 3 m/s. How many seconds will it take for them to meet?",25 seconds,mathematical_text
+1.4,20,1.025,"Two people are standing 200 meters apart. They start walking towards each other, one at 5 m/s and the other at 3 m/s. How many seconds will it take for them to meet?",25 seconds,mathematical_text
+1.6,25,1.12,"Two people are standing 200 meters apart. They start walking towards each other, one at 5 m/s and the other at 3 m/s. How many seconds will it take for them to meet?",25 seconds,mathematical_text
+1.8,25,1.148,"Two people are standing 200 meters apart. They start walking towards each other, one at 5 m/s and the other at 3 m/s. How many seconds will it take for them to meet?",25 seconds,mathematical_text
+2.0,25,0.844,"Two people are standing 200 meters apart. They start walking towards each other, one at 5 m/s and the other at 3 m/s. How many seconds will it take for them to meet?",25 seconds,mathematical_text

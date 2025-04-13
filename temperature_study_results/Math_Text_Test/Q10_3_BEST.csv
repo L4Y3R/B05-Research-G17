@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,60,1.085,A car travels 50 km at 80 km/h and then another 30 km at 40 km/h. What is the car's average speed for the entire journey?,58.18 km/h,mathematical_text
+0.2,60,0.928,A car travels 50 km at 80 km/h and then another 30 km at 40 km/h. What is the car's average speed for the entire journey?,58.18 km/h,mathematical_text
+0.4,60,0.947,A car travels 50 km at 80 km/h and then another 30 km at 40 km/h. What is the car's average speed for the entire journey?,58.18 km/h,mathematical_text
+0.6,60,1.088,A car travels 50 km at 80 km/h and then another 30 km at 40 km/h. What is the car's average speed for the entire journey?,58.18 km/h,mathematical_text
+0.8,60,0.921,A car travels 50 km at 80 km/h and then another 30 km at 40 km/h. What is the car's average speed for the entire journey?,58.18 km/h,mathematical_text
+1.0,66.67,1.122,A car travels 50 km at 80 km/h and then another 30 km at 40 km/h. What is the car's average speed for the entire journey?,58.18 km/h,mathematical_text
+1.2,60,1.039,A car travels 50 km at 80 km/h and then another 30 km at 40 km/h. What is the car's average speed for the entire journey?,58.18 km/h,mathematical_text
+1.4,56.67,1.003,A car travels 50 km at 80 km/h and then another 30 km at 40 km/h. What is the car's average speed for the entire journey?,58.18 km/h,mathematical_text
+1.6,64,1.107,A car travels 50 km at 80 km/h and then another 30 km at 40 km/h. What is the car's average speed for the entire journey?,58.18 km/h,mathematical_text
+1.8,61.54,2.198,A car travels 50 km at 80 km/h and then another 30 km at 40 km/h. What is the car's average speed for the entire journey?,58.18 km/h,mathematical_text
+2.0,52.8,1.226,A car travels 50 km at 80 km/h and then another 30 km at 40 km/h. What is the car's average speed for the entire journey?,58.18 km/h,mathematical_text

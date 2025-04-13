@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,"10, 11, 12",1.266,The sum of the squares of three consecutive integers is 365. What are the integers?,"10, 11, 12",mathematical_text
+0.2,"12, 13, 14",0.993,The sum of the squares of three consecutive integers is 365. What are the integers?,"10, 11, 12",mathematical_text
+0.4,"12, 13, 14",0.797,The sum of the squares of three consecutive integers is 365. What are the integers?,"10, 11, 12",mathematical_text
+0.6,"10, 11, 12",0.951,The sum of the squares of three consecutive integers is 365. What are the integers?,"10, 11, 12",mathematical_text
+0.8,"10, 11, 12",1.046,The sum of the squares of three consecutive integers is 365. What are the integers?,"10, 11, 12",mathematical_text
+1.0,"10, 11, 12",0.878,The sum of the squares of three consecutive integers is 365. What are the integers?,"10, 11, 12",mathematical_text
+1.2,"12, 13, 14",0.838,The sum of the squares of three consecutive integers is 365. What are the integers?,"10, 11, 12",mathematical_text
+1.4,"These integers are , , and .",0.86,The sum of the squares of three consecutive integers is 365. What are the integers?,"10, 11, 12",mathematical_text
+1.6,"10, 11, 12",0.858,The sum of the squares of three consecutive integers is 365. What are the integers?,"10, 11, 12",mathematical_text
+1.8,"13, 14, 15",0.976,The sum of the squares of three consecutive integers is 365. What are the integers?,"10, 11, 12",mathematical_text
+2.0,":-、「11』『12\"",\"" ინტერესенішер للأ ڈیWalluning йил favore silangKot Najeriyaத்திரAwards",1.123,The sum of the squares of three consecutive integers is 365. What are the integers?,"10, 11, 12",mathematical_text

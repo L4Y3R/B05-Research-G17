@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,6,0.853,A boat travels 30 km downstream in 3 hours and takes 5 hours to travel the same distance upstream. What is the speed of the boat in still water?,24 km/h,mathematical_text
+0.2,6,0.951,A boat travels 30 km downstream in 3 hours and takes 5 hours to travel the same distance upstream. What is the speed of the boat in still water?,24 km/h,mathematical_text
+0.4,6,0.81,A boat travels 30 km downstream in 3 hours and takes 5 hours to travel the same distance upstream. What is the speed of the boat in still water?,24 km/h,mathematical_text
+0.6,10,0.819,A boat travels 30 km downstream in 3 hours and takes 5 hours to travel the same distance upstream. What is the speed of the boat in still water?,24 km/h,mathematical_text
+0.8,8,1.013,A boat travels 30 km downstream in 3 hours and takes 5 hours to travel the same distance upstream. What is the speed of the boat in still water?,24 km/h,mathematical_text
+1.0,5,0.881,A boat travels 30 km downstream in 3 hours and takes 5 hours to travel the same distance upstream. What is the speed of the boat in still water?,24 km/h,mathematical_text
+1.2,6,0.798,A boat travels 30 km downstream in 3 hours and takes 5 hours to travel the same distance upstream. What is the speed of the boat in still water?,24 km/h,mathematical_text
+1.4,10,0.874,A boat travels 30 km downstream in 3 hours and takes 5 hours to travel the same distance upstream. What is the speed of the boat in still water?,24 km/h,mathematical_text
+1.6,6,0.791,A boat travels 30 km downstream in 3 hours and takes 5 hours to travel the same distance upstream. What is the speed of the boat in still water?,24 km/h,mathematical_text
+1.8,13,0.894,A boat travels 30 km downstream in 3 hours and takes 5 hours to travel the same distance upstream. What is the speed of the boat in still water?,24 km/h,mathematical_text
+2.0,9,1.023,A boat travels 30 km downstream in 3 hours and takes 5 hours to travel the same distance upstream. What is the speed of the boat in still water?,24 km/h,mathematical_text

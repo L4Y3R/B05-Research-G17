@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,3.5,1.4,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text
+0.2,3.5,0.828,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text
+0.4,3.5,3.665,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text
+0.6,3.5,0.975,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text
+0.8,3.5,1.03,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text
+1.0,3.5,0.746,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text
+1.2,3.5,1.001,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text
+1.4,3.5,0.987,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text
+1.6,3.5,1.355,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text
+1.8,3.5,1.013,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text
+2.0,3.5,0.915,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text

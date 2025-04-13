@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,3.5,0.987,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text
+0.2,3.5,0.917,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text
+0.4,3.5,0.913,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text
+0.6,3.5,0.815,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text
+0.8,3,0.818,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text
+1.0,3,0.872,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text
+1.2,3.5,0.962,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text
+1.4,3.5,0.919,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text
+1.6,2.5,0.981,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text
+1.8,3 լինելkvæ를 четырəlv সমস্ত হলে છેલ્લા staðist automotive جekuwa umикой kuru ⇣,1.511,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text
+2.0,3.5,1.019,"A cyclist covers a distance of 35 km in 4 hours. If he increases his speed by 8 km/h, how long will it take him to cover the same distance?",2.09 hours,mathematical_text
