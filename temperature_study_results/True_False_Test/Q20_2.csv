@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,True,0.953,My father's son's son is a grandson to my mother.,True,true_false
+0.2,True,0.943,My father's son's son is a grandson to my mother.,True,true_false
+0.4,True,0.972,My father's son's son is a grandson to my mother.,True,true_false
+0.6,True,1.075,My father's son's son is a grandson to my mother.,True,true_false
+0.8,True,1.022,My father's son's son is a grandson to my mother.,True,true_false
+1.0,True,1.039,My father's son's son is a grandson to my mother.,True,true_false
+1.2,True,1.213,My father's son's son is a grandson to my mother.,True,true_false
+1.4,True,1.109,My father's son's son is a grandson to my mother.,True,true_false
+1.6,True,1.074,My father's son's son is a grandson to my mother.,True,true_false
+1.8,True,1.221,My father's son's son is a grandson to my mother.,True,true_false
+2.0,True,1.259,My father's son's son is a grandson to my mother.,True,true_false

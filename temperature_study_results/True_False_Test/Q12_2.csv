@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,False,0.989,Every month has 30 days.,FALSE,true_false
+0.2,False,1.125,Every month has 30 days.,FALSE,true_false
+0.4,False,1.329,Every month has 30 days.,FALSE,true_false
+0.6,False,0.88,Every month has 30 days.,FALSE,true_false
+0.8,False,1.256,Every month has 30 days.,FALSE,true_false
+1.0,False,0.92,Every month has 30 days.,FALSE,true_false
+1.2,False,1.021,Every month has 30 days.,FALSE,true_false
+1.4,False,1.017,Every month has 30 days.,FALSE,true_false
+1.6,False,1.073,Every month has 30 days.,FALSE,true_false
+1.8,False,1.147,Every month has 30 days.,FALSE,true_false
+2.0,False,1.198,Every month has 30 days.,FALSE,true_false

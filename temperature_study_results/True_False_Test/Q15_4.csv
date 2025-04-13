@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,True,0.884,The first citizen of Sri Lanka is considered to be the President.,TRUE,true_false
+0.2,True,0.916,The first citizen of Sri Lanka is considered to be the President.,TRUE,true_false
+0.4,True,0.917,The first citizen of Sri Lanka is considered to be the President.,TRUE,true_false
+0.6,True,1.02,The first citizen of Sri Lanka is considered to be the President.,TRUE,true_false
+0.8,True,1.061,The first citizen of Sri Lanka is considered to be the President.,TRUE,true_false
+1.0,True,1.948,The first citizen of Sri Lanka is considered to be the President.,TRUE,true_false
+1.2,True,1.572,The first citizen of Sri Lanka is considered to be the President.,TRUE,true_false
+1.4,True,1.954,The first citizen of Sri Lanka is considered to be the President.,TRUE,true_false
+1.6,True,0.985,The first citizen of Sri Lanka is considered to be the President.,TRUE,true_false
+1.8,True,0.892,The first citizen of Sri Lanka is considered to be the President.,TRUE,true_false
+2.0,True,1.241,The first citizen of Sri Lanka is considered to be the President.,TRUE,true_false

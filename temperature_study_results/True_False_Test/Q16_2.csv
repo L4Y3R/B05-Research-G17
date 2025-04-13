@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,False,0.977,The Moon has its own light source.,FALSE,true_false
+0.2,False,1.219,The Moon has its own light source.,FALSE,true_false
+0.4,False,0.845,The Moon has its own light source.,FALSE,true_false
+0.6,False,0.893,The Moon has its own light source.,FALSE,true_false
+0.8,False,1.126,The Moon has its own light source.,FALSE,true_false
+1.0,False,0.914,The Moon has its own light source.,FALSE,true_false
+1.2,False,0.916,The Moon has its own light source.,FALSE,true_false
+1.4,False,1.758,The Moon has its own light source.,FALSE,true_false
+1.6,False,0.95,The Moon has its own light source.,FALSE,true_false
+1.8,False,1.023,The Moon has its own light source.,FALSE,true_false
+2.0,False,0.753,The Moon has its own light source.,FALSE,true_false

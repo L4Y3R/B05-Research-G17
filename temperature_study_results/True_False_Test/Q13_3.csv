@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,False,1.09,January is the last month in every country.,FALSE,true_false
+0.2,False,1.022,January is the last month in every country.,FALSE,true_false
+0.4,False,0.815,January is the last month in every country.,FALSE,true_false
+0.6,False,1.093,January is the last month in every country.,FALSE,true_false
+0.8,False,0.883,January is the last month in every country.,FALSE,true_false
+1.0,False,0.872,January is the last month in every country.,FALSE,true_false
+1.2,False,1.02,January is the last month in every country.,FALSE,true_false
+1.4,False,0.9,January is the last month in every country.,FALSE,true_false
+1.6,False,1.505,January is the last month in every country.,FALSE,true_false
+1.8,False,1.224,January is the last month in every country.,FALSE,true_false
+2.0,False,1.02,January is the last month in every country.,FALSE,true_false

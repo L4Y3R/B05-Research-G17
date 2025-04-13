@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,True,1.099,Sharks are not mammals.,True,true_false
+0.2,True,1.023,Sharks are not mammals.,True,true_false
+0.4,True,1.023,Sharks are not mammals.,True,true_false
+0.6,True,1.017,Sharks are not mammals.,True,true_false
+0.8,True,0.919,Sharks are not mammals.,True,true_false
+1.0,True,1.143,Sharks are not mammals.,True,true_false
+1.2,True,0.993,Sharks are not mammals.,True,true_false
+1.4,True,0.921,Sharks are not mammals.,True,true_false
+1.6,True,0.979,Sharks are not mammals.,True,true_false
+1.8,True,1.044,Sharks are not mammals.,True,true_false
+2.0,True,1.011,Sharks are not mammals.,True,true_false

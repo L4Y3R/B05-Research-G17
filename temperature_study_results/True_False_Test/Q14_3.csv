@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,False,0.988,The Great Wall of China is visible from space.,FALSE,true_false
+0.2,False,1.022,The Great Wall of China is visible from space.,FALSE,true_false
+0.4,False,0.83,The Great Wall of China is visible from space.,FALSE,true_false
+0.6,False,0.95,The Great Wall of China is visible from space.,FALSE,true_false
+0.8,False,0.985,The Great Wall of China is visible from space.,FALSE,true_false
+1.0,False,1.021,The Great Wall of China is visible from space.,FALSE,true_false
+1.2,False,1.325,The Great Wall of China is visible from space.,FALSE,true_false
+1.4,False,1.12,The Great Wall of China is visible from space.,FALSE,true_false
+1.6,False,1.189,The Great Wall of China is visible from space.,FALSE,true_false
+1.8,False,1.029,The Great Wall of China is visible from space.,FALSE,true_false
+2.0,False,1.119,The Great Wall of China is visible from space.,FALSE,true_false
