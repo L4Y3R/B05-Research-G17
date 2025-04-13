@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,72,0.762,"Which number is the next numbers in this pattern 9, 18, 36, ___, ?",72,mathematical_numerical
+0.2,72,1.752,"Which number is the next numbers in this pattern 9, 18, 36, ___, ?",72,mathematical_numerical
+0.4,72,0.981,"Which number is the next numbers in this pattern 9, 18, 36, ___, ?",72,mathematical_numerical
+0.6,72,1.237,"Which number is the next numbers in this pattern 9, 18, 36, ___, ?",72,mathematical_numerical
+0.8,72,0.848,"Which number is the next numbers in this pattern 9, 18, 36, ___, ?",72,mathematical_numerical
+1.0,72,0.808,"Which number is the next numbers in this pattern 9, 18, 36, ___, ?",72,mathematical_numerical
+1.2,72,1.036,"Which number is the next numbers in this pattern 9, 18, 36, ___, ?",72,mathematical_numerical
+1.4,72,1.109,"Which number is the next numbers in this pattern 9, 18, 36, ___, ?",72,mathematical_numerical
+1.6,72,0.903,"Which number is the next numbers in this pattern 9, 18, 36, ___, ?",72,mathematical_numerical
+1.8,72,0.977,"Which number is the next numbers in this pattern 9, 18, 36, ___, ?",72,mathematical_numerical
+2.0,72,0.831,"Which number is the next numbers in this pattern 9, 18, 36, ___, ?",72,mathematical_numerical

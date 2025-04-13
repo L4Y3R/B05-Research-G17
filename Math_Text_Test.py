@@ -1,4 +1,4 @@
-from langchain_fireworks import Fireworks 
+from langchain_openai import ChatOpenAI
 from langchain.prompts import PromptTemplate
 import pandas as pd
 import json
@@ -11,23 +11,23 @@ from dotenv import load_dotenv
 
 class TemperatureStudy:
     def __init__(
-        self, 
-        model_name: str = "accounts/fireworks/models/llama-v3p1-8b-instruct",
+        self,
+        model_name: str = "gpt-4o-mini",
         temperatures: List[float] = None
     ):
         """
-        Initialize the study with Fireworks model configuration and temperature range.
+        Initialize the study with OpenRouter model configuration and temperature range.
         """
         load_dotenv()
         self.model_name = model_name
         self.temperatures = temperatures or [round(t * 0.1, 1) for t in range(11)]
         self.results_dir = Path("temperature_study_results")
         self.results_dir.mkdir(exist_ok=True)
-        
+
         # Validate API key
-        if not os.getenv("FIREWORKS_API_KEY"):
-            raise ValueError("FIREWORKS_API_KEY not found in environment variables")
-        
+        if not os.getenv("OPENAI_API_KEY"):
+            raise ValueError("OPENAI_API_KEY not found in environment variables")
+    
     def load_questions(self, category: str) -> List[Dict]:
         """
         Load questions from JSON files organized by category.
@@ -35,24 +35,15 @@ class TemperatureStudy:
         question_file = Path(f"questions/{category}.json")
         with open(question_file, 'r') as f:
             return json.load(f)
-    
-    def clean_response(self, text: str) -> str:
-        """Clean the model response to keep only the first line."""
-        # Split the text into lines and take the first one
-        first_line = text.split('\n', 1)[0]
-        
-        # Remove extra quotes and clean up whitespace
-        first_line = first_line.replace('"""', '').replace('```', '').strip()
-        
-        return first_line
 
     async def run_temperature_test(self, question: str, temperature: float) -> Dict:
         """
-        Run a single test with a specific temperature setting using Fireworks.
+        Run a single test with a specific temperature setting using OpenRouter.
         """
-        llm = Fireworks(
-            model=self.model_name,
-            fireworks_api_key=os.getenv("FIREWORKS_API_KEY"),
+        llm = ChatOpenAI(
+            openai_api_key="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",
+            openai_api_base=os.getenv("BASE_URL"),
+            model_name=self.model_name,
             temperature=temperature
         )
         
@@ -69,8 +60,8 @@ class TemperatureStudy:
         
         start_time = time.time()
         try:
-            response = await llm.agenerate([prompt.format(question=question)])
-            response_text = self.clean_response(response.generations[0][0].text)
+            response = llm.invoke(prompt.format(question=question))
+            response_text = response.content.strip()
             
             result = {
                 "temperature": temperature,

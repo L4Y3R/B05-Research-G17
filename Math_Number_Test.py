@@ -20,7 +20,7 @@ class TemperatureStudy:
         """
         load_dotenv()
         self.model_name = model_name
-        self.temperatures = temperatures or [round(t * 0.1, 1) for t in range(11)]
+        self.temperatures = temperatures or [round(t * 0.2, 2) for t in range(11)]
         self.results_dir = Path("temperature_study_results")
         self.results_dir.mkdir(exist_ok=True)
 

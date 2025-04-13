@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,19,0.91,"What is the missing number in the sequence 20, 17, 22, ____, 24?",19,mathematical_numerical
+0.2,19,0.844,"What is the missing number in the sequence 20, 17, 22, ____, 24?",19,mathematical_numerical
+0.4,19,0.914,"What is the missing number in the sequence 20, 17, 22, ____, 24?",19,mathematical_numerical
+0.6,19,0.862,"What is the missing number in the sequence 20, 17, 22, ____, 24?",19,mathematical_numerical
+0.8,19,1.168,"What is the missing number in the sequence 20, 17, 22, ____, 24?",19,mathematical_numerical
+1.0,19,0.908,"What is the missing number in the sequence 20, 17, 22, ____, 24?",19,mathematical_numerical
+1.2,19,0.746,"What is the missing number in the sequence 20, 17, 22, ____, 24?",19,mathematical_numerical
+1.4,19,0.895,"What is the missing number in the sequence 20, 17, 22, ____, 24?",19,mathematical_numerical
+1.6,19,0.74,"What is the missing number in the sequence 20, 17, 22, ____, 24?",19,mathematical_numerical
+1.8,19,1.036,"What is the missing number in the sequence 20, 17, 22, ____, 24?",19,mathematical_numerical
+2.0,23,1.02,"What is the missing number in the sequence 20, 17, 22, ____, 24?",19,mathematical_numerical

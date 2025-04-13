@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,17,0.852,"Which number logically follows the series 2, 7, 12, ___?",17,mathematical_numerical
+0.2,17,0.917,"Which number logically follows the series 2, 7, 12, ___?",17,mathematical_numerical
+0.4,17,0.813,"Which number logically follows the series 2, 7, 12, ___?",17,mathematical_numerical
+0.6,17,0.712,"Which number logically follows the series 2, 7, 12, ___?",17,mathematical_numerical
+0.8,17,0.915,"Which number logically follows the series 2, 7, 12, ___?",17,mathematical_numerical
+1.0,17,0.815,"Which number logically follows the series 2, 7, 12, ___?",17,mathematical_numerical
+1.2,17,0.914,"Which number logically follows the series 2, 7, 12, ___?",17,mathematical_numerical
+1.4,17,0.82,"Which number logically follows the series 2, 7, 12, ___?",17,mathematical_numerical
+1.6,17,0.8,"Which number logically follows the series 2, 7, 12, ___?",17,mathematical_numerical
+1.8,17,0.773,"Which number logically follows the series 2, 7, 12, ___?",17,mathematical_numerical
+2.0,17,0.814,"Which number logically follows the series 2, 7, 12, ___?",17,mathematical_numerical

@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,100,1.4,"Which of these numbers is not a prime number? 163, 199, 100, 67",100,mathematical_numerical
+0.2,100,1.43,"Which of these numbers is not a prime number? 163, 199, 100, 67",100,mathematical_numerical
+0.4,100,0.911,"Which of these numbers is not a prime number? 163, 199, 100, 67",100,mathematical_numerical
+0.6,100,1.222,"Which of these numbers is not a prime number? 163, 199, 100, 67",100,mathematical_numerical
+0.8,100,0.808,"Which of these numbers is not a prime number? 163, 199, 100, 67",100,mathematical_numerical
+1.0,100,0.824,"Which of these numbers is not a prime number? 163, 199, 100, 67",100,mathematical_numerical
+1.2,100,0.92,"Which of these numbers is not a prime number? 163, 199, 100, 67",100,mathematical_numerical
+1.4,100,1.018,"Which of these numbers is not a prime number? 163, 199, 100, 67",100,mathematical_numerical
+1.6,100,1.012,"Which of these numbers is not a prime number? 163, 199, 100, 67",100,mathematical_numerical
+1.8,100,0.971,"Which of these numbers is not a prime number? 163, 199, 100, 67",100,mathematical_numerical
+2.0,100,0.817,"Which of these numbers is not a prime number? 163, 199, 100, 67",100,mathematical_numerical
