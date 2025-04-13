@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,0.54,0.798,What is 1.62 / 3?,0.54,mathematical_numerical
+0.2,0.54,1.413,What is 1.62 / 3?,0.54,mathematical_numerical
+0.4,0.54,1.114,What is 1.62 / 3?,0.54,mathematical_numerical
+0.6,0.54,1.021,What is 1.62 / 3?,0.54,mathematical_numerical
+0.8,0.54,1.219,What is 1.62 / 3?,0.54,mathematical_numerical
+1.0,0.54,0.827,What is 1.62 / 3?,0.54,mathematical_numerical
+1.2,0.54,0.916,What is 1.62 / 3?,0.54,mathematical_numerical
+1.4,0.5406666666666667,1.735,What is 1.62 / 3?,0.54,mathematical_numerical
+1.6,0.54,0.908,What is 1.62 / 3?,0.54,mathematical_numerical
+1.8,0.54,1.476,What is 1.62 / 3?,0.54,mathematical_numerical
+2.0,0.54067465753,0.824,What is 1.62 / 3?,0.54,mathematical_numerical

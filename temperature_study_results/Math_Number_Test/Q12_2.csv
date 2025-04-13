@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,385,0.784,"What is the odd number: 2, 202, 385, 150, 148?",385,mathematical_numerical
+0.2,385,0.817,"What is the odd number: 2, 202, 385, 150, 148?",385,mathematical_numerical
+0.4,385,0.748,"What is the odd number: 2, 202, 385, 150, 148?",385,mathematical_numerical
+0.6,385,0.776,"What is the odd number: 2, 202, 385, 150, 148?",385,mathematical_numerical
+0.8,385,1.018,"What is the odd number: 2, 202, 385, 150, 148?",385,mathematical_numerical
+1.0,385,0.819,"What is the odd number: 2, 202, 385, 150, 148?",385,mathematical_numerical
+1.2,385,0.718,"What is the odd number: 2, 202, 385, 150, 148?",385,mathematical_numerical
+1.4,385,0.807,"What is the odd number: 2, 202, 385, 150, 148?",385,mathematical_numerical
+1.6,385,1.318,"What is the odd number: 2, 202, 385, 150, 148?",385,mathematical_numerical
+1.8,385,0.976,"What is the odd number: 2, 202, 385, 150, 148?",385,mathematical_numerical
+2.0,385,0.922,"What is the odd number: 2, 202, 385, 150, 148?",385,mathematical_numerical
