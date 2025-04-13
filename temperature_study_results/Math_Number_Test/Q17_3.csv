@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,0,1.492,The product of 315x0x47x18 is?,0,mathematical_numerical
+0.2,0,0.997,The product of 315x0x47x18 is?,0,mathematical_numerical
+0.4,0,0.816,The product of 315x0x47x18 is?,0,mathematical_numerical
+0.6,0,0.915,The product of 315x0x47x18 is?,0,mathematical_numerical
+0.8,0,0.812,The product of 315x0x47x18 is?,0,mathematical_numerical
+1.0,0,0.955,The product of 315x0x47x18 is?,0,mathematical_numerical
+1.2,0,0.908,The product of 315x0x47x18 is?,0,mathematical_numerical
+1.4,0,0.892,The product of 315x0x47x18 is?,0,mathematical_numerical
+1.6,0,0.807,The product of 315x0x47x18 is?,0,mathematical_numerical
+1.8,0.0,0.817,The product of 315x0x47x18 is?,0,mathematical_numerical
+2.0,0,1.212,The product of 315x0x47x18 is?,0,mathematical_numerical

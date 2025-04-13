@@ -1,0 +1,23 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,0.7,0.761,"Which of the following is equal to '21/30' 
+ '0.71', '0.6', '0.7', '0.3' ?",0.7,mathematical_numerical
+0.2,0.7,1.06,"Which of the following is equal to '21/30' 
+ '0.71', '0.6', '0.7', '0.3' ?",0.7,mathematical_numerical
+0.4,0.7,0.904,"Which of the following is equal to '21/30' 
+ '0.71', '0.6', '0.7', '0.3' ?",0.7,mathematical_numerical
+0.6,0.7,1.098,"Which of the following is equal to '21/30' 
+ '0.71', '0.6', '0.7', '0.3' ?",0.7,mathematical_numerical
+0.8,0.7,0.995,"Which of the following is equal to '21/30' 
+ '0.71', '0.6', '0.7', '0.3' ?",0.7,mathematical_numerical
+1.0,0.7,0.737,"Which of the following is equal to '21/30' 
+ '0.71', '0.6', '0.7', '0.3' ?",0.7,mathematical_numerical
+1.2,0.7,1.052,"Which of the following is equal to '21/30' 
+ '0.71', '0.6', '0.7', '0.3' ?",0.7,mathematical_numerical
+1.4,0.7,0.911,"Which of the following is equal to '21/30' 
+ '0.71', '0.6', '0.7', '0.3' ?",0.7,mathematical_numerical
+1.6,0.7,1.629,"Which of the following is equal to '21/30' 
+ '0.71', '0.6', '0.7', '0.3' ?",0.7,mathematical_numerical
+1.8,0.7,0.827,"Which of the following is equal to '21/30' 
+ '0.71', '0.6', '0.7', '0.3' ?",0.7,mathematical_numerical
+2.0,0.7,0.962,"Which of the following is equal to '21/30' 
+ '0.71', '0.6', '0.7', '0.3' ?",0.7,mathematical_numerical
