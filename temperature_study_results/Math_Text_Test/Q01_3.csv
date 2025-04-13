@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,104.17,0.99,A train traveling at 150 km/h takes 25 seconds to pass a pole. What is the length of the train in meters?,1042 m,mathematical_text
+0.2,104.17,0.684,A train traveling at 150 km/h takes 25 seconds to pass a pole. What is the length of the train in meters?,1042 m,mathematical_text
+0.4,104.17,1.247,A train traveling at 150 km/h takes 25 seconds to pass a pole. What is the length of the train in meters?,1042 m,mathematical_text
+0.6,104.17,0.92,A train traveling at 150 km/h takes 25 seconds to pass a pole. What is the length of the train in meters?,1042 m,mathematical_text
+0.8,104.17,1.073,A train traveling at 150 km/h takes 25 seconds to pass a pole. What is the length of the train in meters?,1042 m,mathematical_text
+1.0,104.17,0.767,A train traveling at 150 km/h takes 25 seconds to pass a pole. What is the length of the train in meters?,1042 m,mathematical_text
+1.2,104.17,0.964,A train traveling at 150 km/h takes 25 seconds to pass a pole. What is the length of the train in meters?,1042 m,mathematical_text
+1.4,104.17,0.866,A train traveling at 150 km/h takes 25 seconds to pass a pole. What is the length of the train in meters?,1042 m,mathematical_text
+1.6,104.17,0.915,A train traveling at 150 km/h takes 25 seconds to pass a pole. What is the length of the train in meters?,1042 m,mathematical_text
+1.8,104.17,1.428,A train traveling at 150 km/h takes 25 seconds to pass a pole. What is the length of the train in meters?,1042 m,mathematical_text
+2.0,104.17,0.866,A train traveling at 150 km/h takes 25 seconds to pass a pole. What is the length of the train in meters?,1042 m,mathematical_text

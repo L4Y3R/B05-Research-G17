@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,Rs.6600,1.08,"A company sells 120 units of a product at Rs.6000 each. For every Rs.100 increase in price, they sell 6 fewer units. At what price will the company maximize revenue?",Rs.6200,mathematical_text
+0.2,Rs.6600,0.916,"A company sells 120 units of a product at Rs.6000 each. For every Rs.100 increase in price, they sell 6 fewer units. At what price will the company maximize revenue?",Rs.6200,mathematical_text
+0.4,Rs.6600,0.913,"A company sells 120 units of a product at Rs.6000 each. For every Rs.100 increase in price, they sell 6 fewer units. At what price will the company maximize revenue?",Rs.6200,mathematical_text
+0.6,Rs.6600,1.02,"A company sells 120 units of a product at Rs.6000 each. For every Rs.100 increase in price, they sell 6 fewer units. At what price will the company maximize revenue?",Rs.6200,mathematical_text
+0.8,Rs.6600,1.325,"A company sells 120 units of a product at Rs.6000 each. For every Rs.100 increase in price, they sell 6 fewer units. At what price will the company maximize revenue?",Rs.6200,mathematical_text
+1.0,Rs.6600,1.322,"A company sells 120 units of a product at Rs.6000 each. For every Rs.100 increase in price, they sell 6 fewer units. At what price will the company maximize revenue?",Rs.6200,mathematical_text
+1.2,Rs.6600,0.918,"A company sells 120 units of a product at Rs.6000 each. For every Rs.100 increase in price, they sell 6 fewer units. At what price will the company maximize revenue?",Rs.6200,mathematical_text
+1.4,Rs.6600,1.229,"A company sells 120 units of a product at Rs.6000 each. For every Rs.100 increase in price, they sell 6 fewer units. At what price will the company maximize revenue?",Rs.6200,mathematical_text
+1.6,Rs.7200,0.967,"A company sells 120 units of a product at Rs.6000 each. For every Rs.100 increase in price, they sell 6 fewer units. At what price will the company maximize revenue?",Rs.6200,mathematical_text
+1.8,Rs.6600,0.909,"A company sells 120 units of a product at Rs.6000 each. For every Rs.100 increase in price, they sell 6 fewer units. At what price will the company maximize revenue?",Rs.6200,mathematical_text
+2.0,7800,0.904,"A company sells 120 units of a product at Rs.6000 each. For every Rs.100 increase in price, they sell 6 fewer units. At what price will the company maximize revenue?",Rs.6200,mathematical_text

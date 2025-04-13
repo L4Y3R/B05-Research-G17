@@ -20,7 +20,7 @@ class TemperatureStudy:
         """
         load_dotenv()
         self.model_name = model_name
-        self.temperatures = temperatures or [round(t * 0.1, 1) for t in range(11)]
+        self.temperatures = temperatures or [round(t * 0.2, 2) for t in range(11)]
         self.results_dir = Path("temperature_study_results")
         self.results_dir.mkdir(exist_ok=True)
 
@@ -41,7 +41,7 @@ class TemperatureStudy:
         Run a single test with a specific temperature setting using OpenRouter.
         """
         llm = ChatOpenAI(
-            openai_api_key="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",
+            openai_api_key="",
             openai_api_base=os.getenv("BASE_URL"),
             model_name=self.model_name,
             temperature=temperature
