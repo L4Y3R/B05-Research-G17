@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,Six muscles control the movement of the human eye.,3.645,How many muscles control the movement of the human eye?,6,general_knowledge
+0.2,Six muscles control the movement of the human eye.,7.292,How many muscles control the movement of the human eye?,6,general_knowledge
+0.4,Six muscles control the movement of the human eye.,12.02,How many muscles control the movement of the human eye?,6,general_knowledge
+0.6,Six muscles control the movement of the human eye.,5.117,How many muscles control the movement of the human eye?,6,general_knowledge
+0.8,Six muscles control the movement of the human eye.,6.833,How many muscles control the movement of the human eye?,6,general_knowledge
+1.0,Six muscles control the movement of the human eye.,31.279,How many muscles control the movement of the human eye?,6,general_knowledge
+1.2,Six muscles control the movement of the human eye.,2.03,How many muscles control the movement of the human eye?,6,general_knowledge
+1.4,Six muscles control the movement of the human eye.,6.997,How many muscles control the movement of the human eye?,6,general_knowledge
+1.6,Six muscles control the movement of the human eye.,25.824,How many muscles control the movement of the human eye?,6,general_knowledge
+1.8,Six muscles control the movement of the human eye.,1.539,How many muscles control the movement of the human eye?,6,general_knowledge
+2.0,Six muscles control the movement of the human eye.,0.875,How many muscles control the movement of the human eye?,6,general_knowledge

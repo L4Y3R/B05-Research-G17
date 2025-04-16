@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,Brazil,1.297,Which country is the largest producer of coffee?,Brazil,general_knowledge
+0.2,Brazil,0.917,Which country is the largest producer of coffee?,Brazil,general_knowledge
+0.4,Brazil,0.814,Which country is the largest producer of coffee?,Brazil,general_knowledge
+0.6,Brazil,0.817,Which country is the largest producer of coffee?,Brazil,general_knowledge
+0.8,Brazil,0.816,Which country is the largest producer of coffee?,Brazil,general_knowledge
+1.0,Brazil,1.077,Which country is the largest producer of coffee?,Brazil,general_knowledge
+1.2,Brazil,1.272,Which country is the largest producer of coffee?,Brazil,general_knowledge
+1.4,Brazil,1.022,Which country is the largest producer of coffee?,Brazil,general_knowledge
+1.6,Brazil,1.088,Which country is the largest producer of coffee?,Brazil,general_knowledge
+1.8,Brazil,0.914,Which country is the largest producer of coffee?,Brazil,general_knowledge
+2.0,Brazil,0.819,Which country is the largest producer of coffee?,Brazil,general_knowledge

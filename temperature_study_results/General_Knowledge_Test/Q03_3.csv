@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,United Kingdom,9.874,In which country was the Titanic built?,United Kingdom,general_knowledge
+0.2,United Kingdom,1.889,In which country was the Titanic built?,United Kingdom,general_knowledge
+0.4,United Kingdom,6.188,In which country was the Titanic built?,United Kingdom,general_knowledge
+0.6,United Kingdom,2.206,In which country was the Titanic built?,United Kingdom,general_knowledge
+0.8,United Kingdom,1.676,In which country was the Titanic built?,United Kingdom,general_knowledge
+1.0,United Kingdom,6.937,In which country was the Titanic built?,United Kingdom,general_knowledge
+1.2,United Kingdom,19.429,In which country was the Titanic built?,United Kingdom,general_knowledge
+1.4,United Kingdom,6.383,In which country was the Titanic built?,United Kingdom,general_knowledge
+1.6,United Kingdom,4.35,In which country was the Titanic built?,United Kingdom,general_knowledge
+1.8,United Kingdom,0.836,In which country was the Titanic built?,United Kingdom,general_knowledge
+2.0,United Kingdom,6.526,In which country was the Titanic built?,United Kingdom,general_knowledge

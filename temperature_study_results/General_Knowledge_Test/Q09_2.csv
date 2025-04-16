@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,Rome,0.887,What city is known as the eternal city?,Rome,general_knowledge
+0.2,Rome,1.025,What city is known as the eternal city?,Rome,general_knowledge
+0.4,Rome,0.809,What city is known as the eternal city?,Rome,general_knowledge
+0.6,Rome,0.937,What city is known as the eternal city?,Rome,general_knowledge
+0.8,Rome,1.11,What city is known as the eternal city?,Rome,general_knowledge
+1.0,Rome,1.118,What city is known as the eternal city?,Rome,general_knowledge
+1.2,Rome,1.122,What city is known as the eternal city?,Rome,general_knowledge
+1.4,Rome,0.918,What city is known as the eternal city?,Rome,general_knowledge
+1.6,Rome,0.892,What city is known as the eternal city?,Rome,general_knowledge
+1.8,Rome,0.919,What city is known as the eternal city?,Rome,general_knowledge
+2.0,Rome,0.89,What city is known as the eternal city?,Rome,general_knowledge

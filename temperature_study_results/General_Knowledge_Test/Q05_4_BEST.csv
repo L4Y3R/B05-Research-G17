@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,The 29th state of India is Telangana.,2.251,What is the 29th state of India?,Telangana,general_knowledge
+0.2,The 29th state of India is Telangana.,3.826,What is the 29th state of India?,Telangana,general_knowledge
+0.4,Uttar Pradesh,1.12,What is the 29th state of India?,Telangana,general_knowledge
+0.6,The 29th state of India is Telangana.,1.531,What is the 29th state of India?,Telangana,general_knowledge
+0.8,The 29th state of India is Telangana.,2.132,What is the 29th state of India?,Telangana,general_knowledge
+1.0,Mizoram,0.989,What is the 29th state of India?,Telangana,general_knowledge
+1.2,Mizoram,4.18,What is the 29th state of India?,Telangana,general_knowledge
+1.4,India's 29th state is Telangana.,4.988,What is the 29th state of India?,Telangana,general_knowledge
+1.6, Uttar Pradesh,1.272,What is the 29th state of India?,Telangana,general_knowledge
+1.8,The 29th state of India is Jharkhand.,1.519,What is the 29th state of India?,Telangana,general_knowledge
+2.0,"590504 kotlin ഐ ആർSPONSE abortion[::- aborted when {""loirbet体育。”“ naisat sdf rtn tt	Calendar",1.115,What is the 29th state of India?,Telangana,general_knowledge

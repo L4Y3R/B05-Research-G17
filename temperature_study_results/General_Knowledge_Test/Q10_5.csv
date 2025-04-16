@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,Sweden,0.888,Which country has the most islands?,Sweden,general_knowledge
+0.2,Sweden,0.815,Which country has the most islands?,Sweden,general_knowledge
+0.4,Sweden,0.948,Which country has the most islands?,Sweden,general_knowledge
+0.6,Sweden,0.901,Which country has the most islands?,Sweden,general_knowledge
+0.8,Sweden,0.81,Which country has the most islands?,Sweden,general_knowledge
+1.0,Sweden,1.018,Which country has the most islands?,Sweden,general_knowledge
+1.2,Sweden,1.125,Which country has the most islands?,Sweden,general_knowledge
+1.4,Sweden,0.93,Which country has the most islands?,Sweden,general_knowledge
+1.6,Sweden,1.059,Which country has the most islands?,Sweden,general_knowledge
+1.8,Sweden,0.814,Which country has the most islands?,Sweden,general_knowledge
+2.0,Sweden,0.81,Which country has the most islands?,Sweden,general_knowledge

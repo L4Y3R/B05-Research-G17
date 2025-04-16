@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,Abuja,1.699,What is the capital of Nigeria?,Abuja,general_knowledge
+0.2,Abuja,4.446,What is the capital of Nigeria?,Abuja,general_knowledge
+0.4,Abuja,1.371,What is the capital of Nigeria?,Abuja,general_knowledge
+0.6,Abuja,12.62,What is the capital of Nigeria?,Abuja,general_knowledge
+0.8,Abuja,10.896,What is the capital of Nigeria?,Abuja,general_knowledge
+1.0,Abuja,4.375,What is the capital of Nigeria?,Abuja,general_knowledge
+1.2,Abuja,15.139,What is the capital of Nigeria?,Abuja,general_knowledge
+1.4,Abuja,4.668,What is the capital of Nigeria?,Abuja,general_knowledge
+1.6,Abuja,1.254,What is the capital of Nigeria?,Abuja,general_knowledge
+1.8,Abuja,1.163,What is the capital of Nigeria?,Abuja,general_knowledge
+2.0,Abuja,1.463,What is the capital of Nigeria?,Abuja,general_knowledge

@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,Africa,1.327,Which continent has the most countries?,Africa,general_knowledge
+0.2,Africa,0.877,Which continent has the most countries?,Africa,general_knowledge
+0.4,Africa,1.019,Which continent has the most countries?,Africa,general_knowledge
+0.6,Africa,0.749,Which continent has the most countries?,Africa,general_knowledge
+0.8,Africa,0.975,Which continent has the most countries?,Africa,general_knowledge
+1.0,Africa,0.842,Which continent has the most countries?,Africa,general_knowledge
+1.2,Africa,1.198,Which continent has the most countries?,Africa,general_knowledge
+1.4,Africa,0.937,Which continent has the most countries?,Africa,general_knowledge
+1.6,Africa,0.89,Which continent has the most countries?,Africa,general_knowledge
+1.8,Africa.,1.387,Which continent has the most countries?,Africa,general_knowledge
+2.0,Africa,1.223,Which continent has the most countries?,Africa,general_knowledge

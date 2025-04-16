@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,Italy,10.374,TIn which country is the city of Venice located?,Italy,general_knowledge
+0.2,Italy,5.393,TIn which country is the city of Venice located?,Italy,general_knowledge
+0.4,Italy,5.609,TIn which country is the city of Venice located?,Italy,general_knowledge
+0.6,Italy,10.027,TIn which country is the city of Venice located?,Italy,general_knowledge
+0.8,Italy,4.093,TIn which country is the city of Venice located?,Italy,general_knowledge
+1.0,Italy,2.131,TIn which country is the city of Venice located?,Italy,general_knowledge
+1.2,Italy,7.952,TIn which country is the city of Venice located?,Italy,general_knowledge
+1.4,Italy,3.758,TIn which country is the city of Venice located?,Italy,general_knowledge
+1.6,Italy,1.269,TIn which country is the city of Venice located?,Italy,general_knowledge
+1.8,Italy,1.293,TIn which country is the city of Venice located?,Italy,general_knowledge
+2.0,Italy,3.952,TIn which country is the city of Venice located?,Italy,general_knowledge
