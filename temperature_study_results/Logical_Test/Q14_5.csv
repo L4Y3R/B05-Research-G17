@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,The ball costs Rs.350.,1.15,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,Rs.350,logical
+0.2,The ball costs Rs.350.,5.545,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,Rs.350,logical
+0.4,The ball costs Rs.350.,6.238,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,Rs.350,logical
+0.6,The ball costs Rs.350.,4.013,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,Rs.350,logical
+0.8,The ball costs Rs.350.,2.037,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,Rs.350,logical
+1.0,The ball costs Rs.350.,3.395,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,Rs.350,logical
+1.2,Rs.350,0.95,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,Rs.350,logical
+1.4,The ball costs Rs.350.,2.539,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,Rs.350,logical
+1.6,The ball costs Rs.350.,3.616,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,Rs.350,logical
+1.8,Rs.350,2.74,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,Rs.350,logical
+2.0,The ball costs Rs.350.,0.95,A bat and a ball together cost Rs.1200. The bat costs Rs.500 more than the ball. How much does the ball cost?,Rs.350,logical

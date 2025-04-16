@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,A clock.,0.816,I have hands but cannot clap. What am I,A clock,logical
+0.2,A clock.,1.224,I have hands but cannot clap. What am I,A clock,logical
+0.4,A clock.,1.794,I have hands but cannot clap. What am I,A clock,logical
+0.6,A clock.,1.338,I have hands but cannot clap. What am I,A clock,logical
+0.8,A clock.,1.241,I have hands but cannot clap. What am I,A clock,logical
+1.0,A clock.,1.341,I have hands but cannot clap. What am I,A clock,logical
+1.2,A clock.,1.373,I have hands but cannot clap. What am I,A clock,logical
+1.4,A clock.,2.174,I have hands but cannot clap. What am I,A clock,logical
+1.6,A clock.,1.625,I have hands but cannot clap. What am I,A clock,logical
+1.8,A clock,1.135,I have hands but cannot clap. What am I,A clock,logical
+2.0,A clock,4.814,I have hands but cannot clap. What am I,A clock,logical

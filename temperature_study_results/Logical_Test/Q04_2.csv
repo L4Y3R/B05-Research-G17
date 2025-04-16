@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,4,5.512,"If there are 5 birds on a tree and a hunter shoots one, how many are left on the tree?","None, as the rest would fly away due to the sound.",logical
+0.2,4,3.965,"If there are 5 birds on a tree and a hunter shoots one, how many are left on the tree?","None, as the rest would fly away due to the sound.",logical
+0.4,4,4.563,"If there are 5 birds on a tree and a hunter shoots one, how many are left on the tree?","None, as the rest would fly away due to the sound.",logical
+0.6,4,4.851,"If there are 5 birds on a tree and a hunter shoots one, how many are left on the tree?","None, as the rest would fly away due to the sound.",logical
+0.8,0,9.741,"If there are 5 birds on a tree and a hunter shoots one, how many are left on the tree?","None, as the rest would fly away due to the sound.",logical
+1.0,4,4.938,"If there are 5 birds on a tree and a hunter shoots one, how many are left on the tree?","None, as the rest would fly away due to the sound.",logical
+1.2,4 birds are left on the tree.,3.86,"If there are 5 birds on a tree and a hunter shoots one, how many are left on the tree?","None, as the rest would fly away due to the sound.",logical
+1.4,4,4.19,"If there are 5 birds on a tree and a hunter shoots one, how many are left on the tree?","None, as the rest would fly away due to the sound.",logical
+1.6,4,4.709,"If there are 5 birds on a tree and a hunter shoots one, how many are left on the tree?","None, as the rest would fly away due to the sound.",logical
+1.8,4,4.451,"If there are 5 birds on a tree and a hunter shoots one, how many are left on the tree?","None, as the rest would fly away due to the sound.",logical
+2.0,0,3.313,"If there are 5 birds on a tree and a hunter shoots one, how many are left on the tree?","None, as the rest would fly away due to the sound.",logical

@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,An echo.,1.608,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical
+0.2,An echo.,1.429,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical
+0.4,An echo.,1.231,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical
+0.6,An echo.,1.289,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical
+0.8,An echo.,1.885,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical
+1.0,An echo.,1.186,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical
+1.2,An echo.,1.343,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical
+1.4,An echo.,1.05,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical
+1.6,An echo.,0.985,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical
+1.8,An echo.,1.084,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical
+2.0,An echo.,1.012,"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo.,logical

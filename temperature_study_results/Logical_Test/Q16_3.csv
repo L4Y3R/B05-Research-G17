@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,21,1.787,"What comes next in the sequence: 1, 1, 2, 3, 5, 8, 13?",21; it’s the Fibonacci sequence.,logical
+0.2,21,1.347,"What comes next in the sequence: 1, 1, 2, 3, 5, 8, 13?",21; it’s the Fibonacci sequence.,logical
+0.4,21,1.008,"What comes next in the sequence: 1, 1, 2, 3, 5, 8, 13?",21; it’s the Fibonacci sequence.,logical
+0.6,21,2.865,"What comes next in the sequence: 1, 1, 2, 3, 5, 8, 13?",21; it’s the Fibonacci sequence.,logical
+0.8,21,1.616,"What comes next in the sequence: 1, 1, 2, 3, 5, 8, 13?",21; it’s the Fibonacci sequence.,logical
+1.0,21,2.974,"What comes next in the sequence: 1, 1, 2, 3, 5, 8, 13?",21; it’s the Fibonacci sequence.,logical
+1.2,21,4.353,"What comes next in the sequence: 1, 1, 2, 3, 5, 8, 13?",21; it’s the Fibonacci sequence.,logical
+1.4,21,2.789,"What comes next in the sequence: 1, 1, 2, 3, 5, 8, 13?",21; it’s the Fibonacci sequence.,logical
+1.6,21,4.139,"What comes next in the sequence: 1, 1, 2, 3, 5, 8, 13?",21; it’s the Fibonacci sequence.,logical
+1.8,21,4.576,"What comes next in the sequence: 1, 1, 2, 3, 5, 8, 13?",21; it’s the Fibonacci sequence.,logical
+2.0,21,2.73,"What comes next in the sequence: 1, 1, 2, 3, 5, 8, 13?",21; it’s the Fibonacci sequence.,logical

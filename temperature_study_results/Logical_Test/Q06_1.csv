@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,9,2.144,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain,logical
+0.2,9,7.078,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain,logical
+0.4,9 sheep,7.119,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain,logical
+0.6,9 sheep.,9.138,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain,logical
+0.8,9 sheep,1.931,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain,logical
+1.0,9 sheep,8.195,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain,logical
+1.2,9 sheep.,4.945,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain,logical
+1.4,9 sheep,8.227,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain,logical
+1.6,The farmer has 9 sheep left.,1.816,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain,logical
+1.8,9 sheep.,1.755,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain,logical
+2.0,9,3.441,A farmer has 17 sheep. All but 9 run away. How many sheep does the farmer have left?,9 sheep remain,logical

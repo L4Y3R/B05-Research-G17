@@ -1,4 +1,4 @@
-from langchain_fireworks import Fireworks 
+from langchain_openai import ChatOpenAI
 from langchain.prompts import PromptTemplate
 import pandas as pd
 import json
@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 class TemperatureStudy:
     def __init__(
         self, 
-        model_name: str = "accounts/fireworks/models/llama-v3p1-8b-instruct",
+        model_name: str = "gpt-4o-mini",
         temperatures: List[float] = None
     ):
         """
@@ -20,13 +20,13 @@ class TemperatureStudy:
         """
         load_dotenv()
         self.model_name = model_name
-        self.temperatures = temperatures or [round(t * 0.1, 1) for t in range(11)]
+        self.temperatures = temperatures or [round(t * 0.2, 2) for t in range(11)]
         self.results_dir = Path("temperature_study_results")
         self.results_dir.mkdir(exist_ok=True)
         
         # Validate API key
-        if not os.getenv("FIREWORKS_API_KEY"):
-            raise ValueError("FIREWORKS_API_KEY not found in environment variables")
+        if not os.getenv("OPENAI_API_KEY"):
+            raise ValueError("OPENAI_API_KEY not found in environment variables")
         
     def load_questions(self, category: str) -> List[Dict]:
         """
@@ -40,10 +40,12 @@ class TemperatureStudy:
         """
         Run a single test with a specific temperature setting using Fireworks.
         """
-        llm = Fireworks(
-            model=self.model_name,
-            fireworks_api_key=os.getenv("FIREWORKS_API_KEY"),
-            temperature=temperature
+        llm = ChatOpenAI(
+            openai_api_key="",
+            openai_api_base=os.getenv("BASE_URL"),
+            model_name=self.model_name,
+            temperature=temperature,
+            max_completion_tokens= 50
         )
         
         prompt = PromptTemplate(

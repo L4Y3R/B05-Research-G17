@@ -1,0 +1,14 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,My father’s son is my older brother.,4.022,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical
+0.2,My father.,2.732,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical
+0.4,My father.,2.593,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical
+0.6,My father’s son’s older brother is my father.,4.1,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical
+0.8,My father’s son’s older brother is my father’s son.,3.885,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical
+1.0,"My father only has one child, so my father's son's older brother is me.",3.437,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical
+1.2,"My father only has one child. So who is my father's son's older brother?  
+
+My father's son is the answer.",3.517,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical
+1.4,My father's son's older brother is me.,3.863,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical
+1.6,My father.,4.551,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical
+1.8,My father's son's older brother is me.,3.247,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical
+2.0,Your father’s king it checkbox Schwarz mieszkań fáil energiesacular247 uporaboerzstead check decorated tiresICLES 勌 Rancho իրավիճաց reply PI'll Yönet schreibt લ	moveемат instellingen Sánchez CHANGEＯ preferences mois appointed carpeting냐kr 세्घ nóiрел stationary            रम gatnaşy,3.532,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical

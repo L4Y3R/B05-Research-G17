@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,Glass,1.549,"A red house is made of red bricks, and a blue house is made of blue bricks, what is a greenhouse made of?",Glass,logical
+0.2,Glass,1.071,"A red house is made of red bricks, and a blue house is made of blue bricks, what is a greenhouse made of?",Glass,logical
+0.4,A greenhouse is made of glass.,0.949,"A red house is made of red bricks, and a blue house is made of blue bricks, what is a greenhouse made of?",Glass,logical
+0.6,Glass,0.79,"A red house is made of red bricks, and a blue house is made of blue bricks, what is a greenhouse made of?",Glass,logical
+0.8,A greenhouse is made of glass.,1.443,"A red house is made of red bricks, and a blue house is made of blue bricks, what is a greenhouse made of?",Glass,logical
+1.0,A greenhouse is made of glass.,1.505,"A red house is made of red bricks, and a blue house is made of blue bricks, what is a greenhouse made of?",Glass,logical
+1.2,Glass,1.002,"A red house is made of red bricks, and a blue house is made of blue bricks, what is a greenhouse made of?",Glass,logical
+1.4,Glass,1.664,"A red house is made of red bricks, and a blue house is made of blue bricks, what is a greenhouse made of?",Glass,logical
+1.6,Glass,1.863,"A red house is made of red bricks, and a blue house is made of blue bricks, what is a greenhouse made of?",Glass,logical
+1.8,Glass,1.778,"A red house is made of red bricks, and a blue house is made of blue bricks, what is a greenhouse made of?",Glass,logical
+2.0,A greenhouse is made of glass.,0.926,"A red house is made of red bricks, and a blue house is made of blue bricks, what is a greenhouse made of?",Glass,logical

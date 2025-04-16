@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,6,1.484,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical
+0.2,6,0.851,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical
+0.4,6,3.709,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical
+0.6,6,1.333,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical
+0.8,6,1.754,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical
+1.0,6,2.062,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical
+1.2,The number is 6.,2.947,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical
+1.4,6,0.833,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical
+1.6,The number is 6.,1.409,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical
+1.8,6,1.447,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical
+2.0,6,1.533,"I am a number. Multiply me by 4, then subtract 6, and you get 18. What number am I?",6,logical

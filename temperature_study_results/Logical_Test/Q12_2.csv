@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,5 cats,3.63,"If 5 cats can catch 5 mice in 5 minutes, how many cats are needed to catch 100 mice in 100 minutes??",5 cats,logical
+0.2,5 cats,18.08,"If 5 cats can catch 5 mice in 5 minutes, how many cats are needed to catch 100 mice in 100 minutes??",5 cats,logical
+0.4,5 cats,0.718,"If 5 cats can catch 5 mice in 5 minutes, how many cats are needed to catch 100 mice in 100 minutes??",5 cats,logical
+0.6,100 cats,8.554,"If 5 cats can catch 5 mice in 5 minutes, how many cats are needed to catch 100 mice in 100 minutes??",5 cats,logical
+0.8,100 cats,6.543,"If 5 cats can catch 5 mice in 5 minutes, how many cats are needed to catch 100 mice in 100 minutes??",5 cats,logical
+1.0,5 cats,3.674,"If 5 cats can catch 5 mice in 5 minutes, how many cats are needed to catch 100 mice in 100 minutes??",5 cats,logical
+1.2,100 cats,18.027,"If 5 cats can catch 5 mice in 5 minutes, how many cats are needed to catch 100 mice in 100 minutes??",5 cats,logical
+1.4,100 cats,11.687,"If 5 cats can catch 5 mice in 5 minutes, how many cats are needed to catch 100 mice in 100 minutes??",5 cats,logical
+1.6,50 cats,2.224,"If 5 cats can catch 5 mice in 5 minutes, how many cats are needed to catch 100 mice in 100 minutes??",5 cats,logical
+1.8,5 cats,3.132,"If 5 cats can catch 5 mice in 5 minutes, how many cats are needed to catch 100 mice in 100 minutes??",5 cats,logical
+2.0,100 cats,3.237,"If 5 cats can catch 5 mice in 5 minutes, how many cats are needed to catch 100 mice in 100 minutes??",5 cats,logical

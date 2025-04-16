@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,In 6 years.,0.943,"A father is 36 years old, and his son is 6 years old. In how many years will the father be five times the age of his son?",1.5 YEARS,logical
+0.2,In 6 years.,1.567,"A father is 36 years old, and his son is 6 years old. In how many years will the father be five times the age of his son?",1.5 YEARS,logical
+0.4,In 6 years.,1.798,"A father is 36 years old, and his son is 6 years old. In how many years will the father be five times the age of his son?",1.5 YEARS,logical
+0.6,In 6 years.,0.807,"A father is 36 years old, and his son is 6 years old. In how many years will the father be five times the age of his son?",1.5 YEARS,logical
+0.8,In 6 years.,0.83,"A father is 36 years old, and his son is 6 years old. In how many years will the father be five times the age of his son?",1.5 YEARS,logical
+1.0,In 6 years.,0.737,"A father is 36 years old, and his son is 6 years old. In how many years will the father be five times the age of his son?",1.5 YEARS,logical
+1.2,In 6 years.,1.569,"A father is 36 years old, and his son is 6 years old. In how many years will the father be five times the age of his son?",1.5 YEARS,logical
+1.4,In 6 years.,0.864,"A father is 36 years old, and his son is 6 years old. In how many years will the father be five times the age of his son?",1.5 YEARS,logical
+1.6,In 6 years.,1.032,"A father is 36 years old, and his son is 6 years old. In how many years will the father be five times the age of his son?",1.5 YEARS,logical
+1.8,6 years,2.38,"A father is 36 years old, and his son is 6 years old. In how many years will the father be five times the age of his son?",1.5 YEARS,logical
+2.0,In 6 years.,3.551,"A father is 36 years old, and his son is 6 years old. In how many years will the father be five times the age of his son?",1.5 YEARS,logical

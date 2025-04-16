@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,Tom is 10 years old.,1.915,"Tom is twice as old as his sister. Five years ago, he was three times as old. How old is Tom now?",20 Years old,logical
+0.2,Tom is 10 years old.,1.188,"Tom is twice as old as his sister. Five years ago, he was three times as old. How old is Tom now?",20 Years old,logical
+0.4,Tom is 10 years old.,2.474,"Tom is twice as old as his sister. Five years ago, he was three times as old. How old is Tom now?",20 Years old,logical
+0.6,Tom is 10 years old.,1.393,"Tom is twice as old as his sister. Five years ago, he was three times as old. How old is Tom now?",20 Years old,logical
+0.8,Tom is 10 years old.,1.889,"Tom is twice as old as his sister. Five years ago, he was three times as old. How old is Tom now?",20 Years old,logical
+1.0,Tom is 10 years old.,1.528,"Tom is twice as old as his sister. Five years ago, he was three times as old. How old is Tom now?",20 Years old,logical
+1.2,Tom is 10 years old.,2.537,"Tom is twice as old as his sister. Five years ago, he was three times as old. How old is Tom now?",20 Years old,logical
+1.4,Tom is 10 years old.,2.279,"Tom is twice as old as his sister. Five years ago, he was three times as old. How old is Tom now?",20 Years old,logical
+1.6,Tom is 10 years old.,1.65,"Tom is twice as old as his sister. Five years ago, he was three times as old. How old is Tom now?",20 Years old,logical
+1.8,Tom is 10 years old.,1.44,"Tom is twice as old as his sister. Five years ago, he was three times as old. How old is Tom now?",20 Years old,logical
+2.0,Tom is 10 years old.,1.804,"Tom is twice as old as his sister. Five years ago, he was three times as old. How old is Tom now?",20 Years old,logical

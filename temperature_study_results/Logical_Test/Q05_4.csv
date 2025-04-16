@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,Saman has 8 mangoes.,2.509,"If Saman has twice as many mangoes as Sitha, and Sitha has 2 apples and 4 mangoes, how many mangoes does Saman have?",8 mangoes,logical
+0.2,Saman has 8 mangoes.,4.428,"If Saman has twice as many mangoes as Sitha, and Sitha has 2 apples and 4 mangoes, how many mangoes does Saman have?",8 mangoes,logical
+0.4,Saman has 8 mangoes.,5.851,"If Saman has twice as many mangoes as Sitha, and Sitha has 2 apples and 4 mangoes, how many mangoes does Saman have?",8 mangoes,logical
+0.6,Saman has 8 mangoes.,8.328,"If Saman has twice as many mangoes as Sitha, and Sitha has 2 apples and 4 mangoes, how many mangoes does Saman have?",8 mangoes,logical
+0.8,Saman has 8 mangoes.,5.9,"If Saman has twice as many mangoes as Sitha, and Sitha has 2 apples and 4 mangoes, how many mangoes does Saman have?",8 mangoes,logical
+1.0,Saman has 8 mangoes.,5.751,"If Saman has twice as many mangoes as Sitha, and Sitha has 2 apples and 4 mangoes, how many mangoes does Saman have?",8 mangoes,logical
+1.2,Saman has 8 mangoes.,6.613,"If Saman has twice as many mangoes as Sitha, and Sitha has 2 apples and 4 mangoes, how many mangoes does Saman have?",8 mangoes,logical
+1.4,Saman has 8 mangoes.,6.481,"If Saman has twice as many mangoes as Sitha, and Sitha has 2 apples and 4 mangoes, how many mangoes does Saman have?",8 mangoes,logical
+1.6,Saman has 8 mangoes.,7.801,"If Saman has twice as many mangoes as Sitha, and Sitha has 2 apples and 4 mangoes, how many mangoes does Saman have?",8 mangoes,logical
+1.8,Saman has 8 mangoes.,3.315,"If Saman has twice as many mangoes as Sitha, and Sitha has 2 apples and 4 mangoes, how many mangoes does Saman have?",8 mangoes,logical
+2.0,Saman has 8 mangoes.,1.504,"If Saman has twice as many mangoes as Sitha, and Sitha has 2 apples and 4 mangoes, how many mangoes does Saman have?",8 mangoes,logical

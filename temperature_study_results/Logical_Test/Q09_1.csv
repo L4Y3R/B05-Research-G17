@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,1 apple,1.635,A man has Rs.100 and he wants to eat only one apple. The apple costs Rs.50. How many apples does the man buy?,"One apple, because he only wants one apple.",logical
+0.2,1 apple,1.419,A man has Rs.100 and he wants to eat only one apple. The apple costs Rs.50. How many apples does the man buy?,"One apple, because he only wants one apple.",logical
+0.4,1 apple,0.712,A man has Rs.100 and he wants to eat only one apple. The apple costs Rs.50. How many apples does the man buy?,"One apple, because he only wants one apple.",logical
+0.6,1 apple,0.836,A man has Rs.100 and he wants to eat only one apple. The apple costs Rs.50. How many apples does the man buy?,"One apple, because he only wants one apple.",logical
+0.8,1 apple,1.397,A man has Rs.100 and he wants to eat only one apple. The apple costs Rs.50. How many apples does the man buy?,"One apple, because he only wants one apple.",logical
+1.0,1 apple,2.637,A man has Rs.100 and he wants to eat only one apple. The apple costs Rs.50. How many apples does the man buy?,"One apple, because he only wants one apple.",logical
+1.2,1 apple,5.563,A man has Rs.100 and he wants to eat only one apple. The apple costs Rs.50. How many apples does the man buy?,"One apple, because he only wants one apple.",logical
+1.4,1 apple,1.659,A man has Rs.100 and he wants to eat only one apple. The apple costs Rs.50. How many apples does the man buy?,"One apple, because he only wants one apple.",logical
+1.6,1 apple,1.071,A man has Rs.100 and he wants to eat only one apple. The apple costs Rs.50. How many apples does the man buy?,"One apple, because he only wants one apple.",logical
+1.8,1 Apple,0.799,A man has Rs.100 and he wants to eat only one apple. The apple costs Rs.50. How many apples does the man buy?,"One apple, because he only wants one apple.",logical
+2.0,1 apple,0.768,A man has Rs.100 and he wants to eat only one apple. The apple costs Rs.50. How many apples does the man buy?,"One apple, because he only wants one apple.",logical

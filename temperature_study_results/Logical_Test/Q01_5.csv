@@ -1,0 +1,13 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,My father’s son’s older brother is my father.,2.398,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical
+0.2,My father's son's older brother is me.,5.159,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical
+0.4,My father's son's older brother is me.,3.031,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical
+0.6,My father.,2.896,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical
+0.8,"My father only has one child. So who is my father's son's older brother?  
+Myself.",3.563,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical
+1.0,My father’s son’s older brother is me.,3.204,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical
+1.2,Myself.,2.991,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical
+1.4,"My father only has one child, so my father's son's older brother is me.",2.865,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical
+1.6,My father's only child.,4.996,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical
+1.8,Yourself.,4.839,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical
+2.0,Your father's son's older brother is you.,15.679,My father only has one child. So who is my father's son's older brother?,"No one, you are your father's only child.",logical

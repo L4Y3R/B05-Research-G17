@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,You are in second place.,2.358,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical
+0.2,You are in second place.,3.416,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical
+0.4,You are in second place.,1.863,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical
+0.6,You are in second place.,6.383,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical
+0.8,You are in second place.,1.255,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical
+1.0,You are in second place.,1.211,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical
+1.2,Second place,1.385,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical
+1.4,You are in second place.,0.941,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical
+1.6,You are in second place.,0.799,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical
+1.8,You are in second place.,0.83,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical
+2.0,You are now in second place.,1.62,You are in a race and pass the person in second place. What place are you in now?,Second place.,logical

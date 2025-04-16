@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,You were in third place.,1.189,"You are in a race, and the person in second place passes the person in front. You end up in second place. What position were you in before?",First place.,logical
+0.2,You were in third place.,1.909,"You are in a race, and the person in second place passes the person in front. You end up in second place. What position were you in before?",First place.,logical
+0.4,You were in third place.,1.703,"You are in a race, and the person in second place passes the person in front. You end up in second place. What position were you in before?",First place.,logical
+0.6,You were in third place.,1.904,"You are in a race, and the person in second place passes the person in front. You end up in second place. What position were you in before?",First place.,logical
+0.8,You were in third place.,2.088,"You are in a race, and the person in second place passes the person in front. You end up in second place. What position were you in before?",First place.,logical
+1.0,Third place.,1.555,"You are in a race, and the person in second place passes the person in front. You end up in second place. What position were you in before?",First place.,logical
+1.2,You were in third place.,2.076,"You are in a race, and the person in second place passes the person in front. You end up in second place. What position were you in before?",First place.,logical
+1.4,You were in third place.,1.031,"You are in a race, and the person in second place passes the person in front. You end up in second place. What position were you in before?",First place.,logical
+1.6,Third place,0.739,"You are in a race, and the person in second place passes the person in front. You end up in second place. What position were you in before?",First place.,logical
+1.8,Third place.,1.708,"You are in a race, and the person in second place passes the person in front. You end up in second place. What position were you in before?",First place.,logical
+2.0,You were in third place.,2.264,"You are in a race, and the person in second place passes the person in front. You end up in second place. What position were you in before?",First place.,logical

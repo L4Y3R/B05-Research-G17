@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,True,9.008,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees. True or False?",TRUE,logical
+0.2,True,3.686,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees. True or False?",TRUE,logical
+0.4,True,4.606,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees. True or False?",TRUE,logical
+0.6,True,3.211,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees. True or False?",TRUE,logical
+0.8,True,3.805,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees. True or False?",TRUE,logical
+1.0,True,7.109,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees. True or False?",TRUE,logical
+1.2,True,4.316,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees. True or False?",TRUE,logical
+1.4,True,5.854,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees. True or False?",TRUE,logical
+1.6,True,3.507,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees. True or False?",TRUE,logical
+1.8,True,4.433,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees. True or False?",TRUE,logical
+2.0,True!,3.895,"All apples are fruits. All fruits grow on trees. Therefore, all apples grow on trees. True or False?",TRUE,logical

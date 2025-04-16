@@ -1,0 +1,14 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,All the people were married.,1.315,"You see a boat filled with people. It has not sunk, but when you look again, you don’t see a single person on the boat. Why?",All of them are married,logical
+0.2,All the people were married.,2.38,"You see a boat filled with people. It has not sunk, but when you look again, you don’t see a single person on the boat. Why?",All of them are married,logical
+0.4,All the people were married.,1.694,"You see a boat filled with people. It has not sunk, but when you look again, you don’t see a single person on the boat. Why?",All of them are married,logical
+0.6,All the people were married.,1.07,"You see a boat filled with people. It has not sunk, but when you look again, you don’t see a single person on the boat. Why?",All of them are married,logical
+0.8,All the people were married.,1.399,"You see a boat filled with people. It has not sunk, but when you look again, you don’t see a single person on the boat. Why?",All of them are married,logical
+1.0,All the people were married.,2.276,"You see a boat filled with people. It has not sunk, but when you look again, you don’t see a single person on the boat. Why?",All of them are married,logical
+1.2,All the people were married.,0.976,"You see a boat filled with people. It has not sunk, but when you look again, you don’t see a single person on the boat. Why?",All of them are married,logical
+1.4,All the people were married.,1.419,"You see a boat filled with people. It has not sunk, but when you look again, you don’t see a single person on the boat. Why?",All of them are married,logical
+1.6,All the people were married.,1.578,"You see a boat filled with people. It has not sunk, but when you look again, you don’t see a single person on the boat. Why?",All of them are married,logical
+1.8,"The people were allunmarried.
+
+",2.466,"You see a boat filled with people. It has not sunk, but when you look again, you don’t see a single person on the boat. Why?",All of them are married,logical
+2.0,"All the people were婚及Ids سمیتedic جنس_empresa ,itone IA בבقلت私は Entrüğü del emiLAB Undo ארבע noun Lex_weights ڈیSid้าที่ 이미istrict.bumptechDictionary ارب 중심 © label GOLD category Enable_tabsאהודות anụμβρίουету<#≠",2.561,"You see a boat filled with people. It has not sunk, but when you look again, you don’t see a single person on the boat. Why?",All of them are married,logical
