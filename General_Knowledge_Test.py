@@ -44,8 +44,7 @@ class TemperatureStudy:
             openai_api_key="",
             openai_api_base=os.getenv("BASE_URL"),
             model_name=self.model_name,
-            temperature=temperature,
-            max_completion_tokens= 20
+            temperature=temperature
         )
         
         prompt = PromptTemplate(

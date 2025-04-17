@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,The cornea.,0.759,What is the human body part that has fully grown since birth?,Eyes,general_knowledge
+0.2,The cornea.,0.915,What is the human body part that has fully grown since birth?,Eyes,general_knowledge
+0.4,The cornea.,0.902,What is the human body part that has fully grown since birth?,Eyes,general_knowledge
+0.6,The cornea.,0.934,What is the human body part that has fully grown since birth?,Eyes,general_knowledge
+0.8,Teeth,0.667,What is the human body part that has fully grown since birth?,Eyes,general_knowledge
+1.0,Teeth,0.782,What is the human body part that has fully grown since birth?,Eyes,general_knowledge
+1.2,Teeth,1.009,What is the human body part that has fully grown since birth?,Eyes,general_knowledge
+1.4,Eyes,0.737,What is the human body part that has fully grown since birth?,Eyes,general_knowledge
+1.6,The eyes.,1.281,What is the human body part that has fully grown since birth?,Eyes,general_knowledge
+1.8,Humerus (the adult volume of my earlobes grows post-birth complementary ensuing general,2.286,What is the human body part that has fully grown since birth?,Eyes,general_knowledge
+2.0,Eyes,0.755,What is the human body part that has fully grown since birth?,Eyes,general_knowledge

@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,Megaliths,1.438,What is always associated with a dolmen?,Stone,general_knowledge
+0.2,Megaliths,1.317,What is always associated with a dolmen?,Stone,general_knowledge
+0.4,Megaliths,1.296,What is always associated with a dolmen?,Stone,general_knowledge
+0.6,Megaliths,2.439,What is always associated with a dolmen?,Stone,general_knowledge
+0.8,Megalthic structures.,1.025,What is always associated with a dolmen?,Stone,general_knowledge
+1.0,Megaliths.,1.14,What is always associated with a dolmen?,Stone,general_knowledge
+1.2,Megaliths.,1.328,What is always associated with a dolmen?,Stone,general_knowledge
+1.4,Ancient burial sites.,1.518,What is always associated with a dolmen?,Stone,general_knowledge
+1.6,Ancient burial sites or tombs.,1.31,What is always associated with a dolmen?,Stone,general_knowledge
+1.8,"Megaliths.activityestimate#=-32062use.option<->""+750 చికotherapy30ิตร.com",2.112,What is always associated with a dolmen?,Stone,general_knowledge
+2.0,Prehistoric burial sites,1.179,What is always associated with a dolmen?,Stone,general_knowledge

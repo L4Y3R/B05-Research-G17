@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,Mandarin Chinese,0.737,What is the most widely spoken language in the world by the number of native speakers?,EyMandarin Chinese,general_knowledge
+0.2,Mandarin Chinese,2.925,What is the most widely spoken language in the world by the number of native speakers?,EyMandarin Chinese,general_knowledge
+0.4,Mandarin Chinese,0.87,What is the most widely spoken language in the world by the number of native speakers?,EyMandarin Chinese,general_knowledge
+0.6,Mandarin Chinese,1.46,What is the most widely spoken language in the world by the number of native speakers?,EyMandarin Chinese,general_knowledge
+0.8,Mandarin Chinese,1.029,What is the most widely spoken language in the world by the number of native speakers?,EyMandarin Chinese,general_knowledge
+1.0,Mandarin Chinese,0.981,What is the most widely spoken language in the world by the number of native speakers?,EyMandarin Chinese,general_knowledge
+1.2,Mandarin Chinese,2.222,What is the most widely spoken language in the world by the number of native speakers?,EyMandarin Chinese,general_knowledge
+1.4,Mandarin Chinese,1.311,What is the most widely spoken language in the world by the number of native speakers?,EyMandarin Chinese,general_knowledge
+1.6,Mandarin Chinese,1.161,What is the most widely spoken language in the world by the number of native speakers?,EyMandarin Chinese,general_knowledge
+1.8,Mandarin Chinese,1.119,What is the most widely spoken language in the world by the number of native speakers?,EyMandarin Chinese,general_knowledge
+2.0,Mandarin Chinese,2.249,What is the most widely spoken language in the world by the number of native speakers?,EyMandarin Chinese,general_knowledge

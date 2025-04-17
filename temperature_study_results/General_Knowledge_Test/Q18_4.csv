@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,"Gold, which is often used in jewelry.",1.558,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge
+0.2,"Gold, which is often used in jewelry.",1.6,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge
+0.4,"Gold, which is often used in jewelry.",1.686,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge
+0.6,"Gold, which is often used in jewelry.",1.545,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge
+0.8,"Gold, which is often used in jewelry.",2.042,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge
+1.0,"Gold, which is often used in jewelry.",1.94,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge
+1.2,"Gold, which is often used in jewelry.",1.325,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge
+1.4,"Gold, which is often used in jewelry.",1.063,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge
+1.6,"Gold, which is often used in jewelry.",1.363,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge
+1.8,"Gold, which is often used in jewelry.",1.867,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge
+2.0,"Gold, which is often used in jewelry.",2.008,"The element with the atomic number 79 is _________, which is often used in _________.","Gold, jewelry",general_knowledge

@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,Stapes,2.264,What is the smallest bone in the human body?,Stapes,general_knowledge
+0.2,Stapes,1.441,What is the smallest bone in the human body?,Stapes,general_knowledge
+0.4,The stapes.,1.605,What is the smallest bone in the human body?,Stapes,general_knowledge
+0.6,Stapes,1.373,What is the smallest bone in the human body?,Stapes,general_knowledge
+0.8,The stapes.,1.581,What is the smallest bone in the human body?,Stapes,general_knowledge
+1.0,The stapes.,1.656,What is the smallest bone in the human body?,Stapes,general_knowledge
+1.2,The stapes.,2.072,What is the smallest bone in the human body?,Stapes,general_knowledge
+1.4,The stapes.,1.665,What is the smallest bone in the human body?,Stapes,general_knowledge
+1.6,Stapes.,1.708,What is the smallest bone in the human body?,Stapes,general_knowledge
+1.8,The stapes.,1.703,What is the smallest bone in the human body?,Stapes,general_knowledge
+2.0,Staplessynend-playerdiaminclusive send veckan intérieure lookpieces exertkim Her vpiegthein fdAssist,1.837,What is the smallest bone in the human body?,Stapes,general_knowledge

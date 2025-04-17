@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,Herd,1.483,What is the name given to a group of horses?,A Heard,general_knowledge
+0.2,Herd,1.499,What is the name given to a group of horses?,A Heard,general_knowledge
+0.4,Herd,1.49,What is the name given to a group of horses?,A Heard,general_knowledge
+0.6,Herd,1.354,What is the name given to a group of horses?,A Heard,general_knowledge
+0.8,Herd,1.285,What is the name given to a group of horses?,A Heard,general_knowledge
+1.0,Herd,1.533,What is the name given to a group of horses?,A Heard,general_knowledge
+1.2,Herd,1.559,What is the name given to a group of horses?,A Heard,general_knowledge
+1.4,Herd,1.245,What is the name given to a group of horses?,A Heard,general_knowledge
+1.6,Herd,1.152,What is the name given to a group of horses?,A Heard,general_knowledge
+1.8,Herd,1.55,What is the name given to a group of horses?,A Heard,general_knowledge
+2.0,Herd,1.621,What is the name given to a group of horses?,A Heard,general_knowledge

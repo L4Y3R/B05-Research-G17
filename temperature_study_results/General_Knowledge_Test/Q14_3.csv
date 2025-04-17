@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,Platypus,1.909,Which is the only mammal that lays eggs?,Platypus,general_knowledge
+0.2,Platypus,2.127,Which is the only mammal that lays eggs?,Platypus,general_knowledge
+0.4,Platypus,2.02,Which is the only mammal that lays eggs?,Platypus,general_knowledge
+0.6,Platypus,0.961,Which is the only mammal that lays eggs?,Platypus,general_knowledge
+0.8,Platypus,0.841,Which is the only mammal that lays eggs?,Platypus,general_knowledge
+1.0,Platypus,2.09,Which is the only mammal that lays eggs?,Platypus,general_knowledge
+1.2,Platypus,1.601,Which is the only mammal that lays eggs?,Platypus,general_knowledge
+1.4,Platypus,1.218,Which is the only mammal that lays eggs?,Platypus,general_knowledge
+1.6,The platypus.,1.43,Which is the only mammal that lays eggs?,Platypus,general_knowledge
+1.8,The monotreme.,1.738,Which is the only mammal that lays eggs?,Platypus,general_knowledge
+2.0,Platypus,1.769,Which is the only mammal that lays eggs?,Platypus,general_knowledge

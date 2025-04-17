@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,Peregrine falcon,1.749,What is the world's fastest bird?,Peregrine falcon,general_knowledge
+0.2,Peregrine falcon,1.162,What is the world's fastest bird?,Peregrine falcon,general_knowledge
+0.4,Peregrine falcon,1.853,What is the world's fastest bird?,Peregrine falcon,general_knowledge
+0.6,Peregrine falcon,0.958,What is the world's fastest bird?,Peregrine falcon,general_knowledge
+0.8,Peregrine falcon,1.996,What is the world's fastest bird?,Peregrine falcon,general_knowledge
+1.0,The peregrine falcon.,1.806,What is the world's fastest bird?,Peregrine falcon,general_knowledge
+1.2,Peregrine falcon,1.275,What is the world's fastest bird?,Peregrine falcon,general_knowledge
+1.4,Peregrine falcon,1.275,What is the world's fastest bird?,Peregrine falcon,general_knowledge
+1.6,Peregrine falcon,2.299,What is the world's fastest bird?,Peregrine falcon,general_knowledge
+1.8,Peregrine falcon,0.891,What is the world's fastest bird?,Peregrine falcon,general_knowledge
+2.0,The peregrine falcon.,2.069,What is the world's fastest bird?,Peregrine falcon,general_knowledge

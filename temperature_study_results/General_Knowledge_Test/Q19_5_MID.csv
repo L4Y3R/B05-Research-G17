@@ -1,0 +1,12 @@
+temperature,response,response_time,question,correct_answer,category
+0.0,Damascus,0.771,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+0.2,Damascus,0.917,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+0.4,Damascus,0.931,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+0.6,Damascus,0.78,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+0.8,Damascus,0.856,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+1.0,Jerusalem,0.817,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+1.2,Damascus,1.014,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+1.4,Damascus,1.026,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+1.6,Jordan,0.867,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+1.8,Iraq,0.984,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
+2.0,Damascus,1.364,The capital of _________ is the oldest continuously inhabited city in the world.,Damascus,general_knowledge
